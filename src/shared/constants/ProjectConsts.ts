@@ -3,6 +3,9 @@ import { Tag } from '@site/src/shared/dto/Tag';
 
 export type ProjectTagType =
     | 'favorite'
+    // Projects built by HCMUTE DSC members for the club
+    | 'club'
+    | 'ai'
     // For open-source sites, a link to the source code is required.
     // The source should be the *website's* source, not the project's source!
     | 'opensource'
@@ -26,16 +29,34 @@ export const ProjectTags: { [type in ProjectTagType]: Tag } = {
         label: translate({ message: 'Favorite' }),
         description: translate({
             message:
-                'Our favorite Docusaurus sites that you must absolutely check out!',
+                'Những dự án nổi bật nhất của CLB',
             id: 'showcase.tag.favorite.description',
         }),
         color: '#e9669e',
     },
 
+    club: {
+        label: translate({ message: 'Club' }),
+        description: translate({
+            message: 'Dự án do thành viên HCMUTE DSC xây dựng cho CLB',
+            id: 'showcase.tag.club.description',
+        }),
+        color: '#f0622d',
+    },
+
+    ai: {
+        label: translate({ message: 'AI' }),
+        description: translate({
+            message: 'Dự án có ứng dụng AI',
+            id: 'showcase.tag.ai.description',
+        }),
+        color: '#4f6bd8',
+    },
+
     opensource: {
         label: translate({ message: 'Open-Source' }),
         description: translate({
-            message: 'Open-Source Docusaurus sites can be useful for inspiration!',
+            message: 'Dự án mã nguồn mở, có thể xem source để học hỏi',
             id: 'showcase.tag.opensource.description',
         }),
         color: '#39ca30',
@@ -44,7 +65,7 @@ export const ProjectTags: { [type in ProjectTagType]: Tag } = {
     product: {
         label: translate({ message: 'Product' }),
         description: translate({
-            message: 'Docusaurus sites associated to a commercial product!',
+            message: 'Sản phẩm đã được triển khai và sử dụng thực tế',
             id: 'showcase.tag.product.description',
         }),
         color: '#dfd545',
@@ -64,7 +85,7 @@ export const ProjectTags: { [type in ProjectTagType]: Tag } = {
         label: translate({ message: 'I18n' }),
         description: translate({
             message:
-                'Translated Docusaurus sites using the internationalization support with more than 1 locale.',
+                'Hỗ trợ nhiều ngôn ngữ',
             id: 'showcase.tag.i18n.description',
         }),
         color: '#127f82',

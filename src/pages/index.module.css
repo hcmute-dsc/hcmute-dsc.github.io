@@ -25,7 +25,8 @@
 .backgroundImage {
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  /* hero image is 16:9: never taller than that, so the logo is never cropped */
+  height: min(calc(100vh - var(--ifm-navbar-height)), 56.25vw);
 }
 
 .cardContainer {

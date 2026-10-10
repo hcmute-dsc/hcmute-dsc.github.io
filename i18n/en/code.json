@@ -3,19 +3,19 @@
     "message": "Favorite"
   },
   "showcase.tag.favorite.description": {
-    "message": "Our favorite Docusaurus sites that you must absolutely check out!"
+    "message": "The club's most outstanding projects"
   },
   "Open-Source": {
     "message": "Open-Source"
   },
   "showcase.tag.opensource.description": {
-    "message": "Open-Source Docusaurus sites can be useful for inspiration!"
+    "message": "Open-source projects you can learn from"
   },
   "Product": {
     "message": "Product"
   },
   "showcase.tag.product.description": {
-    "message": "Docusaurus sites associated to a commercial product!"
+    "message": "Deployed and used in real life"
   },
   "Design": {
     "message": "Design"
@@ -27,7 +27,7 @@
     "message": "I18n"
   },
   "showcase.tag.i18n.description": {
-    "message": "Translated Docusaurus sites using the internationalization support with more than 1 locale."
+    "message": "Available in more than one language"
   },
   "Versioning": {
     "message": "Versioning"
@@ -71,27 +71,21 @@
   "Contact me": {
     "message": "Contact me"
   },
-  "Docusaurus Site Showcase": {
-    "message": "Docusaurus Site Showcase"
-  },
-  "List of websites people are building with Docusaurus": {
-    "message": "List of websites people are building with Docusaurus"
-  },
   "showcase.header.button": {
-    "message": "🙏 Please add your site"
+    "message": "🙌 Submit your project"
   },
   "showcase.filters.resultCount": {
-    "message": "1 site|{sitesCount} sites",
+    "message": "1 project|{sitesCount} projects",
     "description": "Pluralized label for the number of sites found on the showcase. Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "showcase.filters.title": {
     "message": "Filters"
   },
   "showcase.searchBar.placeholder": {
-    "message": "Search for site name..."
+    "message": "Search by project name..."
   },
   "showcase.usersList.noResult": {
-    "message": "No result"
+    "message": "No projects found"
   },
   "showcase.favoritesList.title": {
     "message": "Featured projects"
@@ -403,5 +397,38 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "showcase.title": {
+    "message": "Club Showcase"
+  },
+  "showcase.description": {
+    "message": "Projects built by HCMUTE Developer Student Club members"
+  },
+  "showcase.tag.club.description": {
+    "message": "Projects built by HCMUTE DSC members for the club"
+  },
+  "showcase.tag.ai.description": {
+    "message": "Projects powered by AI"
+  },
+  "Club": {
+    "message": "Club"
+  },
+  "AI": {
+    "message": "AI"
+  },
+  "home.intro.title": {
+    "message": "About us"
+  },
+  "home.intro.lead": {
+    "message": "HCMUTE Developer Student Club (HCMUTE DSC) is the student developer club of Ho Chi Minh City University of Technology and Education – a place to learn together, build real-world projects and share knowledge."
+  },
+  "home.intro.caption": {
+    "message": "Our 2021 introduction video, back when the club was called GDSC HCMUTE."
+  },
+  "home.timeline.title": {
+    "message": "Our journey"
+  },
+  "home.title": {
+    "message": "HCMUTE student developer club"
   }
 }

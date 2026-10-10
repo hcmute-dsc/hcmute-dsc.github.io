@@ -84,7 +84,7 @@ function ShowcaseCard({ user }: { user: Project }) {
       <div className="card__body">
         <div className={clsx(styles.showcaseCardHeader)}>
           <Heading as="h4" className={styles.showcaseCardTitle}>
-            <Link href={user.website} className={styles.showcaseCardLink}>
+            <Link href={user.website ?? user.source} className={styles.showcaseCardLink}>
               {user.title}
             </Link>
           </Heading>

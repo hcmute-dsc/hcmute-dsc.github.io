@@ -1,10 +1,12 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import {translate} from '@docusaurus/Translate';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Image from '@theme/IdealImage';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import ClubIntro from '@site/src/components/ClubIntro';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope, faGlobe } from '@fortawesome/free-solid-svg-icons'
@@ -60,11 +62,12 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description={`${siteConfig.title}`}>
+      title={translate({id: 'home.title', message: 'Câu lạc bộ Sinh viên Lập trình HCMUTE'})}
+      description={`${siteConfig.title} – ${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <ClubIntro />
       </main>
     </Layout>
   );

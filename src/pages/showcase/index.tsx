@@ -24,11 +24,12 @@ import ShowcaseTooltip from './_components/ShowcaseTooltip';
 
 import styles from './styles.module.css';
 
-const TITLE = translate({message: 'Docusaurus Site Showcase'});
+const TITLE = translate({id: 'showcase.title', message: 'Dự án của CLB'});
 const DESCRIPTION = translate({
-  message: 'List of websites people are building with Docusaurus',
+  id: 'showcase.description',
+  message: 'Các dự án do thành viên HCMUTE Developer Student Club xây dựng',
 });
-const SUBMIT_URL = 'https://github.com/facebook/docusaurus/discussions/7826';
+const SUBMIT_URL = 'https://github.com/hcmute-dsc/hcmute-dsc.github.io/issues/new?title=%5BShowcase%5D%20';
 
 type UserState = {
   scrollTopPosition: number;
@@ -115,7 +116,7 @@ function ShowcaseHeader() {
       <p>{DESCRIPTION}</p>
       <Link className="button button--primary" to={SUBMIT_URL}>
         <Translate id="showcase.header.button">
-          🙏 Please add your site
+          🙌 Giới thiệu dự án của bạn
         </Translate>
       </Link>
     </section>
@@ -132,7 +133,7 @@ function useSiteCountPlural() {
           id: 'showcase.filters.resultCount',
           description:
             'Pluralized label for the number of sites found on the showcase. Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',
-          message: '1 site|{sitesCount} sites',
+          message: '{sitesCount} dự án',
         },
         {sitesCount},
       ),
@@ -147,7 +148,7 @@ function ShowcaseFilters() {
       <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
         <div>
           <Heading as="h2">
-            <Translate id="showcase.filters.title">Filters</Translate>
+            <Translate id="showcase.filters.title">Bộ lọc</Translate>
           </Heading>
           <span>{siteCountPlural(filteredUsers.length)}</span>
         </div>
@@ -212,7 +213,7 @@ function SearchBar() {
       <input
         id="searchbar"
         placeholder={translate({
-          message: 'Search for site name...',
+          message: 'Tìm theo tên dự án...',
           id: 'showcase.searchBar.placeholder',
         })}
         value={value ?? undefined}
@@ -245,7 +246,7 @@ function ShowcaseCards() {
       <section className="margin-top--lg margin-bottom--xl">
         <div className="container padding-vert--md text--center">
           <Heading as="h2">
-            <Translate id="showcase.usersList.noResult">No result</Translate>
+            <Translate id="showcase.usersList.noResult">Không tìm thấy dự án nào</Translate>
           </Heading>
           <SearchBar />
         </div>
@@ -267,7 +268,7 @@ function ShowcaseCards() {
                 <Heading as="h2" id='favorite-projects'>
                   <FavoriteIcon svgClass={styles.svgIconFavorite} />
                   <Translate id="showcase.favoritesList.title">
-                    Favorite projects
+                    Dự án nổi bật
                   </Translate>
                   <span className={clsx(styles.countProjects,)}>
                     {favoriteUsers.length}
@@ -289,7 +290,7 @@ function ShowcaseCards() {
           </div>
           <div className="container margin-top--lg">
             <Heading as="h2" className={styles.showcaseHeader} id='all-projects'>
-              <Translate id="showcase.usersList.allUsers">All projects</Translate>
+              <Translate id="showcase.usersList.allUsers">Tất cả dự án</Translate>
               <span className={clsx(styles.countProjects,)}>
                 {otherUsers.length}
               </span>
