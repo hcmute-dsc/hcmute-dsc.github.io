@@ -91,5 +91,5 @@ Khóa học này giới thiệu Generative AI Studio, một sản phẩm trên V
 Trên đây là toàn bộ nội dung của chương trình học tập mới về Generative AI của Google. Hy vọng nó sẽ giúp ích cho các bạn.
 
 :::note
-Mọi thắc mắc về nội dung bài viết, các bạn có thể comment bên dưới hoặc liên hệ với chúng mình qua [Facebook](https://www.facebook.com/gdsc.hcmute) nhé!
+Mọi thắc mắc về nội dung bài viết, các bạn có thể comment bên dưới hoặc liên hệ với chúng mình qua [Facebook](https://www.facebook.com/hcmute.dsc) nhé!
 :::

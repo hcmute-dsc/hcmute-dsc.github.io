@@ -24,7 +24,7 @@ function ContactItem({icon, contact, title}) {
   );
 }
 
-const backgroundImage = 'img/background/background-2023.webp';
+const backgroundImage = 'img/background/hcmute-dsc-hero.webp';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -32,7 +32,7 @@ function HomepageHeader() {
     <header className={clsx('hero', styles.heroBanner, styles.backgroundImage)} style={{backgroundImage: `url(${backgroundImage})`}}>
       <div className={clsx('container', styles.cardContainer)}>
         {/* <div className={clsx(styles.cardInfo)}>
-          <Image img='/img/logo/gdsc.svg' alt='GDSC-HCMUTE' about='GDSC-HCMUTE' className={clsx(styles.cardInfoImage)}
+          <Image img='/img/logo/hcmute-dsc-logo.png' alt='HCMUTE DSC' about='HCMUTE DSC' className={clsx(styles.cardInfoImage)}
             width={150} height={150} loading='lazy' decoding='async'/>
 
           <h1 className="hero__title">{siteConfig.title}</h1>

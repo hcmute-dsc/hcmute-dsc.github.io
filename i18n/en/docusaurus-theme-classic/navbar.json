@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "GDSC-HCMUTE",
+    "message": "HCMUTE DSC",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "GDSC-HCMUTE",
+    "message": "HCMUTE DSC",
     "description": "The alt text of navbar logo"
   },
   "item.label.Tutorial": {

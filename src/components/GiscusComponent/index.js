@@ -9,7 +9,7 @@ export default function GiscusComponent() {
 
   return (
     <Giscus    
-      repo="GDSC-HCMUTE/gdsc-hcmute.github.io"
+      repo="hcmute-dsc/hcmute-dsc.github.io"
       repoId="R_kgDOJ59bgA"
       category="General"
       categoryId="DIC_kwDOJ59bgM4CXzEm"

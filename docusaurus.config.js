@@ -4,8 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const organizationName = "GDSC-HCMUTE";
-const projectName = "GDSC-HCMUTE.github.io";
+const organizationName = "hcmute-dsc";
+const projectName = "hcmute-dsc.github.io";
 const footerLinks = [
     {
         title: 'Resources',
@@ -25,11 +25,7 @@ const footerLinks = [
         items: [
             {
                 label: 'Facebook',
-                href: 'https://www.facebook.com/gdsc.hcmute',
-            },
-            {
-                label: 'Google Developer Student Clubs',
-                href: 'https://gdsc.community.dev/ho-chi-minh-city-university-of-technology-and-education-hcmute/',
+                href: 'https://www.facebook.com/hcmute.dsc',
             },
             {
                 label: 'Discord',
@@ -42,7 +38,7 @@ const footerLinks = [
         items: [
             {
                 label: 'GitHub',
-                href: 'https://github.com/GDSC-HCMUTE',
+                href: `https://github.com/${organizationName}`,
             },
             {
                 label: 'Email',
@@ -54,8 +50,8 @@ const footerLinks = [
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Google Developer Student Clubs',
-    tagline: 'HCMC University of Technology and Education',
+    title: 'HCMUTE Developer Student Club',
+    tagline: 'Câu lạc bộ Sinh viên Lập trình HCMUTE',
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
@@ -72,6 +68,10 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     headTags: [
+        {
+            tagName: 'link',
+            attributes: { rel: 'apple-touch-icon', href: '/img/apple-touch-icon.png' },
+        },
         {
             tagName: 'meta',
             attributes: {
@@ -110,7 +110,7 @@ const config = {
                     blogSidebarCount: 'ALL',
                     blogSidebarTitle: 'Tất cả bài viết',
                     blogTitle: 'Blog',
-                    blogDescription: 'Blog của GDSC-HCMUTE',
+                    blogDescription: 'Blog của HCMUTE Developer Student Club',
                     blogListComponent: '@theme/BlogListPage',
                     blogPostComponent: '@theme/BlogPostPage',
                     blogTagsListComponent: '@theme/BlogTagsListPage',
@@ -151,13 +151,14 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
-            image: 'img/gdsc-hcmute-social-card.jpg',
+            image: 'img/hcmute-dsc-social-card.jpg',
             navbar: {
-                // title: 'GDSC-HCMUTE',
+                // title: 'HCMUTE DSC',
                 logo: {
-                    alt: 'GDSC-HCMUTE',
-                    src: 'img/logo/gdsc-hcmute.png',
-                    height: 40,
+                    alt: 'HCMUTE DSC',
+                    src: 'img/logo/hcmute-dsc-mark.png',
+                    srcDark: 'img/logo/hcmute-dsc-mark-dark.png',
+                    height: 32,
                 },
                 items: [
                     {
@@ -172,7 +173,7 @@ const config = {
                     { to: '/community', label: 'Community', position: 'left' },
                     { to: '/contact', label: 'Contact', position: 'left' },
                     {
-                        href: 'https://github.com/GDSC-HCMUTE',
+                        href: `https://github.com/${organizationName}`,
                         // label: 'GitHub',
                         position: 'right',
                         className: "header-github-link",
@@ -186,14 +187,14 @@ const config = {
             footer: {
                 style: 'light',
                 links: footerLinks,
-                copyright: `Copyright © ${new Date().getFullYear()} GDSC-HCMUTE.`,
+                copyright: `Copyright © ${new Date().getFullYear()} HCMUTE Developer Student Club.`,
             },
             prism: {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
             metadata: [
-                { name: 'keywords', content: 'GDSC-HCMUTE, Google Developer Student Clubs, blog, coding, tools' },
+                { name: 'keywords', content: 'HCMUTE DSC, HCMUTE Developer Student Club, CLB Sinh viên Lập trình HCMUTE, blog, coding, tools' },
             ]
         }),
 };

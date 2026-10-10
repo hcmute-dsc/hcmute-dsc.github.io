@@ -12,7 +12,7 @@ import styles from './styles.module.css';
 import { ProjectTagList, ProjectTagType, ProjectTags } from '@site/src/shared/constants/ProjectConsts';
 import { Tag } from '@site/src/shared/dto/Tag';
 
-const GDSCHCMUTE = require('@site/static/img/gdsc-hcmute-social-card.jpg');
+const HCMUTEDSC = require('@site/static/img/hcmute-dsc-social-card.jpg');
 
 const TagComp = React.forwardRef<HTMLLIElement, Tag>(
   ({ label, color, description }, ref) => (
@@ -56,7 +56,7 @@ function getCardImage(user: Project): string {
     return user.preview;
   }
   if (user.website) {
-    var img = user.website ?? 'https://github.com/GDSC-HCMUTE'
+    var img = user.website ?? 'https://github.com/hcmute-dsc'
     // var yyyyMMdd = new Date().toISOString().slice(0, 10).replace(/-/g, '');
     var yyyyMMddhhmm = new Date().toISOString().slice(0, 16).replace(/-/g, '').replace(/:/g, '').replace(/T/g, '');
 
@@ -70,7 +70,7 @@ function getCardImage(user: Project): string {
     //   `https://slorber-api-screenshot.netlify.app/${encodeURIComponent(img)}/showcase/_${yyyyMMddhhmm}`
     // );
   }
-  return GDSCHCMUTE;
+  return HCMUTEDSC;
 }
 
 function ShowcaseCard({ user }: { user: Project }) {
