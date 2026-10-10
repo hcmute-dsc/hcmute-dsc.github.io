@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[1570],{5406:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/learning","page":1,"postsPerPage":5,"totalPages":1,"totalCount":3,"blogDescription":"Blog c\u1ee7a HCMUTE Developer Student Club","blogTitle":"Blog"}')}}]);

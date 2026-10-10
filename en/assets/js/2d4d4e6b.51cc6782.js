@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgdsc_hcmute_github_io=self.webpackChunkgdsc_hcmute_github_io||[]).push([[7631],{6837:s=>{s.exports=JSON.parse('{"label":"sql","permalink":"/en/blog/tags/sql","allTagsPath":"/en/blog/tags","count":1}')}}]);
