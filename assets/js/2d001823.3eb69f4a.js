@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[18406],{79823:s=>{s.exports=JSON.parse('{"label":"soft-skills","permalink":"/blog/tags/soft-skills","allTagsPath":"/blog/tags","count":3}')}}]);

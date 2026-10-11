@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[52675],{25652:s=>{s.exports=JSON.parse('{"label":"design-patterns","permalink":"/blog/tags/design-patterns","allTagsPath":"/blog/tags","count":1}')}}]);

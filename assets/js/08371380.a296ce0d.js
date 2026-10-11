@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[39078],{13473:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/chia-se-tu-group","page":1,"postsPerPage":12,"totalPages":2,"totalCount":24,"nextPage":"/blog/tags/chia-se-tu-group/page/2","blogDescription":"Blog c\u1ee7a HCMUTE Developer Student Club","blogTitle":"Blog"}')}}]);
