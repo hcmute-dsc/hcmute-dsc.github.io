@@ -13,7 +13,7 @@ export const CONTACTS = {
     icon: require('@site/static/img/logo/github.svg').default,
   } as Contact,
   Email: {
-    link: 'mailto:dsc.hcmute@gmail.com',
+    link: 'mailto:clb.dsc@student.hcmute.edu.vn',
     icon: require('@site/static/img/logo/email.svg').default,
   } as Contact,
   Website: {

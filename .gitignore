@@ -18,3 +18,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# raw Facebook scrape (personal data, large) - see scripts/facebook-archive
+scripts/facebook-archive/data/
+__pycache__/

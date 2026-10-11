@@ -5,14 +5,14 @@ export type Milestone = {
   link?: string;
 };
 
-// Newest last. Keep entries short: one title + one or two sentences.
+// Oldest first. Sources: the club's Facebook posts, archived under /news.
 export const TIMELINE: Milestone[] = [
   {
-    date: { vi: '07/2021', en: 'Jul 2021' },
-    title: { vi: 'Khởi đầu với tên GDSC HCMUTE', en: 'Starting out as GDSC HCMUTE' },
+    date: { vi: '2021', en: '2021' },
+    title: { vi: 'Ra đời với tên GDSC HCMUTE', en: 'Founded as GDSC HCMUTE' },
     description: {
-      vi: 'CLB bắt đầu hành trình với tên Google Developer Student Clubs – HCMUTE, kết nối sinh viên yêu thích công nghệ tại HCMUTE.',
-      en: 'The club starts its journey as Google Developer Student Clubs – HCMUTE, bringing together tech-loving students at HCMUTE.',
+      vi: 'CLB Sinh viên Lập trình Google – HCMUTE (Google Developer Student Clubs – HCMUTE) được thành lập tại khoa Công nghệ Thông tin.',
+      en: 'Google Developer Student Clubs – HCMUTE is founded at the Faculty of Information Technology.',
     },
   },
   {
@@ -25,37 +25,57 @@ export const TIMELINE: Milestone[] = [
     link: 'https://www.youtube.com/watch?v=hdXo_brnj9M',
   },
   {
-    date: { vi: '07/2023', en: 'Jul 2023' },
-    title: { vi: 'Website & blog của CLB', en: 'Club website & blog' },
+    date: { vi: '08/2022', en: 'Aug 2022' },
+    title: { vi: 'Cuộc thi HCMUTE CTF đầu tiên', en: 'First HCMUTE CTF' },
     description: {
-      vi: 'Ra mắt website, nơi chia sẻ bài viết, tài liệu và các dự án của thành viên.',
-      en: 'The club website launches as a home for articles, tutorials and member projects.',
+      vi: 'Tổ chức cuộc thi học thuật "Sinh viên với An toàn Thông tin" (HCMUTE CTF) lần thứ nhất.',
+      en: 'The club runs the first "Students and Information Security" contest (HCMUTE CTF).',
     },
+    link: '/news/2022/08/26/kick-off-cuoc-thi-hoc-thuat-sinh-vien-voi-an-toan-thong-tin',
   },
   {
-    date: { vi: '2024', en: '2024' },
-    title: { vi: 'Dự án Study Jam', en: 'Study Jam project' },
+    date: { vi: '2023', en: '2023' },
+    title: { vi: 'Workshop Git & GitHub, GDSC Vietnam Hackathon', en: 'Git & GitHub workshop, GDSC Vietnam Hackathon' },
     description: {
-      vi: 'Thành viên xây dựng web app Study Jam (Next.js + Spring Boot) và công khai mã nguồn để cùng học hỏi.',
-      en: 'Members build the Study Jam web app (Next.js + Spring Boot) and open-source it for everyone to learn from.',
+      vi: 'Workshop Git & GitHub đầu tiên, đồng hành cùng GDSC Vietnam Hackathon 2023 và ra mắt website của CLB.',
+      en: 'First Git & GitHub workshop, GDSC Vietnam Hackathon 2023 and the launch of the club website.',
     },
-    link: '/showcase',
+    link: '/news/2023/02/20/workshop-git-github-recap',
+  },
+  {
+    date: { vi: '02–04/2024', en: 'Feb–Apr 2024' },
+    title: { vi: 'Git & GitHub Study Jam', en: 'Git & GitHub Study Jam' },
+    description: {
+      vi: 'Chương trình học và thực hành Git & GitHub theo đội cho sinh viên khoa CNTT, đồng hành cùng KMS Healthcare.',
+      en: 'A team-based Git & GitHub learning program for IT students, sponsored by KMS Healthcare.',
+    },
+    link: '/news/2024/04/06/tong-ket-git-github-study-jam',
+  },
+  {
+    date: { vi: '10/2024', en: 'Oct 2024' },
+    title: { vi: 'Trở thành HCMUTE Developer Student Club', en: 'Becoming HCMUTE Developer Student Club' },
+    description: {
+      vi: 'Rời chương trình Google Developer Student Clubs, CLB đổi tên thành CLB Sinh viên Lập trình HCMUTE (HCMUTE DSC) với định hướng và bộ nhận diện mới, đồng thời kỷ niệm 3 năm thành lập.',
+      en: 'Leaving the Google Developer Student Clubs program, the club becomes HCMUTE Developer Student Club (HCMUTE DSC) with a new direction and identity, and celebrates its 3rd anniversary.',
+    },
+    link: '/news/2024/10/14/thong-bao-quan-trong-tu-clb-gdsc-hcmute',
   },
   {
     date: { vi: '2025', en: '2025' },
-    title: { vi: 'Trở thành HCMUTE Developer Student Club', en: 'Becoming HCMUTE Developer Student Club' },
+    title: { vi: 'SQL Challenge & Git & GitHub Study Jam 2025', en: 'SQL Challenge & Git & GitHub Study Jam 2025' },
     description: {
-      vi: 'CLB đổi tên thành HCMUTE Developer Student Club (HCMUTE DSC) với nhận diện mới, cùng loạt dự án ứng dụng AI như Web CV Boots AI và AI CheckFace.',
-      en: 'The club is renamed HCMUTE Developer Student Club (HCMUTE DSC) with a new identity, alongside AI projects such as Web CV Boots AI and AI CheckFace.',
+      vi: 'Learning Sprint SQL Challenge, workshop Bảo vệ quyền lợi lao động trong ngành CNTT và Git & GitHub Study Jam 2025 với các sản phẩm của từng đội.',
+      en: 'Learning Sprint SQL Challenge, a workshop on labour rights in IT, and Git & GitHub Study Jam 2025 with products from every team.',
     },
+    link: '/news/2025/12/15/tong-ket-git-github-study-jam-2025-hcmute-dsc',
   },
   {
-    date: { vi: '10/2026', en: 'Oct 2026' },
-    title: { vi: 'ClubDay 2026 & website mới', en: 'ClubDay 2026 & new website' },
+    date: { vi: '2026', en: '2026' },
+    title: { vi: 'InterviewPrep101, ClubDay & tuyển Gen 7', en: 'InterviewPrep101, ClubDay & Gen 7' },
     description: {
-      vi: 'Ra mắt ClubDay – bộ mini game cho sự kiện CLB – và website mới tại hcmute-dsc.io.vn.',
-      en: 'Launch of ClubDay – mini games for club events – and the new website at hcmute-dsc.io.vn.',
+      vi: 'Chuỗi InterviewPrep101, SQL Challenge 2026, tuyển thành viên Gen 7, ra mắt ClubDay và website mới tại hcmute-dsc.io.vn.',
+      en: 'The InterviewPrep101 series, SQL Challenge 2026, Gen 7 recruitment, ClubDay and the new website at hcmute-dsc.io.vn.',
     },
-    link: 'https://club-day.hcmute-dsc.io.vn',
+    link: '/news/tags/tuyen-thanh-vien',
   },
 ];

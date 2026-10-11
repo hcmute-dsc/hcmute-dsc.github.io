@@ -1,0 +1,42 @@
+---
+title: "QA GDSC - Question – Loa loa loa, chào buổi tối mọi người Tiếp nối các câu hỏi trong bài Test học thuật, thì…"
+date: 2021-08-11
+category: doi-song-clb
+tags:
+  - label: "Đời sống CLB"
+    permalink: /doi-song-clb
+  - label: "Q&A"
+    permalink: /qa
+image: ./img-1.webp
+description: "[QA GDSC - Question] Loa loa loa, chào buổi tối mọi người Tiếp nối các câu hỏi trong bài Test học thuật, thì hôm nay, tụi mình cùng đổi gió sang một câu hỏ"
+---
+
+\[QA GDSC - Question\]
+  
+Loa loa loa, chào buổi tối mọi người
+
+<!--truncate-->
+
+![QA GDSC - Question – Loa loa loa, chào buổi tối mọi người Tiếp nối các câu hỏi trong bài Test học thuật, thì…](./img-1.webp)
+
+  
+ Tiếp nối các câu hỏi trong bài Test học thuật, thì hôm nay, tụi mình cùng đổi gió sang một câu hỏi về kỹ năng nhận biết các bạn nhá ^^
+
+  
+ Vậy, đ𝑎̂𝑢 𝑙𝑎̀ 𝑦𝑒̂́𝑢 𝑡𝑜̂́ 𝑡ℎ𝑢𝑜̣̂𝑐 𝑝ℎ𝑎̂̉𝑚 𝑐ℎ𝑎̂́𝑡 𝑐𝑢̉𝑎 𝑛𝑔𝑢̛𝑜̛̀𝑖 𝑙𝑎̃𝑛ℎ đ𝑎̣𝑜
+
+  
+ Bình tĩnh tự tin và để lại React cũng như Comment để GDSC - HCMUTE chúng mình xem có bao nhiêu bạn vượt qua thử thách lần này nào
+
+  
+Đừng quên Like và Follow Page để đón chờ phần Answer được lên sóng vào ngày mai nha  
+---------------------------  
+QA with GDSC HCMUTE là chuyên mục do GDSC - HCMUTE thực hiện với mong muốn cung cấp các kiến thức và thông tin hữu ích, giúp các bạn có thêm các tips thú vị trong lĩnh vực Công nghệ Thông tin thông qua Question và Answer được lên sóng hàng ngày!
+  
+ Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
+  
+\#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE #GDSC\_QA
+
+---
+
+_Bài viết được lưu trữ từ [fanpage HCMUTE Developer Student Club](https://www.facebook.com/hcmute.dsc)._

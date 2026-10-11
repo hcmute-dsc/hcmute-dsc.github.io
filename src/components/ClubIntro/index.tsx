@@ -18,7 +18,7 @@ function IntroVideo() {
         </Heading>
         <p className={styles.lead}>
           <Translate id="home.intro.lead">
-            HCMUTE Developer Student Club (HCMUTE DSC) là câu lạc bộ sinh viên lập trình tại Trường Đại học Sư phạm Kỹ thuật TP.HCM – nơi cùng nhau học hỏi, xây dựng dự án thực tế và chia sẻ kiến thức.
+            Câu lạc bộ Sinh viên Lập trình HCMUTE (HCMUTE DSC) là câu lạc bộ học thuật mở và năng động dành cho tất cả sinh viên đam mê công nghệ – lập trình, trực thuộc khoa Công nghệ Thông tin, Trường Đại học Công nghệ Kỹ thuật TP.HCM.
           </Translate>
         </p>
         <div className={styles.video}>
