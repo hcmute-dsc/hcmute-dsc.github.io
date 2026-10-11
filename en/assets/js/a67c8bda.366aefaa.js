@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[26868],{37033:e=>{e.exports=JSON.parse('{"label":"InterviewPrep101","permalink":"/en/news/tags/interviewprep101","allTagsPath":"/en/news/tags","count":12}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[83064],{58678:e=>{e.exports=JSON.parse('{"label":"Ban ch\u1ee7 nhi\u1ec7m","permalink":"/en/news/tags/ban-chu-nhiem","allTagsPath":"/en/news/tags","count":11}')}}]);
