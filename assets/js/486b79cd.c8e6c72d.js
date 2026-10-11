@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[67199],{28936:s=>{s.exports=JSON.parse('{"label":"Workshop & sinh ho\u1ea1t","permalink":"/news/tags/workshop-sinh-hoat","allTagsPath":"/news/tags","count":51}')}}]);
