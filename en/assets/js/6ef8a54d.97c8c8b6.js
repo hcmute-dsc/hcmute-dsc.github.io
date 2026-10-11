@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[35503],{7882:e=>{e.exports=JSON.parse('{"permalink":"/en/blog/page/4","page":4,"postsPerPage":5,"totalPages":4,"totalCount":18,"previousPage":"/en/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -2,11 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcmute-dsc.io.vn/en/blog</id>
     <title>HCMUTE Developer Student Club Blog</title>
-    <updated>2023-11-02T00:00:00.000Z</updated>
+    <updated>2026-10-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcmute-dsc.io.vn/en/blog"/>
     <subtitle>HCMUTE Developer Student Club Blog</subtitle>
     <icon>https://hcmute-dsc.io.vn/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Diagram Design: dạy AI agent vẽ sơ đồ kỹ thuật gọn, đẹp và đúng màu thương hiệu]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/diagram-design-ai-agent</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/diagram-design-ai-agent"/>
+        <updated>2026-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Các bạn học trên trường chắc cũng quen với các loại diagram (ERD, class diagram, sequence diagram...). Nhưng mà xưa giờ thì mình thường dùng mấy phần mềm chuyên dụng, hoặc vẽ tay…]]></summary>
+        <content type="html"><![CDATA[<p>Các bạn học trên trường chắc cũng quen với các loại diagram (ERD, class diagram, sequence diagram...). Nhưng mà xưa giờ thì mình thường dùng mấy phần mềm chuyên dụng, hoặc vẽ tay trên drawio.</p><p>Gần đây thì việc dùng AI agents ngày càng phổ biến, đặc biệt là Claude, Codex, Github Copilot... Thì việc sử dụng các skills cho AI ngày càng được ưa chuộng.</p><p>Hôm nay anh xin giới thiệu 1 skill free, mà theo anh thấy thì rất đáng để dùng. Diagram Design là một skill mã nguồn mở cho Claude Code, Codex và GitHub Copilot. Cài vào, agent sẽ vẽ sơ đồ kiến trúc, flowchart, sequence và hơn 40 loại khác theo một bộ quy tắc thiết kế chặt, xuất ra một file HTML duy nhất.</p><p>[<a href="https://tiennhm.io.vn/blog/diagram-design-skill-ve-so-do-cho-ai-agent" target="_blank" rel="noopener noreferrer">https://tiennhm.io.vn/blog/diagram-design-skill-ve-so-do-cho-ai-agent</a>)</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 10/10/2026.</em></p>]]></content>
+        <author>
+            <name>Nguyễn Huỳnh Minh Tiến</name>
+            <uri>https://github.com/TienNHM</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="diagram" term="diagram"/>
+        <category label="claude" term="claude"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cảnh báo bảo mật liên quan đến package Axios]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/canh-bao-bao-mat-axios</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/canh-bao-bao-mat-axios"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trong trường hợp mọi người chưa biết, thì cuối tháng 3 vừa rồi, một thư viện HTTP client nổi tiếng trong hệ sinh thái JS - Axios - bị hacker tấn công để phát tán mã độc. Phiên bản…]]></summary>
+        <content type="html"><![CDATA[<p>Trong trường hợp mọi người chưa biết, thì cuối tháng 3 vừa rồi, một thư viện HTTP client nổi tiếng trong hệ sinh thái JS - Axios - bị hacker tấn công để phát tán mã độc.</p><p>Phiên bản bị ảnh hưởng là <strong><em><a href="mailto:axios@1.14.1" target="_blank" rel="noopener noreferrer">axios@1.14.1</a></em></strong> và <strong><em><a href="mailto:axios@0.30.4" target="_blank" rel="noopener noreferrer">axios@0.30.4</a></em></strong></p><p>Vì đây là một thư viện có độ phổ biến rất cao, nên có thể các bạn đã và đang dùng trong nhiều project. Và thậm chí, nếu các bạn không trực tiếp cài Axios thì vẫn có khả năng những package khác các bạn đang dùng lại phụ thuộc vào Axios.</p><p>Nếu các bạn mới biết được tin này, thì hãy kiểm tra ngay trong máy của mình xem có sử dụng 2 phiên bản bị dính mã độc ở trên hay không nha.</p><p>Có một link chi tiết về vụ tấn công này, mọi người có thể tham khảo:</p><p><a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan" target="_blank" rel="noopener noreferrer">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</a></p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 01/04/2026.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="security" term="security"/>
+        <category label="javascript" term="javascript"/>
+        <category label="npm" term="npm"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AI Pro miễn phí 1 năm cho sinh viên]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/google-ai-pro-mien-phi-cho-sinh-vien</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/google-ai-pro-mien-phi-cho-sinh-vien"/>
+        <updated>2025-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Góc sẻ chia Mình thấy Google đang có gói Google AI Pro miễn phí 1 năm dành cho sinh viên, đoán là sẽ có người chưa biết nên bài viết này xuất hiện ở đây Gói Google AI Pro giúp bạn…]]></summary>
+        <content type="html"><![CDATA[<p>Góc sẻ chia</p><p>Mình thấy Google đang có gói Google AI Pro miễn phí 1 năm dành cho sinh viên, đoán là sẽ có người chưa biết nên bài viết này xuất hiện ở đây</p><p><a href="https://one.google.com/ai?sc=EgIIAQ&amp;hl=vi-VN" target="_blank" rel="noopener noreferrer">Gói Google AI Pro</a> giúp bạn khai thác AI ưu việt nhất của Google cho việc học tập. <strong>Ứng dụng Gemini trong gói Pro</strong> cho phép bạn khai thác AI thế hệ mới của Google – trợ thủ hoàn hảo giúp bạn tìm hiểu sâu hơn về các chủ đề cụ thể hoặc hoàn thành những công việc phức tạp. <strong>Gemini trong Gmail, Tài liệu và nhiều sản phẩm khác</strong> giúp bạn nâng cao năng suất bằng cách sử dụng AI để hỗ trợ viết nội dung, sắp xếp và đơn giản hoá công việc, trong khi <strong>NotebookLM trong gói Pro</strong> cho phép bạn sử dụng trợ lý nghiên cứu AI cá nhân với hạn mức cao hơn.</p><p>Ngoài ra, bạn còn được hưởng mọi đặc quyền của <a href="https://one.google.com/about?hl=vi-VN" target="_blank" rel="noopener noreferrer">gói thành viên Google One</a>, chẳng hạn như bộ nhớ mở rộng để sao lưu dữ liệu lên đám mây.</p><p>Chi tiết m.n có thể tham khảo và đăng ký tại đây nha:</p><p><a href="https://one.google.com/intl/vi_vn/about/articles/google-ai-for-students/" target="_blank" rel="noopener noreferrer">https://one.google.com/intl/vi_vn/about/articles/google-ai-for-students/</a></p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 08/10/2025.</em></p>]]></content>
+        <author>
+            <name>Lee Cường</name>
+            <uri>https://github.com/leecuongv</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="gemini" term="gemini"/>
+        <category label="google" term="google"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quản lý nhiều phiên bản JDK, Maven, Gradle cho dân Java]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/quan-ly-nhieu-phien-ban-jdk</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/quan-ly-nhieu-phien-ban-jdk"/>
+        <updated>2025-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[À nhon mọi người 👋, Hẳn nhiều bạn học CNTT (đặc biệt là khi làm với Java, Spring Boot, Kotlin, Scala, Maven, Gradle... ) đã gặp tình huống: Máy cài nhiều phiên bản JDK (Java 8,…]]></summary>
+        <content type="html"><![CDATA[<p>À nhon mọi người 👋,</p><p>Hẳn nhiều bạn học CNTT (đặc biệt là khi làm với <strong>Java, Spring Boot, Kotlin, Scala, Maven, Gradle...</strong>) đã gặp tình huống:</p><ul><li>Máy cài <strong>nhiều phiên bản JDK</strong> (Java 8, 11, 17, 21…) nhưng chuyển qua lại cực phiền 😫</li><li>Muốn thử version mới nhưng sợ rối loạn môi trường</li><li>Cần cài nhanh Maven/Gradle nhưng không muốn mò thủ công từng bước</li></ul><p>👉 Lúc này, <strong>SDKMAN!</strong> chính là “cứu tinh” 🎯</p><p>(Nay mình nhận 1 project bên ngoài để làm, nhưng project này yêu cầu Java 17 trong khi các project trên công ty đều yêu cầu Java 8 . Mình chuyển đổi phiên bản Java thì nhớ hồi mình từng dùng SDKMAN, nên sẵn tiện viết bài để giới thiệu cho mọi người)  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-sdkman-là-gì">🔹 SDKMAN! là gì?<a href="#-sdkman-là-gì" class="hash-link" aria-label="Direct link to 🔹 SDKMAN! là gì?" title="Direct link to 🔹 SDKMAN! là gì?">​</a></h2><ul><li>Là một công cụ CLI (dùng trong terminal) dành cho macOS, Linux (Windows dùng qua WSL).</li><li>Cho phép <strong>cài đặt, gỡ, chuyển đổi version</strong> của Java, Kotlin, Scala, Maven, Gradle... cực nhanh.</li><li>Kiểu như <strong>nvm</strong> cho Node.js, nhưng dành cho Java và các công cụ trong hệ sinh thái JVM.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-cách-cài-đặt-sdkman">🔹 Cách cài đặt SDKMAN!<a href="#-cách-cài-đặt-sdkman" class="hash-link" aria-label="Direct link to 🔹 Cách cài đặt SDKMAN!" title="Direct link to 🔹 Cách cài đặt SDKMAN!">​</a></h2><p>Mở terminal và chạy lệnh:</p><p><code>curl -s "https://get.sdkman.io"</code> | bash<br>
+<code>source "$HOME</code>/.sdkman/bin/sdkman-init.sh"</p><p>Kiểm tra cài thành công chưa: sdk version</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-các-lệnh-hay-dùng">🔹 Các lệnh hay dùng<a href="#-các-lệnh-hay-dùng" class="hash-link" aria-label="Direct link to 🔹 Các lệnh hay dùng" title="Direct link to 🔹 Các lệnh hay dùng">​</a></h2><ul><li><p>Xem các version Java có sẵn: sdk list java</p></li><li><p>Cài Java 17: sdk install java 17.0.8-tem</p></li><li><p>Chuyển tạm thời sang Java 17: sdk use java 17.0.8-tem</p></li><li><p>Đặt mặc định Java 21: sdk default java 21.0.1-tem</p></li><li><p>Gỡ version không cần: sdk uninstall java 11.0.20-tem</p></li></ul><p>👉 Tất cả chỉ cần 1–2 lệnh, không phải mò và sửa đường dẫn <code>JAVA_HOME</code> thủ công nữa ✅</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-lợi-ích-cho-sinh-viên-cntt">🔹 Lợi ích cho sinh viên CNTT<a href="#-lợi-ích-cho-sinh-viên-cntt" class="hash-link" aria-label="Direct link to 🔹 Lợi ích cho sinh viên CNTT" title="Direct link to 🔹 Lợi ích cho sinh viên CNTT">​</a></h2><ul><li>Dễ dàng <strong>test project ở nhiều version JDK</strong> (ví dụ làm bài tập bằng Java 8 nhưng project Spring Boot yêu cầu Java 17).</li><li><strong>Tiết kiệm thời gian</strong> cài đặt Maven, Gradle, Kotlin...</li><li>Giúp việc tìm phiên bàn Java phù hợp mà k<strong>hông mất quá nhiều công sức để cài đặt</strong></li><li>Giúp quen với công cụ mà <strong>lập trình viên chuyên nghiệp hay dùng</strong>.</li></ul><p>Tin mình đi, một khi quen rồi thì không muốn quay lại “cài tay” nữa đâu 😎</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 04/10/2025.</em></p>]]></content>
+        <author>
+            <name>Lee Cường</name>
+            <uri>https://github.com/leecuongv</uri>
+        </author>
+        <category label="java" term="java"/>
+        <category label="tooling" term="tooling"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Những lệnh Git hay dùng]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/git-commands</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/git-commands"/>
+        <updated>2025-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nay anh lướt LinkedIn thấy 1 bài cũng hay hay, nên share cho m.n nè. 𝟭. 𝗴𝗶𝘁 𝗱𝗶𝗳𝗳: Show file differences not yet staged. Hiển thị sự khác biệt của các tệp chưa được staged (chưa…]]></summary>
+        <content type="html"><![CDATA[<blockquote><p><em>Nay anh lướt LinkedIn thấy 1 bài cũng hay hay, nên share cho m.n nè.</em></p></blockquote><p>𝟭. 𝗴𝗶𝘁 𝗱𝗶𝗳𝗳: Show file differences not yet staged.</p><blockquote><p>Hiển thị sự khác biệt của các tệp chưa được staged (chưa dùng <code>git add</code>)</p></blockquote><p>𝟮. 𝗴𝗶𝘁 𝗰𝗼𝗺𝗺𝗶𝘁 -𝗮 -𝗺 "𝗰𝗼𝗺𝗺𝗶𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲": Commit all tracked changes with a message.</p><blockquote><p>Commit tất cả thay đổi của các tệp được tracked.</p></blockquote><p>𝟯. 𝗴𝗶𝘁 𝘀𝘁𝗮𝘁𝘂𝘀: Show the state of your working directory.</p><blockquote><p>Hiển thị trạng thái thư mục làm việc (các thay đổi chưa staged, chưa tracked, hoặc đã sẵn sàng để commit).</p></blockquote><p>𝟰. 𝗴𝗶𝘁 𝗮𝗱𝗱 𝗳𝗶𝗹𝗲_𝗽𝗮𝘁𝗵:Add file(s) to the staging area.</p><blockquote><p>Thêm file vào staging area. VD: <code>git add file.txt</code> sẽ thêm file.txt vào staging area.</p></blockquote><p>𝟱. 𝗴𝗶𝘁 𝗰𝗵𝗲𝗰𝗸𝗼𝘂𝘁 -𝗯 𝗯𝗿𝗮𝗻𝗰𝗵_𝗻𝗮𝗺𝗲: Create and switch to a new branch.</p><blockquote><p>Tạo và chuyển sang nhánh mới. VD: <code>git checkout -b features/login</code> sẽ tạo nhánh <code>features/login</code> và chuyển sang nhánh này.</p></blockquote><p>𝟲. 𝗴𝗶𝘁 𝗰𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗯𝗿𝗮𝗻𝗰𝗵_𝗻𝗮𝗺𝗲: Switch to an existing branch.</p><blockquote><p>Chuyển sang nhánh đã tồn tại.</p></blockquote><p>𝟳. 𝗴𝗶𝘁 𝗰𝗼𝗺𝗺𝗶𝘁 --𝗮𝗺𝗲𝗻𝗱:Modify the last commit.</p><blockquote><p>Sửa đổi nội dung commit cuối cùng.</p></blockquote><p>𝟴. 𝗴𝗶𝘁 𝗽𝘂𝘀𝗵 𝗼𝗿𝗶𝗴𝗶𝗻 𝗯𝗿𝗮𝗻𝗰𝗵_𝗻𝗮𝗺𝗲: Push a branch to a remote.</p><blockquote><p>Push nhánh hiện tại lên remote repository (GitHub, GitLab, ...). VD: <code>git push origin features/login</code></p></blockquote><p>𝟵. 𝗴𝗶𝘁 𝗽𝘂𝗹𝗹: Fetch and merge remote changes.</p><blockquote><p>Lấy và merge thay đổi từ remote repository. VD: <code>git pull origin main</code>.</p></blockquote><p>𝟭𝟬. 𝗴𝗶𝘁 𝗿𝗲𝗯𝗮𝘀𝗲 -𝗶: Rebase interactively, rewrite commit history.</p><blockquote><p>Rebase ở chế độ tương tác (interactive), sửa lịch sử commit. VD: <code>git rebase -i HEAD~3</code> dùng để sửa 3 commit gần nhất.</p></blockquote><p>𝟭𝟭. 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲: Create a local copy of a remote repo.</p><blockquote><p>Tạo bản sao local từ remote repository (tải repo về máy). VD: <code>git clone https://github.com/TienNHM/TienNHM.git</code>.</p></blockquote><p>𝟭𝟮. 𝗴𝗶𝘁 𝗺𝗲𝗿𝗴𝗲 <strong>source_branch_name</strong>: Merge branches together.</p><blockquote><p>Gộp nhánh source_branch_name vào nhánh hiện tại. VD: Đang trên nhánh <code>main</code>, chạy lệnh <code>git merge features/login</code> sẽ gộp các commit của nhánh <code>features/login</code> vào nhánh <code>main</code>.</p></blockquote><p>𝟭𝟯. 𝗴𝗶𝘁 𝗹𝗼𝗴 --𝘀𝘁𝗮𝘁: Show commit logs with stats.</p><blockquote><p>Hiển thị log commit kèm thống kê.</p></blockquote><p>𝟭𝟰. 𝗴𝗶𝘁 𝘀𝘁𝗮𝘀𝗵: Stash changes for later.</p><blockquote><p>Lưu tạm thay đổi chưa commit. Thường dùng khi đang code trên nhánh A, nhưng chưa xong thì cần chuyển sang nhánh B để fix bugs. Khi đó cần stash các thay đổi trên nhánh A lại.</p></blockquote><p>𝟭𝟱. 𝗴𝗶𝘁 𝘀𝘁𝗮𝘀𝗵 𝗽𝗼𝗽: Apply and remove stashed changes.</p><blockquote><p>Áp dụng các thay đổi và xóa stash (khi đang có ít nhất 1 stash). Sau khi đã hoàn thành fix bugs trên nhánh B, cần quay lại nhánh A để tiếp tục code, thì ta lấy lại các thay đổi vừa tash ở bước vừa rồi.</p></blockquote><p>𝟭𝟲. 𝗴𝗶𝘁 𝘀𝗵𝗼𝘄 𝗰𝗼𝗺𝗺𝗶𝘁_𝗶𝗱: Show details about a commit.</p><blockquote><p>Hiển thị thông tin chi tiết của commit dựa vào id của nó.</p></blockquote><p>𝟭𝟳. 𝗴𝗶𝘁 𝗿𝗲𝘀𝗲𝘁 𝗛𝗘𝗔𝗗~𝟭: Undo the last commit, preserving changes locally.</p><blockquote><p>Hoàn tác commit cuối nhưng giữ lại các thay đổi. Áp dụng khi lỡ vô tình commit, nhưng chưa hoàn thành xong task, cần bổ sung thêm các update.</p></blockquote><p><strong>18.</strong> 𝗴𝗶𝘁 𝗯𝗿𝗮𝗻𝗰𝗵 -𝗗 𝗯𝗿𝗮𝗻𝗰𝗵_𝗻𝗮𝗺𝗲: Delete a branch forcefully.</p><blockquote><p>Xóa nhánh cục bộ một cách ép buộc (nhánh trên máy local), bỏ qua không check các ràng buộc.</p></blockquote><p>𝟭<strong>9.</strong> 𝗴𝗶𝘁 𝗿𝗲𝘀𝗲𝘁 <strong>commit_id</strong>: Undo commits by moving branch reference.</p><blockquote><p>Chuyển tham chiếu HEAD của nhánh hiện tại về <code>commit_id</code>.</p></blockquote><p>𝟮<strong>0</strong>. 𝗴𝗶𝘁 𝗿𝗲𝘃𝗲𝗿𝘁<strong> commit_id</strong>: Undo commits by creating a new commit.</p><blockquote><p>Tạo ra một commit mới với nội dung <strong>ngược lại</strong> những thay đổi đã được thực hiện trong commit <code>commit_id</code></p></blockquote><p>𝟮<strong>1</strong>. 𝗴𝗶𝘁 𝗰𝗵𝗲𝗿𝗿𝘆-𝗽𝗶𝗰𝗸 𝗰𝗼𝗺𝗺𝗶𝘁_𝗶𝗱: Apply changes from a specific commit.</p><blockquote><p>Lấy tất cả những thay đổi từ commit <code>commit_id</code> áp dụng cho nhánh hiện tại.</p></blockquote><p>𝟮<strong>2</strong>. 𝗴𝗶𝘁 𝗯𝗿𝗮𝗻𝗰𝗵: Lists branches.</p><blockquote><p>Liệt kê tất cả các nhánh.</p></blockquote><p>𝟮<strong>3</strong>. 𝗴𝗶𝘁 𝗿𝗲𝘀𝗲𝘁 --𝗵𝗮𝗿𝗱 <strong>commit_id</strong>: Resets everything to a previous commit, erasing all uncommitted changes.</p><blockquote><p>Hoàn tác mọi thay đổi trên nhánh hiện tại và quay về commit cũ (<code>commit_id</code>). Lịch sử các commit sau <code>commit_id</code><strong> bị mất</strong>. Các thay đổi chưa được commit hoặc chưa được staged <strong>sẽ bị xóa</strong>.</p></blockquote><p>#share</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 18/01/2025.</em></p>]]></content>
+        <author>
+            <name>Nguyễn Huỳnh Minh Tiến</name>
+            <uri>https://github.com/TienNHM</uri>
+        </author>
+        <category label="git" term="git"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeetCode daily: thử sức với Bit Manipulation]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/leetcode-bit-manipulation</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/leetcode-bit-manipulation"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chào buổi trưa mí bạn. Hôm nay LeetCode có một bài daily challenge về chủ đề Bit Manipulation (các thao tác trên bit). Anh thấy bài toán này không quá khó, nhưng thao tác trên bit…]]></summary>
+        <content type="html"><![CDATA[<p>Chào buổi trưa mí bạn.</p><p>Hôm nay LeetCode có một bài daily challenge về chủ đề Bit Manipulation (các thao tác trên bit). Anh thấy bài toán này không quá khó, nhưng thao tác trên bit chắc khá lạ lẫm với nhiều bạn (mặc dù khi học nhập môn chắc mọi người có tiếp xúc qua rồi🫢). Nên hôm nay anh share thử bài này vô group mình coi mọi người  có thể làm được hong nhé😉</p><p><a href="https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&amp;envId=2025-01-15" target="_blank" rel="noopener noreferrer">https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&amp;envId=2025-01-15</a></p><p>Theo một cái link mà anh đọc được thì có vẻ top các công ty IT lớn nhất hành tinh như FAANG có hỏi mấy câu như này. Bạn nào muốn vươn mình ra biển lớn thì tìm hiểu kĩ xem sao hen😁</p><p>Cho mọi người 1 link tổng hợp sơ qua về thao tác trên bit để tham khảo nà:<br>
+<a href="https://www.educative.io/blog/bit-manipulation-in-java" target="_blank" rel="noopener noreferrer">https://www.educative.io/blog/bit-manipulation-in-java</a></p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 15/01/2025.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="leetcode" term="leetcode"/>
+        <category label="algorithm" term="algorithm"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeetCode daily: bài medium có lời giải bất ngờ]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/leetcode-minimum-length-of-string</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/leetcode-minimum-length-of-string"/>
+        <updated>2025-01-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello các fen, tuần mới năng lượng nhó🥳 Hôm nay giải daily challenge của LeetCode anh gặp một bài toán rất thú vị, thú vị bởi vì nó được gắn tag medium nhưng thực ra lời giải cực…]]></summary>
+        <content type="html"><![CDATA[<p>Hello các fen, tuần mới năng lượng nhó🥳</p><p>Hôm nay giải daily challenge của LeetCode anh gặp một bài toán rất thú vị, thú vị bởi vì nó được gắn tag medium nhưng thực ra lời giải cực kì đơn giản tới mức bất ngờ=))</p><p>Các bạn có thể đưa ra lời giải dưới 20 dòng code hông🫢 Mời mọi người cùng thử sức nhé😉</p><p><a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&amp;envId=2025-01-13" target="_blank" rel="noopener noreferrer">https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&amp;envId=2025-01-13</a></p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 13/01/2025.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="leetcode" term="leetcode"/>
+        <category label="algorithm" term="algorithm"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review khoá học Ultimate AWS Certified Solutions Architect Associate]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/review-khoa-hoc-aws-saa-c03</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/review-khoa-hoc-aws-saa-c03"/>
+        <updated>2024-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi mọi người. Nhân dịp ngày lẻ tháng chẵn thì anh xin gửi tới mọi người một bài review khoá học về AWS trên Udemy. Khoá học có tên là Ultimate AWS Certified Solutions Architect…]]></summary>
+        <content type="html"><![CDATA[<p>Hi mọi người. Nhân dịp ngày lẻ tháng chẵn thì anh xin gửi tới mọi người một bài review khoá học về AWS trên Udemy. Khoá học có tên là</p><h1><a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/" target="_blank" rel="noopener noreferrer">Ultimate AWS Certified Solutions Architect Associate SAA-C03</a></h1><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tổng-quan-khoá-học">Tổng quan khoá học<a href="#tổng-quan-khoá-học" class="hash-link" aria-label="Direct link to Tổng quan khoá học" title="Direct link to Tổng quan khoá học">​</a></h2><p>Này là khoá học có phí, nếu mua không trúng đợt sale thì giá nó tới 1 triệu mấy lận. Cơ mà Udemy nó sale rất thường xuyên nên mọi người canh sale hả mua. Giá lúc sale thì đâu đó tầm 350k à, rất là sanh diên.</p><p>Khoá học này dùng để ôn luyện chứng chỉ Solutions Architect level Associate của AWS. Thông qua việc ôn luyện chứng chỉ này, các bạn sẽ được tiếp xúc với rất nhiều service nổi bật của AWS, bước đầu làm quen với cloud để hỗ trợ cho công việc của mình. Nếu các bạn chưa có ý định thi chứng chỉ này thì cũng có thể học để biết tổng quan về AWS.</p><p>Thời lượng của khoá học: khoảng 27.5 giờ</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="đánh-giá-sơ-lược-về-nội-dung">Đánh giá sơ lược về nội dung<a href="#đánh-giá-sơ-lược-về-nội-dung" class="hash-link" aria-label="Direct link to Đánh giá sơ lược về nội dung" title="Direct link to Đánh giá sơ lược về nội dung">​</a></h2><p>Này là một khoá học cực kì nặng, do các bạn sẽ được dạy rất nhiều service trên AWS. Có một số service thì các bạn sẽ được học sâu vào để hiểu rõ, nhưng số khác thì các bạn chỉ được dạy ở mức tổng quan thôi. Thành ra các bạn hãy chuẩn bị tinh thần trước để đỡ bị ngộp.</p><p>Đầu khoá học các bạn sẽ được tải bộ slide của toàn khoá (gần 900 trang). Theo kinh nghiệm của anh thì lần đầu xem video có thể mọi người bị rối chưa nắm được nội dung chính, nhưng mọi người dành thời gian xem slide lại có thể được thông não hơn.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="một-vài-lời-khuyên-cá-nhân">Một vài lời khuyên cá nhân<a href="#một-vài-lời-khuyên-cá-nhân" class="hash-link" aria-label="Direct link to Một vài lời khuyên cá nhân" title="Direct link to Một vài lời khuyên cá nhân">​</a></h2><ol><li>Các bạn tầm năm 3 có thể học khoá này, năm 1 năm 2 thì anh nghĩ sẽ khó vì khoá học có đề cập khá nhiều tới kiến thức về mạng máy tính, một số về truy vấn SQL blabla.</li><li>Ngoài những kiến thức về framework này nọ thì cloud cũng là cái mọi người nên cân nhắc dành thời gian để tìm hiểu. Đặc biệt, đối với những chứng chỉ quốc tế uy tín như của AWS, nếu mọi người đạt được thì sẽ là điểm sáng trong profile của mọi người.</li><li>AWS nó có nhiều certification path. Mọi người tra trên Google với từ khoá đó thì sẽ thấy nhiều chứng chỉ khác nữa, mỗi role sẽ có 1 bộ chứng chỉ khác nhau. Mọi người dành thời gian nghiên cứu nếu thích AWS nhoé.</li></ol><p>Sau cùng, chúc mọi người có một tháng mới tràn ngập niềm vui với tràn đầy năng lượng😁</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 01/04/2024.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="aws" term="aws"/>
+        <category label="cloud" term="cloud"/>
+        <category label="review" term="review"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes luyện thi Oracle Certified Professional Java SE 17]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/notes-ocp-java-se-17</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/notes-ocp-java-se-17"/>
+        <updated>2024-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi các bạn mem yêu dấu, Nhân dịp đón tháng mới của năm 2024, anh xin share cho mọi người bộ notes anh tự ghi trong quá trình học cuốn sách luyện thi chứng chỉ Oracle Certified…]]></summary>
+        <content type="html"><![CDATA[<p>Hi các bạn mem yêu dấu,</p><p>Nhân dịp đón tháng mới của năm 2024, anh xin share cho mọi người bộ notes anh tự ghi trong quá trình học cuốn sách luyện thi chứng chỉ Oracle Certified Professional Java SE 17 Developer.</p><p>Sách luyện thi anh đang học có tất cả 15 chương, trong folder này mới tới chương 5 thôi. Các bạn nếu thấy hay thì lưu link lại để sau này anh hoàn thành xong chương nào sẽ update lên nhé.</p><p>Một tí thông tin về app anh dùng để note: Goodnotes 6 phiên bản Premium, sử dụng trên iPad (theo anh thấy hình như app này hông có phiên bản cho Android)</p><p>That's all. Chúc mọi người tháng mới gặp nhiều may mắn và luôn tràn đầy năng lượng nhé🌟</p><p><a href="https://drive.google.com/drive/folders/1DuYo_3DNFEfhlqmd-1Kv5ohtXYTB6sW8?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/1DuYo_3DNFEfhlqmd-1Kv5ohtXYTB6sW8?usp=sharing</a></p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 31/03/2024.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="java" term="java"/>
+        <category label="certificate" term="certificate"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TSQL Learning - by gdckpvp]]></title>
         <id>https://hcmute-dsc.io.vn/en/blog/tsql-learning</id>
@@ -25,6 +165,57 @@
         <category label="gdsc_hcmute_share" term="gdsc_hcmute_share"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Khóa học Data Analytics miễn phí]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/khoa-hoc-data-analytics-mien-phi</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/khoa-hoc-data-analytics-mien-phi"/>
+        <updated>2023-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[👋👋 Hi mọi người, mình xin chia sẻ khóa học về Data Analytics miễn phí cho những bạn có đam mê về Data nheee 📍 Link khóa học:…]]></summary>
+        <content type="html"><![CDATA[<p>👋👋 Hi mọi người, mình xin chia sẻ khóa học về Data Analytics miễn phí cho những bạn có đam mê về Data nheee</p><p>📍 Link khóa học: <a href="https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US&amp;instance_id=be67f5a8-b88f-431e-9979-6f436319f456" target="_blank" rel="noopener noreferrer">https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US&amp;instance_id=be67f5a8-b88f-431e-9979-6f436319f456</a></p><p>💌 Chúc mọi người có thể tìm được sự hữu ích ở post nàyyy 😗</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 29/09/2023.</em></p>]]></content>
+        <author>
+            <name>Lê Duy Khiêm</name>
+        </author>
+        <category label="data" term="data"/>
+        <category label="course" term="course"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Đón nhận sự thay đổi trong công việc]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/don-nhan-thay-doi-trong-cong-viec</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/don-nhan-thay-doi-trong-cong-viec"/>
+        <updated>2023-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hế lô mọi người!!! Nãy mình có thảo luận về vấn đề đón nhận sự thay đổi trong công việc. Cảm ơn tất cả các bạn đã đưa ra ý kiến quá ư là nhiệt tình. Nhưng cũng xin lỗi mọi người…]]></summary>
+        <content type="html"><![CDATA[<p>Hế lô mọi người!!!</p><p>Nãy mình có thảo luận về vấn đề đón nhận sự thay đổi trong công việc. Cảm ơn tất cả các bạn đã đưa ra ý kiến quá ư là nhiệt tình. Nhưng cũng xin lỗi mọi người do nhà bị cúp điện ngang nên không thể đưa ra cái kết ngay buổi sinh hoạt được🥲. Nên anh xin note lại đây một vài ý quan trọng về chủ đề này nhá.</p><p>TÌNH HUỐNG:<br>
+<!-- -->Bạn đang làm lập trình viên cho dự án A của công ty X, ngôn ngữ chính bạn sử dụng là C#. Bạn theo dự án A được gần 2 năm. Một hôm công ty X thông báo dự án A cần phải giảm nhân sự, và offer cho bạn qua dự án B. Dự án B sử dụng ngôn ngữ chính là Ruby, ngôn ngữ mới bạn chưa sử dụng bao giờ. Trong trường hợp này bạn sẽ làm gì🤔?</p><p>LỰA CHỌN:<br>
+<!-- -->Trong quá trình thảo luận thì có nhiều bạn chấp nhận qua dự án B. Nên mình sẽ phân tích những điều ĐƯỢC và MẤT ở lựa chọn này.</p><p>ĐƯỢC:<br>
+<!-- -->1️⃣ Các bạn có cơ hội mở rộng bộ kỹ năng của mình. Học thêm 1 công nghệ mới giúp bạn dễ dàng tìm kiếm công việc hơn và có được cái nhìn rộng hơn về các công nghệ, từ đó dễ dàng so sánh, lựa chọn ra công nghệ tối ưu nhất cho 1 dự án phần mềm nào đó.<br>
+<!-- -->2️⃣ Các bạn có cơ hội làm quen những người đồng nghiệp mới. Mở rộng mối quan hệ của mình sẽ giúp mình có được nhiều góc nhìn trong nghề với nhiều cơ hội khác.</p><p>MẤT:<br>
+<!-- -->1️⃣ Các bạn phải tốn thời gian học một thứ hoàn toàn mới với bản thân và không có thời gian đào sâu kỹ năng sẵn có. Nếu các bạn không rèn luyện lại kỹ năng cũ trong thời gian dài thì sự thay đổi này sẽ giống sự THAY THẾ hơn là sự THÊM MỚI (các bạn thay thế kỹ năng này bằng kỹ năng khác, kỹ năng cũ của các bạn hoàn toàn không được phát triển).<br>
+<!-- -->2️⃣ Học nhiều công nghệ mới cùng lúc dễ khiến chúng ta rơi vào cái bẫy là mỗi thứ biết một ít chứ không chuyên sâu, sẽ không mang lại nhiều giá trị lâu dài.<br>
+<!-- -->3️⃣ Mối quan hệ với những người đồng nghiệp cũ dễ bị phai nhạt. Nếu nó là những mối quan hệ chất lượng thì sẽ khá đáng tiếc khi ta không được làm việc chung với họ. Mặt khác, những người đồng nghiệp mới cũng chưa chắc là những người đồng nghiệp chất lượng. Nếu môi trường mới chúng ta qua không được tốt bằng môi trường trước đó thì sẽ dễ ảnh hưởng tiêu cực đến tâm lý cũng như sự phát triển nghề nghiệp của bản thân.</p><p>Trên đây là những điều ĐƯỢC và MẤT nếu các bạn lựa chọn theo dự án mới, nếu các bạn phát hiện thêm điều gì có thể bổ sung thêm ở bình luận nhé. Trong trường hợp các bạn đưa ra lựa chọn khác, vẫn sẽ có những cái ĐƯỢC và MẤT riêng, phần này nhường các bạn tự phân tích nhá😉</p><p>Vậy đứng trước "ngã ba đường" như thế này, để có thể đưa ra lựa chọn thích hợp nhất, các bạn cần hiểu bản thân muốn trở thành người như thế nào, biết được giữa những cái ĐƯỢC và MẤT thì cái nào nhiều hơn, để từ đó cân đo đong đếm rồi quyết định. Không có một công thức chung nào ở đây cả, do nó tùy thuộc vào mỗi chúng ta.</p><p>Và tình huống anh vừa nêu ở trên là tình huống thực tế các bạn có thể gặp khi đi làm. Mong rằng những phân tích vừa rồi sẽ trở thành cẩm nang giúp các bạn có những lựa chọn sáng suốt nhất.</p><p>Sau cùng chúc tất cả mọi người có một năm học mới thuận buồm xuôi gió🥳🥳🥳</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 17/09/2023.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="career" term="career"/>
+        <category label="soft-skills" term="soft-skills"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam IT Market Report 2023]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/vietnam-it-market-report-2023</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/vietnam-it-market-report-2023"/>
+        <updated>2023-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vietnam Tech Talents Report Những góc nhìn mới nhất và tổng thể nhất về thị trường IT Việt Nam 2023 Gửi các bạn Báo cáo thị trường Công nghệ Thông tin Việt Nam năm 2023 của…]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vietnam-tech-talents-report">Vietnam Tech Talents Report<a href="#vietnam-tech-talents-report" class="hash-link" aria-label="Direct link to Vietnam Tech Talents Report" title="Direct link to Vietnam Tech Talents Report">​</a></h2><p>Những góc nhìn mới nhất và tổng thể nhất về thị trường IT Việt Nam 2023</p><p>Gửi các bạn Báo cáo thị trường Công nghệ Thông tin Việt Nam năm 2023 của TopDev. Thông tin trong báo cáo, các bạn có thể đọc tham khảo, đặc biệt là các nội dung có liên quan đến xu hướng công nghệ, tuyển dụng để có định hướng tốt cho bản thân trong những năm tới nhé!</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 16/09/2023.</em></p>]]></content>
+        <author>
+            <name>Nguyễn Huỳnh Minh Tiến</name>
+            <uri>https://github.com/TienNHM</uri>
+        </author>
+        <category label="career" term="career"/>
+        <category label="report" term="report"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Generative AI learning path - by Google]]></title>
         <id>https://hcmute-dsc.io.vn/en/blog/google-generative-ai-courses</id>
         <link href="https://hcmute-dsc.io.vn/en/blog/google-generative-ai-courses"/>
@@ -41,5 +232,78 @@
         <category label="deep-learning" term="deep-learning"/>
         <category label="google" term="google"/>
         <category label="free-course" term="free-course"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giới thiệu về Capture The Flag (CTF)]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/gioi-thieu-capture-the-flag</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/gioi-thieu-capture-the-flag"/>
+        <updated>2022-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HCMUTE-CTF - GIỚI THIỆU VỀ CAPTURE THE FLAG (CTF) 💥💥 CTF LÀ GÌ? 👉 CTF (viết tắt của Capture The Flag) là một dạng cuộc thi kiến thức về bảo mật thông tin, thử thách các đội chơi…]]></summary>
+        <content type="html"><![CDATA[<p>[HCMUTE-CTF]<!-- --> - GIỚI THIỆU VỀ CAPTURE THE FLAG (CTF)</p><p>💥💥 CTF LÀ GÌ?<br>
+<!-- -->👉 CTF (viết tắt của Capture The Flag) là một dạng cuộc thi kiến thức về bảo mật thông tin, thử thách các đội chơi tìm ra lời giải cho một vấn đề bất kỳ trong an ninh mạng.<br>
+<!-- -->👉 Thông thường trong một cuộc thi CTF, các đội chơi sẽ ganh đua nhau để tìm ra một Mật mã đặc biệt được giấu bên trong server, hoặc phía sau một trang web. Mật mã này chính là Flag. Đội nào hack vào hệ thống của đối thủ và tìm ra Flag nhanh hơn sẽ giành chiến thắng vòng thi. Đó là lí do cái tên Capture The Flag ra đời!</p><p>💥💥 CÁC HÌNH THỨC THI CTF PHỔ BIẾN<br>
+<!-- -->📌 Trả lời thử thách theo từng chủ đề (Jeopardy-style): trả lời nhiều chủ đề như: Web, Forensic, Crypto, Binary, Stegano… được sắp theo độ khó tăng dần cùng với điểm số cũng tăng dần. Đây cũng là hình thức thi của cuộc thi HCMUTE-CTF lần thứ nhất, các bạn có thể thử tham gia bằng cách đăng ký tại <a href="https://ctf.hcmute.edu.vn/" target="_blank" rel="noopener noreferrer">https://ctf.hcmute.edu.vn/</a> (thời gian thử đến hết ngày 01/9, ngày 02/9 trang sẽ chuyển qua chế độ thi).<br>
+<!-- -->📌 Tấn công và phòng thủ (attack &amp; defence): Hình thức thi này theo đúng luật thi CTF cổ điển ban đầu và khó hơn so với các hình thức khác do yêu cầu cao hơn. Ngoài các kỹ năng tìm kiếm lỗ hổng bảo mật và khai thác các lỗ hổng đó thì người chơi cần có khả năng khắc phục các điểm yếu, lỗ hổng, bảo vệ hệ thống của mình trước các tấn công từ các đội khác. Điểm khác biệt nữa là cách thức tính điểm cho các đội thi. Điểm thi trong hình thức này được thực hiện theo các tiêu chí khác nhau như: Điểm tấn công, điểm phòng thủ, điểm thưởng,…<br>
+<!-- -->📌 Hình thức thi kết hợp: Là sự phối hợp của 2 hình thức trên, chẳng hạn như kết hợp giữa hình thức chỉ có tấn công (attack only) với các dạng thử thách khác nhau.</p><p>💥💥 CTF CẦN HỌC GÌ ĐỂ THI CTF<br>
+<!-- -->🎈 Cuộc thi CTF dành cho mọi người đều nhưng để có thể tham gia người chơi ít nhất phải nắm rõ kiến thức cơ bản về an toàn thông tin mạng và một số công cụ hỗ trợ thích hợp.<br>
+<!-- -->🎈 Các kiến thức về CTF, an toàn thông tin và một số công cụ sẽ được chia sẻ và cập nhập tại server discord <a href="https://discord.gg/au2XEJ9J6B" target="_blank" rel="noopener noreferrer">https://discord.gg/au2XEJ9J6B</a>  </p><hr><p>🤩🤩 Thật hoành tráng đúng không nào, còn chần chừ gì mà không tham gia ngay thôi các bạn ơi !!<br>
+<!-- -->🕐 Thời gian đăng ký: đến hết ngày 01/9/2022.<br>
+<!-- -->📌 Link đăng ký: <a href="https://itute.tiny.us/ATTT-DK" target="_blank" rel="noopener noreferrer">https://itute.tiny.us/ATTT-DK</a></p><p>📍📍 THỂ LỆ CHI TIẾT: <a href="https://itute.tiny.us/ATTT-TheLe" target="_blank" rel="noopener noreferrer">https://itute.tiny.us/ATTT-TheLe</a></p><p>🥰🥰 Đừng quên Like và Follow fanpage để cập nhật những thông tin mới nhất nhé!  </p><hr><p>📬📬 Mọi thắc mắc, xin vui lòng liên hệ:<br>
+<!-- -->📞📞 Liên hệ trực tiếp:<br>
+<!-- -->👦 Đ/c Lã Minh Phúc – Thành viên BTC<br>
+<a href="https://www.facebook.com/pk9r327/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/pk9r327/</a></p><p>#FITUTE</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 27/08/2022.</em></p>]]></content>
+        <author>
+            <name>HCMUTE Developer Student Club</name>
+            <uri>https://www.facebook.com/hcmute.dsc</uri>
+        </author>
+        <category label="security" term="security"/>
+        <category label="ctf" term="ctf"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Các trang web hay để luyện Front-end với Tailwind CSS]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/tailwind-css-trang-web-luyen-front-end</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/tailwind-css-trang-web-luyen-front-end"/>
+        <updated>2022-07-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DÀNH CHO NHỮNG NGƯỜI-YÊU-CÁI-ĐẸP Hế lô các bạn với các bé! Như đã hứa thì nay mình sẽ share cho mọi người một số trang web khá là hay để rèn luyện kỹ năng code Front-end web, sử…]]></summary>
+        <content type="html"><![CDATA[<p>[DÀNH CHO NHỮNG NGƯỜI-YÊU-CÁI-ĐẸP]</p><p>Hế lô các bạn với các bé!</p><p>Như đã hứa thì nay mình sẽ share cho mọi người một số trang web khá là hay để rèn luyện kỹ năng code Front-end web, sử dụng framework Tailwind CSS. Các trang mình lượm lặt được là:</p><h1><strong>1. Lineone</strong>: <a href="https://lineone.piniastudio.com/" target="_blank" rel="noopener noreferrer">https://lineone.piniastudio.com/</a></h1><p>Trang này có rất nhiều mẫu thiết kế cho các loại web khác nhau. Mỗi thiết kế của nó đều rất là xịn nên các bạn muốn sau này làm designer web cũng có thể xem để lấy ý tưởng về các UI/UX.</p><p>Còn bạn nào muốn code ra những trang đẹp đẽ như dị thì có thể F12 để xem source code, cách họ xài những class Tailwind để style cái trang web như thế nào.</p><p>Ở mấy cái tab dưới cùng, mọi người click vô sẽ thấy những mẫu thiết kế cho các components thường dùng, ví dụ như form, tab, timeline... Nói túm lại là mọi người cứ click vô tất cả những thứ-có-thể-click được trên trang web để khai thác tối đa giá trị của cái web này nhớ=))</p><h1><strong>2. Tailwind Playground: <a href="https://play.tailwindcss.com/" target="_blank" rel="noopener noreferrer">https://play.tailwindcss.com/</a></strong></h1><p>Trang này thì nó đơn giản là một cái playground để các bạn tập làm quen với Tailwind à. Riêng mình thấy nếu mới làm quen Tailwind, học được cái gì đó lạ lạ muốn áp dụng thử coi nó ra làm sao thì lên trên đây thử liền là tuyệt vời=)) Đỡ phải mất công tạo mới project trong máy rồi set up các kiểu cũng khá tốn thời gian=)) Nhưng mà nếu muốn xài trong các dự án cá nhân thì bắt buộc phải biết cách set up từ đầu nhá. Mấy này trên mạng người ta hướng dẫn cũng nhiều, chịu khó tra cứu xíu là ra à:333</p><p>Xong rùi. Chúc các bạn theo sự nghiệp FE web hoặc designer web sẽ học được nhiều thứ từ những trang này. Mọi người có gì hay muốn chia sẻ thì cứ mạnh dạn post bài nhá🥳🥳🥳</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 24/07/2022.</em></p>]]></content>
+        <author>
+            <name>Võ Trần Minh Quân</name>
+            <uri>https://github.com/MinhQuan992</uri>
+        </author>
+        <category label="frontend" term="frontend"/>
+        <category label="tailwind" term="tailwind"/>
+        <category label="css" term="css"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerToys: bộ tiện ích nhỏ mà có võ cho Windows]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/powertoys-cho-windows</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/powertoys-cho-windows"/>
+        <updated>2022-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hôm nay mình muốn chia sẻ đến các bạn ứng dụng có tên PowerToys đây là một ứng dụng khá nhảm cho những ai đang dùng windows. Dù các chức năng của nó có phần vô dụng nhưng thi…]]></summary>
+        <content type="html"><![CDATA[<p>Hôm nay mình muốn chia sẻ đến các bạn ứng dụng có tên PowerToys đây là một ứng dụng khá nhảm cho những ai đang dùng windows. Dù các chức năng của nó có phần vô dụng nhưng thi thoảng cũng có lúc sẽ dùng tới.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="always-on-top">Always on Top<a href="#always-on-top" class="hash-link" aria-label="Direct link to Always on Top" title="Direct link to Always on Top">​</a></h2><p>Chức năng này sẽ đảm bảo một cửa sổ sẽ luôn được hiển thị và không bị các ứng dụng khác đè lên.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="color-picker">Color Picker<a href="#color-picker" class="hash-link" aria-label="Direct link to Color Picker" title="Direct link to Color Picker">​</a></h2><p>Lấy nhanh mã màu trên màn hình.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="image-resizer">Image Resizer<a href="#image-resizer" class="hash-link" aria-label="Direct link to Image Resizer" title="Direct link to Image Resizer">​</a></h2><p>Sửa nhanh kích thước ảnh.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="powertoys-awake">PowerToys Awake<a href="#powertoys-awake" class="hash-link" aria-label="Direct link to PowerToys Awake" title="Direct link to PowerToys Awake">​</a></h2><p>Sẽ đảm bảo máy không bị tự động ngủ.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="fancyzones">FancyZones<a href="#fancyzones" class="hash-link" aria-label="Direct link to FancyZones" title="Direct link to FancyZones">​</a></h2><p>Tạo bố cục chia màn hình để làm việc thấy khá xịn nhưng mình chả bao giờ dùng (máy 1366x768 lúc nào cũng maximize window còn thấy thiếu diện tích).</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="keyboard-manager">Keyboard Manager<a href="#keyboard-manager" class="hash-link" aria-label="Direct link to Keyboard Manager" title="Direct link to Keyboard Manager">​</a></h2><p>Map lại phím tắt hoặc tạo thêm phím tắt.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="powerrename">PowerRename<a href="#powerrename" class="hash-link" aria-label="Direct link to PowerRename" title="Direct link to PowerRename">​</a></h2><p>Công cụ đổi tên hàng loạt khá xịn xò.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="powertoys-run">PowerToys Run<a href="#powertoys-run" class="hash-link" aria-label="Direct link to PowerToys Run" title="Direct link to PowerToys Run">​</a></h2><p>Mở lên 1 thanh run giống như Mac, hỗ trợ tìm kiếm cũng tốt dùng khá thích.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="file-explorer-add-ons-utility">File Explorer add-ons utility<a href="#file-explorer-add-ons-utility" class="hash-link" aria-label="Direct link to File Explorer add-ons utility" title="Direct link to File Explorer add-ons utility">​</a></h2><p>Preview thêm một số tệp trên File Explorer.</p><p>Còn vài chức năng nữa nhưng mình viết vài chức năng mình dùng nhiều hoặc thấy hữu dụng thôi. Các bạn có thể tải và và xem hướng dẫn đầy đủ về phần mềm tại <a href="https://docs.microsoft.com/en-us/windows/powertoys/" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/windows/powertoys/</a></p><div class="news-gallery"><p><img loading="lazy" alt="PowerToys: bộ tiện ích nhỏ mà có võ cho Windows (1)" src="/en/assets/images/img-1-48ea88a209f52fd96cb487820edf3a0e.webp" width="813" height="438" class="img_ev3q">
+<img loading="lazy" alt="PowerToys: bộ tiện ích nhỏ mà có võ cho Windows (2)" src="/en/assets/images/img-2-fb1ff55d6dd8a4dd290c9160395e02ab.webp" width="933" height="423" class="img_ev3q">
+<img loading="lazy" alt="PowerToys: bộ tiện ích nhỏ mà có võ cho Windows (3)" src="/en/assets/images/img-3-16145f0553eb05da0d0aa075f61ca994.webp" width="478" height="437" class="img_ev3q"></p></div><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 10/04/2022.</em></p>]]></content>
+        <author>
+            <name>Lã Minh Phúc</name>
+        </author>
+        <category label="windows" term="windows"/>
+        <category label="tooling" term="tooling"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bộ gõ tiếng Việt khi code]]></title>
+        <id>https://hcmute-dsc.io.vn/en/blog/bo-go-tieng-viet-khi-code</id>
+        <link href="https://hcmute-dsc.io.vn/en/blog/bo-go-tieng-viet-khi-code"/>
+        <updated>2021-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Khi các bạn code các ngôn ngữ như C , C++, java, js, ... thì sẽ thường xuyên có cặp dấu {} và , đôi khi để bộ gõ ở chế độ gõ Tiếng Việt nó sẽ lại thành Ơ hoăc ơ khi mở ngoặc và Ư…]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>Khi các bạn code các ngôn ngữ như C#, C++, java, js, ... thì sẽ thường xuyên có cặp dấu <code>{}</code> và <code>[]</code>, đôi khi để bộ gõ ở chế độ gõ Tiếng Việt nó sẽ lại thành <code>Ơ</code> hoăc <code>ơ</code> khi mở ngoặc và <code>Ư</code> hoặc <code>ư</code> khi đóng ngoặc. Một điều nhỏ thôi nhưng có thể sẽ khá ức chế là nhiều lúc gõ quen <code>Ơ</code>-<!-- -->&gt;<code>{</code> rồi lúc tắt bộ gõ lại <code>{{</code> xong cái trình soạn thảo cực kì thông minh nó sẽ cho ra <code>{ { } }</code> luôn gõ xong lại xoá 😂.</p></blockquote><p>Nếu bạn thực sự ức chế với cái trên thì có thể sử dụng EVkey để tự định nghĩa kiểu gõ cho riêng bản thân hoặc có 2 kiểu tác giả đã làm 2 kiểu Telex đơn giản nhằm giải quyết vấn đề trên là:</p><ul><li>Telex đơn giản: Không thay đổi các phím "<!-- -->{<!-- -->", "<!-- -->[", "<!-- -->}<!-- -->", "]<!-- -->" và "W" không viết tắt cho "Ư"</li><li>Telex đơn giản 2: Không thay đổi các phím "<!-- -->{<!-- -->", "<!-- -->[", "<!-- -->}<!-- -->", "]<!-- -->" và "W" viết tắt cho "Ư" (trừ kí tự bắt đầu)</li></ul><p>NOTE: HÃY TẢI EVKEY CỦA TÁC GIẢ "lamquangminh" TẠI <a href="https://evkeyvn.com/" target="_blank" rel="noopener noreferrer">https://evkeyvn.com/</a></p><p>Hai trang <a href="https://evkey.org" target="_blank" rel="noopener noreferrer">https://evkey.org</a> và <a href="https://evkey.vn/" target="_blank" rel="noopener noreferrer">https://evkey.vn/</a> đều là giả mạo</p><p><em>Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 26/12/2021.</em></p>]]></content>
+        <author>
+            <name>Lã Minh Phúc</name>
+        </author>
+        <category label="tooling" term="tooling"/>
+        <category label="tips" term="tips"/>
+        <category label="chia-se-tu-group" term="chia-se-tu-group"/>
     </entry>
 </feed>

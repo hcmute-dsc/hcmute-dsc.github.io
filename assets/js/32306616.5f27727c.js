@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[35141],{67722:e=>{e.exports=JSON.parse('{"label":"leetcode","permalink":"/blog/tags/leetcode","allTagsPath":"/blog/tags","count":2}')}}]);

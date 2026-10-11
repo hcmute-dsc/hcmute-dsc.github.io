@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[87468],{85935:e=>{e.exports=JSON.parse('{"label":"chia-se-tu-group","permalink":"/en/blog/tags/chia-se-tu-group","allTagsPath":"/en/blog/tags","count":16}')}}]);

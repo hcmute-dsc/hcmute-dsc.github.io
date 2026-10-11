@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[53922],{21826:e=>{e.exports=JSON.parse('{"label":"career","permalink":"/blog/tags/career","allTagsPath":"/blog/tags","count":2}')}}]);

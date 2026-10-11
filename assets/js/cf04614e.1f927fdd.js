@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[81238],{70889:t=>{t.exports=JSON.parse('{"label":"tailwind","permalink":"/blog/tags/tailwind","allTagsPath":"/blog/tags","count":1}')}}]);

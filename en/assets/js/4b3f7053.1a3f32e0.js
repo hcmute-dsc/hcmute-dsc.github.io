@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[61989],{65655:a=>{a.exports=JSON.parse('{"label":"java","permalink":"/en/blog/tags/java","allTagsPath":"/en/blog/tags","count":2}')}}]);
