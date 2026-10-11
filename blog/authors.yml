@@ -27,3 +27,24 @@ gdckpvp:
   title: Software Developer
   url: https://github.com/gdckpvp
   image_url: https://github.com/gdckpvp.png
+vtmquan:
+  name: Võ Trần Minh Quân
+  title: Founder, chủ nhiệm đầu tiên của HCMUTE DSC
+
+leduykhiem:
+  name: Lê Duy Khiêm
+  title: Cựu chủ nhiệm HCMUTE DSC
+
+leecuong:
+  name: Lee Cường
+  title: Thành viên HCMUTE DSC
+
+hcmute-dsc:
+  name: HCMUTE Developer Student Club
+  title: Câu lạc bộ Sinh viên Lập trình HCMUTE
+  url: https://www.facebook.com/hcmute.dsc
+  image_url: /img/logo/hcmute-dsc-mark.png
+
+laminhphuc:
+  name: Lã Minh Phúc
+  title: Thành viên HCMUTE DSC
