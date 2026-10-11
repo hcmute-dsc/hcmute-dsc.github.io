@@ -18,7 +18,7 @@ description: "Xin chào, xin chào Vậy là GDSC-HCMUTE đã trải qua chặng
 
 <!--truncate-->
 
-![Tri ân ban chủ nhiệm 2021 - 2022](./img-1.webp)
+![Võ Trần Minh Quân – Chủ nhiệm GDSC HCMUTE 2021 – 2022](./img-1.webp)
 
 🤗 Vậy là GDSC-HCMUTE đã trải qua chặng đường dài hơn một năm qua, vui có buồn có, với những ngày tháng thăng trầm và tất bật cùng deadline. 🤗
   
@@ -34,12 +34,20 @@ description: "Xin chào, xin chào Vậy là GDSC-HCMUTE đã trải qua chặng
 Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)  
 \#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE
 
+**Ban Chủ nhiệm nhiệm kỳ 2021 – 2022, những người sáng lập CLB:**
+
+- Võ Trần Minh Quân – Chủ nhiệm
+- Nguyễn Huỳnh Minh Tiến – Phó Chủ nhiệm, Trưởng ban Học thuật
+- Nguyễn Trung Tín – Trưởng ban Truyền thông
+- Tạ Thị Mai Hương – Trưởng ban Sự kiện
+- Huỳnh Thị Thúy Vy – Thành viên Core team
+
 <div className="news-gallery">
 
-![Tri ân ban chủ nhiệm 2021 - 2022 (2)](./img-2.webp)
-![Tri ân ban chủ nhiệm 2021 - 2022 (3)](./img-3.webp)
-![Tri ân ban chủ nhiệm 2021 - 2022 (4)](./img-4.webp)
-![Tri ân ban chủ nhiệm 2021 - 2022 (5)](./img-5.webp)
+![Nguyễn Huỳnh Minh Tiến – Phó Chủ nhiệm, Trưởng ban Học thuật](./img-2.webp)
+![Nguyễn Trung Tín – Trưởng ban Truyền thông](./img-3.webp)
+![Tạ Thị Mai Hương – Trưởng ban Sự kiện](./img-4.webp)
+![Huỳnh Thị Thúy Vy – Thành viên Core team](./img-5.webp)
 
 </div>
 

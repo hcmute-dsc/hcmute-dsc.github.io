@@ -90,6 +90,28 @@ PROPER = {w.lower(): w for w in [
 ]}
 
 
+# Hand-curated posts, by slug: photo order (1-based positions on Facebook), a caption per photo
+# (used as alt text and in the lightbox) and a note appended after the post text.
+CURATED = {
+    '2022-09-28-tri-an-ban-chu-nhiem-2021-2022': {
+        'order': [4, 2, 1, 5, 3],
+        'captions': [
+            'Võ Trần Minh Quân – Chủ nhiệm GDSC HCMUTE 2021 – 2022',
+            'Nguyễn Huỳnh Minh Tiến – Phó Chủ nhiệm, Trưởng ban Học thuật',
+            'Nguyễn Trung Tín – Trưởng ban Truyền thông',
+            'Tạ Thị Mai Hương – Trưởng ban Sự kiện',
+            'Huỳnh Thị Thúy Vy – Thành viên Core team',
+        ],
+        'note': '**Ban Chủ nhiệm nhiệm kỳ 2021 – 2022, những người sáng lập CLB:**\n\n'
+                '- Võ Trần Minh Quân – Chủ nhiệm\n'
+                '- Nguyễn Huỳnh Minh Tiến – Phó Chủ nhiệm, Trưởng ban Học thuật\n'
+                '- Nguyễn Trung Tín – Trưởng ban Truyền thông\n'
+                '- Tạ Thị Mai Hương – Trưởng ban Sự kiện\n'
+                '- Huỳnh Thị Thúy Vy – Thành viên Core team',
+    },
+}
+
+
 def parse_date(s):
     s = s.split(' at ')[0].strip()
     if not re.search(r'\d{4}', s):
@@ -331,9 +353,12 @@ def main():
 
         folder = OUT / slug
         folder.mkdir()
+        curated = CURATED.get(slug, {})
         imgs = []
         if images_dir.exists():
             srcs = sorted(images_dir.glob(f'{idx}-*'), key=lambda x: int(x.stem.split('-')[1]))
+            if 'order' in curated:
+                srcs = [srcs[i - 1] for i in curated['order'] if i <= len(srcs)]
             for src in srcs:
                 dst = f'img-{len(imgs) + 1}{src.suffix}'
                 shutil.copy2(src, folder / dst)
@@ -356,14 +381,18 @@ def main():
         fm.append('---')
 
         alt = title.replace('[', '(').replace(']', ')')
+        captions = curated.get('captions', [])
+        alts = [captions[i] if i < len(captions) else (alt if i == 0 else f'{alt} ({i + 1})') for i in range(len(imgs))]
         parts = ['\n'.join(fm), '', lead, '', '<!--truncate-->', '']
         if imgs:
-            parts += [f'![{alt}](./{imgs[0]})', '']
+            parts += [f'![{alts[0]}](./{imgs[0]})', '']
         if rest:
             parts += [rest, '']
+        if 'note' in curated:
+            parts += [curated['note'], '']
         if len(imgs) > 1:
             parts += ['<div className="news-gallery">', '']
-            parts += [f'![{alt} ({i + 2})](./{im})' for i, im in enumerate(imgs[1:])]
+            parts += [f'![{a}](./{im})' for a, im in zip(alts[1:], imgs[1:])]
             parts += ['', '</div>', '']
         parts += ['---', '', '_Bài viết được lưu trữ từ [fanpage HCMUTE Developer Student Club](https://www.facebook.com/hcmute.dsc)._', '']
         (folder / 'index.md').write_text('\n'.join(parts), encoding='utf-8')

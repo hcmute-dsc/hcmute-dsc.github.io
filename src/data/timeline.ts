@@ -8,7 +8,7 @@ export type Milestone = {
 // Oldest first. Sources: the club's Facebook posts, archived under /news.
 export const TIMELINE: Milestone[] = [
   {
-    date: { vi: '2021', en: '2021' },
+    date: { vi: '20/07/2021', en: 'Jul 20, 2021' },
     title: { vi: 'Ra đời với tên GDSC HCMUTE', en: 'Founded as GDSC HCMUTE' },
     description: {
       vi: 'CLB Sinh viên Lập trình Google – HCMUTE (Google Developer Student Clubs – HCMUTE) được thành lập tại khoa Công nghệ Thông tin.',
@@ -77,5 +77,14 @@ export const TIMELINE: Milestone[] = [
       en: 'The InterviewPrep101 series, SQL Challenge 2026, Gen 7 recruitment, ClubDay and the new website at hcmute-dsc.io.vn.',
     },
     link: '/news/tags/tuyen-thanh-vien',
+  },
+  {
+    date: { vi: '20/07/2026', en: 'Jul 20, 2026' },
+    title: { vi: 'Tròn 5 năm & Memoryland', en: '5 years & Memoryland' },
+    description: {
+      vi: 'CLB tròn 5 năm thành lập và ra mắt Memoryland, kho ký ức số lưu giữ hành trình, các thế hệ và câu chuyện của HCMUTE DSC, cùng chiến dịch #WeWereThere mời các thế hệ góp ký ức.',
+      en: 'The club turns 5 and launches Memoryland, a digital archive of the journey, generations and stories of HCMUTE DSC, with the #WeWereThere campaign inviting every generation to share memories.',
+    },
+    link: 'https://memoryland.hcmute-dsc.io.vn',
   },
 ];

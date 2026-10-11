@@ -14,4 +14,6 @@ module.exports = {
   facebookUrl: 'https://www.facebook.com/hcmute.dsc',
   discordUrl: 'https://discord.gg/7nx55YxuES',
   email: 'clb.dsc@student.hcmute.edu.vn',
+  // 5th anniversary site (repo hcmute-dsc/memoryland)
+  memorylandUrl: 'https://memoryland.hcmute-dsc.io.vn',
 };

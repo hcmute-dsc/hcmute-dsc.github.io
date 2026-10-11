@@ -42,11 +42,21 @@ const config = {
   plugins: require('./config/plugins'),
   themes: ['@docusaurus/theme-live-codeblock'],
   clientModules: [require.resolve('./src/clientModules/lightbox.js')],
+  customFields: {
+    memorylandUrl: site.memorylandUrl,
+  },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'img/hcmute-dsc-social-card.jpg',
+      announcementBar: {
+        id: 'five-years',
+        content: `🎉 HCMUTE DSC tròn 5 năm (20/07/2021 – 20/07/2026). <a href="${site.memorylandUrl}" target="_blank" rel="noopener noreferrer">Khám phá hành trình và góp một ký ức tại Memoryland →</a>`,
+        backgroundColor: '#0b1b3f',
+        textColor: '#ffffff',
+        isCloseable: true,
+      },
       navbar: require('./config/navbar'),
       footer: require('./config/footer'),
       prism: {
