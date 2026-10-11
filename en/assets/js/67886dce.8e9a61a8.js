@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[60738],{33595:e=>{e.exports=JSON.parse('{"label":"Thi\u1ebft k\u1ebf","permalink":"/en/news/tags/thiet-ke","allTagsPath":"/en/news/tags","count":3}')}}]);

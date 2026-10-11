@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[11537],{78888:s=>{s.exports=JSON.parse('{"label":"aws","permalink":"/en/blog/tags/aws","allTagsPath":"/en/blog/tags","count":1}')}}]);
