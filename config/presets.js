@@ -16,7 +16,7 @@ module.exports = [
       blog: {
         showReadingTime: true,
         editUrl,
-        postsPerPage: 5,
+        postsPerPage: 12,
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'Tất cả bài viết',
         blogTitle: 'Blog',
