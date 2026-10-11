@@ -338,7 +338,8 @@ html.lightbox-lock {
   background: rgb(5 10 25 / 92%);
 }
 
-.lightbox--open {
+/* Two classes so the minifier can't merge this into an earlier rule that `.lightbox` overrides */
+.lightbox.lightbox--open {
   display: flex;
 }
 
