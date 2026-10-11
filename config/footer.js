@@ -10,6 +10,7 @@ module.exports = {
         { label: 'Hoạt động', to: '/news' },
         { label: 'Blog', to: '/blog' },
         { label: 'Showcase', to: '/showcase' },
+        { label: 'Thư viện ảnh', to: '/gallery' },
       ],
     },
     {

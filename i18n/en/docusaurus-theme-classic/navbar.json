@@ -50,5 +50,9 @@
   "item.label.Lưu trữ theo năm": {
     "message": "Archive by year",
     "description": "Navbar item with label Lưu trữ theo năm"
+  },
+  "item.label.Thư viện ảnh": {
+    "message": "Gallery",
+    "description": "Navbar item with label Thư viện ảnh"
   }
 }

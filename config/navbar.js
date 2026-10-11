@@ -29,7 +29,7 @@ module.exports = {
     },
     { to: '/blog', label: 'Blog', position: 'left' },
     { to: '/showcase', label: 'Showcase', position: 'left' },
-    { to: '/community', label: 'Community', position: 'left' },
+    { to: '/gallery', label: 'Thư viện ảnh', position: 'left' },
     { to: '/contact', label: 'Contact', position: 'left' },
     {
       href: githubUrl,

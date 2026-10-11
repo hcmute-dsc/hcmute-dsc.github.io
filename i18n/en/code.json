@@ -457,5 +457,32 @@
   },
   "blog.card.readMore": {
     "message": "Read more"
+  },
+  "gallery.title": {
+    "message": "Photo gallery"
+  },
+  "gallery.description": {
+    "message": "Moments from the events, workshops and activities of HCMUTE Developer Student Club over the years."
+  },
+  "gallery.filter.year": {
+    "message": "Filter by year"
+  },
+  "gallery.filter.allYears": {
+    "message": "All"
+  },
+  "gallery.filter.category": {
+    "message": "Filter by category"
+  },
+  "gallery.filter.allCategories": {
+    "message": "All categories"
+  },
+  "gallery.count": {
+    "message": "{albums} albums · {photos} photos"
+  },
+  "gallery.open": {
+    "message": "View photos: {title}"
+  },
+  "gallery.more": {
+    "message": "Show more"
   }
 }

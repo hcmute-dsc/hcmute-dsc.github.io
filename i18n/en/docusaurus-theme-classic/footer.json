@@ -6,5 +6,9 @@
   "link.item.label.Hoạt động": {
     "message": "Activities",
     "description": "The label of footer link with label=Hoạt động linking to /news"
+  },
+  "link.item.label.Thư viện ảnh": {
+    "message": "Gallery",
+    "description": "The label of footer link with label=Thư viện ảnh linking to /gallery"
   }
 }

@@ -473,3 +473,10 @@ html.blog-post-page article .markdown {
   font-size: 1.02rem;
   line-height: 1.75;
 }
+
+.lightbox__link {
+  margin-left: 0.5rem;
+  color: var(--ifm-color-primary-lighter);
+  font-weight: 600;
+  white-space: nowrap;
+}

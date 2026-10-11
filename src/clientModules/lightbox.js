@@ -18,7 +18,7 @@ function build() {
   overlay.innerHTML = `
     <figure class="lightbox__figure">
       <img class="lightbox__img" alt="" />
-      <figcaption class="lightbox__caption"></figcaption>
+      <figcaption class="lightbox__caption"><span class="lightbox__text"></span> <a class="lightbox__link"></a></figcaption>
     </figure>
     <span class="lightbox__counter" aria-live="polite"></span>
     <button type="button" class="lightbox__btn lightbox__close" aria-label="Đóng">×</button>
@@ -50,9 +50,23 @@ function show(i) {
   const img = overlay.querySelector('.lightbox__img');
   img.src = src.currentSrc || src.src;
   img.alt = src.alt || '';
-  overlay.querySelector('.lightbox__caption').textContent = src.alt || '';
+  overlay.querySelector('.lightbox__text').textContent = src.alt || '';
+  const link = overlay.querySelector('.lightbox__link');
+  link.hidden = !src.href;
+  if (src.href) {
+    link.href = src.href;
+    link.textContent = src.linkText || 'Xem bài viết →';
+  }
   overlay.querySelector('.lightbox__counter').textContent = n > 1 ? `${state.index + 1} / ${n}` : '';
   overlay.classList.toggle('lightbox--single', n < 2);
+}
+
+/**
+ * Open the lightbox from code (e.g. the photo gallery page).
+ * @param {{src: string, alt?: string, href?: string, linkText?: string}[]} images
+ */
+export function openLightbox(images, index = 0) {
+  open(images, index);
 }
 
 function open(images, index) {
