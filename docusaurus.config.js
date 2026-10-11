@@ -42,7 +42,7 @@ const footerLinks = [
             },
             {
                 label: 'Email',
-                href: 'mailto:dsc.hcmute@gmail.com',
+                href: 'mailto:clb.dsc@student.hcmute.edu.vn',
             },
         ],
     },
@@ -143,6 +143,23 @@ const config = {
             }),
         ],
         '@docusaurus/theme-mermaid',
+        [
+            // Archive of the club's Facebook posts: events, activities, announcements
+            '@docusaurus/plugin-content-blog',
+            {
+                id: 'news',
+                path: 'news',
+                routeBasePath: 'news',
+                blogTitle: 'Hoạt động',
+                blogDescription: 'Sự kiện, hoạt động và thông báo của HCMUTE Developer Student Club',
+                blogSidebarTitle: 'Hoạt động gần đây',
+                blogSidebarCount: 15,
+                postsPerPage: 10,
+                showReadingTime: false,
+                editLocalizedFiles: true,
+                feedOptions: { type: 'all', title: 'HCMUTE DSC – Hoạt động' },
+            },
+        ],
     ],
 
     themes: ['@docusaurus/theme-live-codeblock'],
@@ -166,6 +183,18 @@ const config = {
                         sidebarId: 'tutorialSidebar',
                         position: 'left',
                         label: 'Tutorial',
+                    },
+                    {
+                        type: 'dropdown',
+                        label: 'Hoạt động',
+                        to: '/news',
+                        position: 'left',
+                        items: [
+                            { to: '/news', label: 'Tất cả bài viết' },
+                            { to: '/news/categories', label: 'Danh mục' },
+                            { to: '/news/tags', label: 'Tags' },
+                            { to: '/news/archive', label: 'Lưu trữ theo năm' },
+                        ],
                     },
                     { to: '/blog', label: 'Blog', position: 'left' },
                     { to: '/showcase', label: 'Showcase', position: 'left' },

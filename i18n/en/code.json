@@ -420,7 +420,7 @@
     "message": "About us"
   },
   "home.intro.lead": {
-    "message": "HCMUTE Developer Student Club (HCMUTE DSC) is the student developer club of Ho Chi Minh City University of Technology and Education – a place to learn together, build real-world projects and share knowledge."
+    "message": "HCMUTE Developer Student Club (HCMUTE DSC) is an open, active academic club for every student passionate about technology and programming, under the Faculty of Information Technology, Ho Chi Minh City University of Technology and Engineering."
   },
   "home.intro.caption": {
     "message": "Our 2021 introduction video, back when the club was called GDSC HCMUTE."
@@ -430,5 +430,29 @@
   },
   "home.title": {
     "message": "HCMUTE student developer club"
+  },
+  "Hoạt động": {
+    "message": "Activities"
+  },
+  "news.categories.title": {
+    "message": "Activity categories"
+  },
+  "news.categories.description": {
+    "message": "The club's events, activities and announcements, archived from our Facebook page and organised by category and topic."
+  },
+  "news.categories.all": {
+    "message": "All {count} posts"
+  },
+  "news.categories.archive": {
+    "message": "Archive by year"
+  },
+  "news.categories.allTags": {
+    "message": "All tags"
+  },
+  "news.categories.categories": {
+    "message": "Categories"
+  },
+  "news.categories.topics": {
+    "message": "Topics"
   }
 }

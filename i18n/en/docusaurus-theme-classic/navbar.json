@@ -30,5 +30,25 @@
   "item.label.Contact": {
     "message": "Contact",
     "description": "Navbar item with label Contact"
+  },
+  "item.label.Hoạt động": {
+    "message": "Activities",
+    "description": "Navbar item with label Hoạt động"
+  },
+  "item.label.Tất cả bài viết": {
+    "message": "All posts",
+    "description": "Navbar item with label Tất cả bài viết"
+  },
+  "item.label.Danh mục": {
+    "message": "Categories",
+    "description": "Navbar item with label Danh mục"
+  },
+  "item.label.Tags": {
+    "message": "Tags",
+    "description": "Navbar item with label Tags"
+  },
+  "item.label.Lưu trữ theo năm": {
+    "message": "Archive by year",
+    "description": "Navbar item with label Lưu trữ theo năm"
   }
 }

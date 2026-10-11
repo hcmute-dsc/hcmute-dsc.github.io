@@ -299,3 +299,22 @@ time::before {
   aspect-ratio: 16 / 9;
   width: 100%;
 }
+/* Facebook archive (news blog): extra photos of a post */
+.news-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.news-gallery p {
+  display: contents;
+}
+
+.news-gallery img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 6px;
+}
