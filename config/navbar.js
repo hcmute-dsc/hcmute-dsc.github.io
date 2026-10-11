@@ -36,9 +36,5 @@ module.exports = {
       className: 'header-github-link',
       'aria-label': 'GitHub',
     },
-    {
-      type: 'localeDropdown',
-      position: 'right',
-    },
   ],
 };

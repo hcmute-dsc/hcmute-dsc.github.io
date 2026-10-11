@@ -51,7 +51,7 @@ const PROJECTS: Project[] = [
     preview: null,
     website: 'https://hcmute-dsc.io.vn',
     source: 'https://github.com/hcmute-dsc/hcmute-dsc.github.io',
-    tags: ['club', 'opensource', 'i18n'],
+    tags: ['club', 'opensource'],
   },
   {
     title: 'Youth Quiz',

@@ -6,23 +6,9 @@ export type ProjectTagType =
     // Projects built by HCMUTE DSC members for the club
     | 'club'
     | 'ai'
-    // For open-source sites, a link to the source code is required.
-    // The source should be the *website's* source, not the project's source!
+    // The source code is public
     | 'opensource'
-    | 'product'
-    // Feel free to add the 'design' tag as long as there's _some_ level of
-    // CSS/swizzling.
-    | 'design'
-    // Site must have more than one locale.
-    | 'i18n'
-    | 'versioning'
-    // Large sites are defined as those with > 200 pages, excluding versions.
-    | 'large'
-    | 'meta'
-    | 'personal'
-    | 'courseproject'
-    // Right-to-left direction.
-    | 'rtl';
+    | 'product';
 
 export const ProjectTags: { [type in ProjectTagType]: Tag } = {
     favorite: {
@@ -69,85 +55,6 @@ export const ProjectTags: { [type in ProjectTagType]: Tag } = {
             id: 'showcase.tag.product.description',
         }),
         color: '#dfd545',
-    },
-
-    design: {
-        label: translate({ message: 'Design' }),
-        description: translate({
-            message:
-                'Beautiful Docusaurus sites, polished and standing out from the initial template!',
-            id: 'showcase.tag.design.description',
-        }),
-        color: '#a44fb7',
-    },
-
-    i18n: {
-        label: translate({ message: 'I18n' }),
-        description: translate({
-            message:
-                'Hỗ trợ nhiều ngôn ngữ',
-            id: 'showcase.tag.i18n.description',
-        }),
-        color: '#127f82',
-    },
-
-    versioning: {
-        label: translate({ message: 'Versioning' }),
-        description: translate({
-            message:
-                'Docusaurus sites using the versioning feature of the docs plugin to manage multiple versions.',
-            id: 'showcase.tag.versioning.description',
-        }),
-        color: '#fe6829',
-    },
-
-    large: {
-        label: translate({ message: 'Large' }),
-        description: translate({
-            message:
-                'Very large Docusaurus sites, including many more pages than the average!',
-            id: 'showcase.tag.large.description',
-        }),
-        color: '#8c2f00',
-    },
-
-    meta: {
-        label: translate({ message: 'Meta' }),
-        description: translate({
-            message: 'Docusaurus sites of Meta (formerly Facebook) projects',
-            id: 'showcase.tag.meta.description',
-        }),
-        color: '#4267b2', // Facebook blue
-    },
-
-    personal: {
-        label: translate({ message: 'Personal' }),
-        description: translate({
-            message:
-                'Personal websites, blogs and digital gardens built with Docusaurus',
-            id: 'showcase.tag.personal.description',
-        }),
-        color: '#14cfc3',
-    },
-
-    courseproject: {
-        label: translate({ message: 'Course Project' }),
-        description: translate({
-            message:
-                'Course projects',
-            id: 'showcase.tag.courseproject.description',
-        }),
-        color: '#e64a19',
-    },
-
-    rtl: {
-        label: translate({ message: 'RTL Direction' }),
-        description: translate({
-            message:
-                'Docusaurus sites using the right-to-left reading direction support.',
-            id: 'showcase.tag.rtl.description',
-        }),
-        color: '#ffcfc3',
     },
 };
 

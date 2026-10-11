@@ -34,7 +34,8 @@ const config = {
 
   i18n: {
     defaultLocale: 'vi',
-    locales: ['vi', 'en'],
+    // English is paused for now; the translations stay in i18n/en for later
+    locales: ['vi'],
   },
 
   presets: require('./config/presets'),
