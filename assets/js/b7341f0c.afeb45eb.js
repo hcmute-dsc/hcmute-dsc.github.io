@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[61163],{23592:s=>{s.exports=JSON.parse('{"label":"Linux","permalink":"/news/tags/linux","allTagsPath":"/news/tags","count":5}')}}]);

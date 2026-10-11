@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[26356],{65451:s=>{s.exports=JSON.parse('{"label":"S\u1ef1 ki\u1ec7n & cu\u1ed9c thi","permalink":"/news/tags/su-kien-cuoc-thi","allTagsPath":"/news/tags","count":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[92234],{32617:e=>{e.exports=JSON.parse('{"label":"CTF & an to\xe0n th\xf4ng tin","permalink":"/en/news/tags/ctf","allTagsPath":"/en/news/tags","count":10}')}}]);

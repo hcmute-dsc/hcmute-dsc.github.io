@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[64358],{6814:s=>{s.exports=JSON.parse('{"label":"Th\xf4ng b\xe1o","permalink":"/news/tags/thong-bao","allTagsPath":"/news/tags","count":15}')}}]);

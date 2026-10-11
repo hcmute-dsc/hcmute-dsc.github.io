@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[74264],{36789:s=>{s.exports=JSON.parse('{"label":"\xd4n t\u1eadp Nh\u1eadp m\xf4n l\u1eadp tr\xecnh","permalink":"/news/tags/on-tap-nhap-mon","allTagsPath":"/news/tags","count":4}')}}]);

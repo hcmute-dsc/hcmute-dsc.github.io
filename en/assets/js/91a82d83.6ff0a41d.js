@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[74053],{75535:e=>{e.exports=JSON.parse('{"label":"Tuy\u1ec3n th\xe0nh vi\xean","permalink":"/en/news/tags/tuyen-thanh-vien","allTagsPath":"/en/news/tags","count":41}')}}]);

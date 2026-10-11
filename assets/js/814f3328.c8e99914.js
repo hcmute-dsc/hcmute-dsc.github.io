@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"T\u1ea5t c\u1ea3 b\xe0i vi\u1ebft","items":[{"title":"TSQL Learning - by gdckpvp","permalink":"/blog/tsql-learning"},{"title":"Generative AI learning path - by Google","permalink":"/blog/google-generative-ai-courses"}]}')}}]);

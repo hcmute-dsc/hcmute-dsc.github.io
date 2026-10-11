@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[79702],{94885:s=>{s.exports=JSON.parse('{"label":"Study Jam","permalink":"/news/tags/study-jam","allTagsPath":"/news/tags","count":20}')}}]);

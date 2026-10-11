@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[26349],{3357:e=>{e.exports=JSON.parse('{"label":"gdsc_hcmute_share","permalink":"/en/blog/tags/gdsc-hcmute-share","allTagsPath":"/en/blog/tags","count":1}')}}]);

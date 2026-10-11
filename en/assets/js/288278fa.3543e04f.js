@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[69394],{31424:e=>{e.exports=JSON.parse('{"label":"Git & GitHub","permalink":"/en/news/tags/git-github","allTagsPath":"/en/news/tags","count":29}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[61200],{69523:e=>{e.exports=JSON.parse('{"label":"Ngh\u1ec1 nghi\u1ec7p & doanh nghi\u1ec7p","permalink":"/news/tags/nghe-nghiep","allTagsPath":"/news/tags","count":27}')}}]);

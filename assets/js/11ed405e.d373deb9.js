@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[48515],{6097:s=>{s.exports=JSON.parse('{"label":"Mastering IT","permalink":"/news/tags/mastering-it","allTagsPath":"/news/tags","count":13}')}}]);
