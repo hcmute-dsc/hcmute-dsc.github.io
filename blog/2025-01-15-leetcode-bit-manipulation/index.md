@@ -4,6 +4,7 @@ title: "LeetCode daily: thử sức với Bit Manipulation"
 authors: [vtmquan]
 tags: [leetcode, algorithm, chia-se-tu-group]
 description: "Chào buổi trưa mí bạn. Hôm nay LeetCode có một bài daily challenge về chủ đề Bit Manipulation (các thao tác trên bit). Anh thấy bài toán này không quá khó, nhưng thao tác trên bit…"
+image: ./img-1.webp
 ---
 Chào buổi trưa mí bạn.
 
@@ -17,5 +18,11 @@ Theo một cái link mà anh đọc được thì có vẻ top các công ty IT 
 
 Cho mọi người 1 link tổng hợp sơ qua về thao tác trên bit để tham khảo nà:  
 https://www.educative.io/blog/bit-manipulation-in-java
+
+<div className="news-gallery">
+
+![LeetCode daily: thử sức với Bit Manipulation (1)](./img-1.webp)
+
+</div>
 
 _Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 15/01/2025._

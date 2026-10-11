@@ -4,6 +4,7 @@ title: "Giới thiệu về Capture The Flag (CTF)"
 authors: [hcmute-dsc]
 tags: [security, ctf, chia-se-tu-group]
 description: "HCMUTE-CTF - GIỚI THIỆU VỀ CAPTURE THE FLAG (CTF) 💥💥 CTF LÀ GÌ? 👉 CTF (viết tắt của Capture The Flag) là một dạng cuộc thi kiến thức về bảo mật thông tin, thử thách các đội chơi…"
+image: ./img-1.webp
 ---
 [HCMUTE-CTF] - GIỚI THIỆU VỀ CAPTURE THE FLAG (CTF)
 
@@ -36,5 +37,11 @@ ____________________________________________
 https://www.facebook.com/pk9r327/
 
 #FITUTE
+
+<div className="news-gallery">
+
+![Giới thiệu về Capture The Flag (CTF) (1)](./img-1.webp)
+
+</div>
 
 _Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 27/08/2022._

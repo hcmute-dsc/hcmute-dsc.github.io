@@ -4,6 +4,7 @@ title: "Bộ gõ tiếng Việt khi code"
 authors: [laminhphuc]
 tags: [tooling, tips, chia-se-tu-group]
 description: "Khi các bạn code các ngôn ngữ như C , C++, java, js, ... thì sẽ thường xuyên có cặp dấu {} và , đôi khi để bộ gõ ở chế độ gõ Tiếng Việt nó sẽ lại thành Ơ hoăc ơ khi mở ngoặc và Ư…"
+image: ./img-1.webp
 ---
 > Khi các bạn code các ngôn ngữ như C#, C++, java, js, ... thì sẽ thường xuyên có cặp dấu `{}` và `[]`, đôi khi để bộ gõ ở chế độ gõ Tiếng Việt nó sẽ lại thành `Ơ` hoăc `ơ` khi mở ngoặc và `Ư` hoặc `ư` khi đóng ngoặc. Một điều nhỏ thôi nhưng có thể sẽ khá ức chế là nhiều lúc gõ quen `Ơ`-&gt;`{` rồi lúc tắt bộ gõ lại `{{` xong cái trình soạn thảo cực kì thông minh nó sẽ cho ra `{ { } }` luôn gõ xong lại xoá 😂.
 
@@ -16,5 +17,11 @@ Nếu bạn thực sự ức chế với cái trên thì có thể sử dụng E
 NOTE: HÃY TẢI EVKEY CỦA TÁC GIẢ "lamquangminh" TẠI https://evkeyvn.com/
 
 Hai trang https://evkey.org và https://evkey.vn/ đều là giả mạo
+
+<div className="news-gallery">
+
+![Bộ gõ tiếng Việt khi code (1)](./img-1.webp)
+
+</div>
 
 _Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 26/12/2021._

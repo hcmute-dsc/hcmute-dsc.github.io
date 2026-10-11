@@ -29,6 +29,8 @@ AUTHORS = {
     'Lee Cường': 'leecuong',
     'Lê Duy Khiêm': 'leduykhiem',
     'Lã Minh Phúc': 'laminhphuc',
+    'Võ Lê Nguyên': 'volenguyen',
+    'Đỗ Quốc Việt': 'doquocviet',
     'HCM UTE Developer Student Club': 'hcmute-dsc',
 }
 
@@ -50,6 +52,14 @@ POSTS = {
     '459617518982932': ('tailwind-css-trang-web-luyen-front-end', 'Các trang web hay để luyện Front-end với Tailwind CSS', ['frontend', 'tailwind', 'css']),
     '397184405226244': ('powertoys-cho-windows', 'PowerToys: bộ tiện ích nhỏ mà có võ cho Windows', ['windows', 'tooling']),
     '340257450918940': ('bo-go-tieng-viet-khi-code', 'Bộ gõ tiếng Việt khi code', ['tooling', 'tips']),
+    '1199931151618228': ('bao-cao-thi-truong-it-itviec', 'Báo cáo thị trường IT Việt Nam của ITviec', ['career', 'report']),
+    '498128828465134': ('hoc-design-patterns-qua-code-mau', 'Học Design Patterns qua code mẫu', ['design-patterns', 'oop']),
+    '378700030408015': ('lo-trinh-hoc-lam-web', 'Lộ trình học làm web từ con số 0', ['web', 'roadmap']),
+    '314313523513333': ('git-github-thuc-chien-mo-dau', 'Git/GitHub Thực Chiến: mở đầu series', ['git', 'github']),
+    '314370560174296': ('git-github-thuc-chien-commit-message', 'Git/GitHub Thực Chiến – Phần 1: Bạn đã viết commit message đủ tốt chưa?', ['git', 'github']),
+    '304065487871470': ('ky-nang-search-google-cho-lap-trinh-vien', 'Kỹ năng search Google cho lập trình viên', ['tips', 'soft-skills']),
+    '263081701969849': ('van-hoa-viet-email', 'Văn hóa viết email', ['soft-skills', 'email']),
+    '273649660913053': ('dua-thoi-khoa-bieu-len-google-calendar', 'Đưa thời khóa biểu lên Google Calendar', ['tooling', 'tips']),
 }
 
 # post id -> 1-based positions of photos to leave out (they show personal data: student IDs, emails...)
@@ -57,7 +67,14 @@ SKIP_PHOTOS = {
     '397184405226244': {1},
 }
 
-HASHTAG_LINK =re.compile(r'\[#(\w+)\]\(https?://www\.facebook\.com/hashtag/[^)]*\)')
+# Links that were only in the post's attachment (link preview), not in its text: post id -> [(label, url)]
+LINKS = {
+    '1199931151618228': [('Báo cáo lương & thị trường IT của ITviec', 'https://itviec.com/salary-reports/download/8e5be9c6-fe36-458d-83bb-5ec6e45c9864')],
+    '498128828465134': [('MinhQuan992/design-patterns trên GitHub', 'https://github.com/MinhQuan992/design-patterns')],
+    '378700030408015': [('Become a full-stack developer (Notion)', 'https://minhquan-992.notion.site/Become-a-full-stack-developer-8ec2efdb41da4f0fa4f6d4f7bc860f8e')],
+}
+
+HASHTAG_LINK = re.compile(r'\[#(\w+)\]\(https?://www\.facebook\.com/hashtag/[^)]*\)')
 CLUB_TAG = re.compile(r'(?<!\w)#(?:gdsc|hcmute)_?\w*', re.I)
 FENCE = re.compile(r'^\s*```')
 
@@ -157,6 +174,9 @@ def fetch_image(url, dest):
 def main():
     gp, gd = load()
     skip = sidebar_images(gd)
+    # Photos read from each post's own page (DOM), more reliable than the page JSON: {post id: [{u, w, h, key}]}
+    dom_file = DATA / 'group_blog_images.json'
+    dom = json.loads(dom_file.read_text(encoding='utf-8')) if dom_file.exists() else {}
     missing = [i for i in POSTS if i not in gd]
     for pid, (slug, title, tags) in POSTS.items():
         if pid not in gd:
@@ -174,7 +194,10 @@ def main():
         body = drop_heading(md, title)
 
         images = []
-        photos = [im for im in v.get('images', []) if im['key'] not in skip and min(im['w'], im['h']) >= 200]
+        if pid in dom:
+            photos = [im for im in dom[pid] if min(im['w'], im['h']) >= 200]
+        else:
+            photos = [im for im in v.get('images', []) if im['key'] not in skip and min(im['w'], im['h']) >= 200]
         for pos, im in enumerate(photos, 1):
             if pos in SKIP_PHOTOS.get(pid, ()) or len(images) >= MAX_IMAGES:
                 continue
@@ -198,6 +221,8 @@ def main():
         parts = [lead, '<!--truncate-->']
         if rest:
             parts.append(rest)
+        if pid in LINKS:
+            parts.append('\n'.join(f'🔗 [{label}]({url})  ' for label, url in LINKS[pid]).rstrip())
         if images:
             gallery = '\n'.join(f'![{yaml_str(title)[1:-1]} ({i + 1})](./{n})' for i, n in enumerate(images))
             parts.append('<div className="news-gallery">\n\n' + gallery + '\n\n</div>')

@@ -4,6 +4,7 @@ title: "Quản lý nhiều phiên bản JDK, Maven, Gradle cho dân Java"
 authors: [leecuong]
 tags: [java, tooling, chia-se-tu-group]
 description: "À nhon mọi người 👋, Hẳn nhiều bạn học CNTT (đặc biệt là khi làm với Java, Spring Boot, Kotlin, Scala, Maven, Gradle... ) đã gặp tình huống: Máy cài nhiều phiên bản JDK (Java 8,…"
+image: ./img-1.webp
 ---
 À nhon mọi người 👋,
 
@@ -51,5 +52,11 @@ Kiểm tra cài thành công chưa: sdk version
 * Giúp quen với công cụ mà **lập trình viên chuyên nghiệp hay dùng**.
 
 Tin mình đi, một khi quen rồi thì không muốn quay lại “cài tay” nữa đâu 😎
+
+<div className="news-gallery">
+
+![Quản lý nhiều phiên bản JDK, Maven, Gradle cho dân Java (1)](./img-1.webp)
+
+</div>
 
 _Bài viết được chia sẻ lần đầu trong group nội bộ của CLB ngày 04/10/2025._
