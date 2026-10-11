@@ -6,18 +6,24 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "[SINH HOẠT ĐẦU NĂM MỚI] Chào các bạn, chào các bạn Sau một thời gian nghỉ tết thì GDSC - HCMUTE chúng mình lại có dịp gặp nhau và cùng bàn luận một chủ đề "
+description: "Chào các bạn, chào các bạn Sau một thời gian nghỉ tết thì GDSC - HCMUTE chúng mình lại có dịp gặp nhau và cùng bàn luận một chủ đề khá sôi nổi trong thời gian vừa qua “Làn sóng…"
 ---
 
-\[SINH HOẠT ĐẦU NĂM MỚI\]  
-✌️✌️ Chào các bạn, chào các bạn ✌️✌️ 💚 Sau một thời gian nghỉ tết thì GDSC - HCMUTE chúng mình lại có dịp gặp nhau và cùng bàn luận một chủ đề khá sôi nổi trong thời gian vừa qua “Làn sóng Tech Layoff 2023”. Các bạn tham gia cảm thấy thế nào nhỉ Cùng chia sẻ cho chúng mình biết nhé 😊
+\[SINH HOẠT ĐẦU NĂM MỚI\]
+  
+✌️✌️ Chào các bạn, chào các bạn ✌️✌️
+
 
 <!--truncate-->
 
 ![Sinh hoạt đầu năm mới](./img-1.webp)
 
+💚 Sau một thời gian nghỉ tết thì GDSC - HCMUTE chúng mình lại có dịp gặp nhau và cùng bàn luận một chủ đề khá sôi nổi trong thời gian vừa qua “Làn sóng Tech Layoff 2023”. Các bạn tham gia cảm thấy thế nào nhỉ? Cùng chia sẻ cho chúng mình biết nhé 😊  
 ============================================  
-À mà đừng quên Like và Follow Page để không bỏ lỡ những thông báo mới nhất nha Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCMUTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute) [https://www.facebook.com/hashtag/googledeveloperstudentclubs](https://www.facebook.com/hashtag/googledeveloperstudentclubs)
+À mà đừng quên Like và Follow Page để không bỏ lỡ những thông báo mới nhất nha  
+Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCMUTE:  
+[https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)  
+[https://www.facebook.com/hashtag/googledeveloperstudentclubs](https://www.facebook.com/hashtag/googledeveloperstudentclubs)
 
 <div className="news-gallery">
 

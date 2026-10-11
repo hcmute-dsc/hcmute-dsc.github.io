@@ -6,7 +6,7 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "Shared with Public Workshop “E-Commerce: Gain from Growth” là sự kiện được đồng tổ chức bởi AIESEC in Vietnam và Google Developer Student Clubs - HCMUTE tr"
+description: "Workshop “E-Commerce: Gain from Growth” là sự kiện được đồng tổ chức bởi AIESEC in Vietnam và Google Developer Student Clubs - HCMUTE trực thuộc trường Đại học Sư phạm Kỹ thuật…"
 ---
 
 Shared with Public  

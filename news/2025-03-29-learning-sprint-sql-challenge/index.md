@@ -7,7 +7,7 @@ tags:
     permalink: /su-kien-cuoc-thi
   - label: "SQL"
     permalink: /sql
-description: "[Learning Sprint| SQL CHALLENGE] Thông báo thay đổi mức thưởng và gia hạn thời gian đăng ký BTC xin thông báo thay đổi mức thưởng cho chương trình SQL CHAL"
+description: "Thông báo thay đổi mức thưởng và gia hạn thời gian đăng ký BTC xin thông báo thay đổi mức thưởng cho chương trình SQL CHALLENGE và gia hạn thời gian đăng ký thêm 1 ngày, cụ thể…"
 ---
 
 **\[Learning Sprint| SQL CHALLENGE\]** **📢** **Thông báo thay đổi mức thưởng và gia hạn thời gian đăng ký** BTC xin thông báo thay đổi mức thưởng cho chương trình SQL CHALLENGE và gia hạn thời gian đăng ký thêm 1 ngày, cụ thể như sau:  

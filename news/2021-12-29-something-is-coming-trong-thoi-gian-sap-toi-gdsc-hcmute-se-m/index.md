@@ -6,7 +6,7 @@ tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
 image: ./img-1.webp
-description: "[SOMETHING IS COMING??] ————————— Trong thời gian sắp tới, GDSC - HCMUTE sẽ mang đến cho các bạn Sinh viên trường Đại học Sư phạm Kỹ thuật nói riêng và Sin"
+description: "Trong thời gian sắp tới, GDSC - HCMUTE sẽ mang đến cho các bạn Sinh viên trường Đại học Sư phạm Kỹ thuật nói riêng và Sinh viên thành phố Hồ Chí Minh nói chung, một sự kiện vô…"
 ---
 
 \[SOMETHING IS COMING??\]  

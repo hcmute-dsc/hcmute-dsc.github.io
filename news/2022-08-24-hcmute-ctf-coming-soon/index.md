@@ -8,16 +8,27 @@ tags:
   - label: "CTF & an toàn thông tin"
     permalink: /ctf
 image: ./img-1.webp
-description: "HCMUTE-CTF COMING SOON Một cuộc thi học thuật quy mô sắp đổ bộ ‼Lần đầu tiên tổ chức, sàn đấu học thuật dành cho các bạn đam mê An toàn thông tin‼ Một sân "
+description: "Một cuộc thi học thuật quy mô sắp đổ bộ ‼Lần đầu tiên tổ chức, sàn đấu học thuật dành cho các bạn đam mê An toàn thông tin‼ Một sân chơi tràn đầy hứa hẹn ... Cùng các giải thưởng…"
 ---
 
-HCMUTE-CTF COMING SOON 💥 Một cuộc thi học thuật quy mô sắp đổ bộ💥 ‼️💻Lần đầu tiên tổ chức, sàn đấu học thuật dành cho các bạn đam mê An toàn thông tin💻‼️ 🔆Một sân chơi tràn đầy hứa hẹn ...🍻 💸Cùng các giải thưởng vô cùng hấp dẫn💸 Hãy cùng đón chờ sự bùng nổ của HCMUTE-CTF nàooo!!!🥰🥰🥰
+HCMUTE-CTF COMING SOON
   
-\#FITUTE #HCMUTECTF
+💥 Một cuộc thi học thuật quy mô sắp đổ bộ💥
+
 
 <!--truncate-->
 
 ![Hcmute-ctf coming soon](./img-1.webp)
+
+‼️💻Lần đầu tiên tổ chức, sàn đấu học thuật dành cho các bạn đam mê An toàn thông tin💻‼️
+  
+🔆Một sân chơi tràn đầy hứa hẹn ...🍻  
+💸Cùng các giải thưởng vô cùng hấp dẫn💸
+  
+Hãy cùng đón chờ sự bùng nổ của HCMUTE-CTF nàooo!!!🥰🥰🥰
+  
+\#FITUTE  
+\#HCMUTECTF
 
 ---
 

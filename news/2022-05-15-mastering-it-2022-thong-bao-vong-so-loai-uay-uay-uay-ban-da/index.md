@@ -8,26 +8,23 @@ tags:
   - label: "Mastering IT"
     permalink: /mastering-it
 image: ./img-1.webp
-description: "[MASTERING IT 2022] - THÔNG BÁO VÒNG SƠ LOẠI Uây Uây Uây Bạn đã biết tin gì chưa!? Chỉ còn vài giờ nữa thôi là vòng sơ loại cuộc thi học thuật Mastering IT"
+description: "THÔNG BÁO VÒNG SƠ LOẠI Uây Uây Uây Bạn đã biết tin gì chưa!? Chỉ còn vài giờ nữa thôi là vòng sơ loại cuộc thi học thuật Mastering IT 2022 sẽ chính thức diễn ra rồi đấy! Các bạn…"
 ---
 
 \[MASTERING IT 2022\] - THÔNG BÁO VÒNG SƠ LOẠI
+  
+ Uây Uây Uây
+
 
 <!--truncate-->
 
 ![MASTERING IT 2022 – THÔNG BÁO VÒNG SƠ LOẠI Uây Uây Uây Bạn đã biết tin gì chưa!?](./img-1.webp)
 
-  
- Uây Uây Uây
-
-  
- Bạn đã biết tin gì chưa!
-
+ Bạn đã biết tin gì chưa!?
   
  Chỉ còn vài giờ nữa thôi là vòng sơ loại cuộc thi học thuật Mastering IT 2022 sẽ chính thức diễn ra rồi đấy!
   
- Các bạn đã chuẩn bị sẵn sàng kiến thức để chinh chiến ở vòng sơ loại sắp tới chưa nào
-
+ Các bạn đã chuẩn bị sẵn sàng kiến thức để chinh chiến ở vòng sơ loại sắp tới chưa nào?
   
  Đừ… See more
 

@@ -7,7 +7,7 @@ tags:
     permalink: /doi-song-clb
   - label: "Recap"
     permalink: /recap
-description: "[Throwback 2022 - 2023] Liệu rằng các bạn có ở đây để chờ và đồng hành cùng GDSC-HCMUTE trên chặng đường sắp tới… Xin chào, xin chào Trước khi bắt đầu một "
+description: "Liệu rằng các bạn có ở đây để chờ và đồng hành cùng GDSC-HCMUTE trên chặng đường sắp tới… Xin chào, xin chào Trước khi bắt đầu một năm học mới, hãy cùng nhìn lại những thành quả…"
 ---
 
 \[Throwback 2022 - 2023\]  

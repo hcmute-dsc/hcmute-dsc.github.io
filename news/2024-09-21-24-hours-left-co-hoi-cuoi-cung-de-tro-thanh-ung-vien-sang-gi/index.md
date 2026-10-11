@@ -7,7 +7,7 @@ tags:
     permalink: /tuyen-thanh-vien
   - label: "Gen 5"
     permalink: /gen-5
-description: "24 HOURS LEFT | CƠ HỘI CUỐI CÙNG ĐỂ TRỞ THÀNH ỨNG VIÊN SÁNG GIÁ TẠI GDSC-HCMUTE __ Sau gần 1 tuần mở cổng đăng ký chính thức, GDSC-HCMUTE đã đón nhận được "
+description: "Sau gần 1 tuần mở cổng đăng ký chính thức, GDSC-HCMUTE đã đón nhận được những lá đơn đăng ký từ các bạn những người luôn nhiệt huyết và sẵn sàng tham gia vào CLB. Trong suốt năm…"
 ---
 
 ⏳24 HOURS LEFT | CƠ HỘI CUỐI CÙNG ĐỂ TRỞ THÀNH ỨNG VIÊN SÁNG GIÁ TẠI GDSC-HCMUTE \_\_ Sau gần 1 tuần mở cổng đăng ký chính thức, GDSC-HCMUTE đã đón nhận được những lá đơn đăng ký từ các bạn những người luôn nhiệt huyết và sẵn sàng tham gia vào CLB. Trong suốt năm học vừa qua, chúng mình rất vui và muốn gửi tấm lòng biết ơn với những bạn đã chọn CLB là sân chơi để trau dồi, học hỏi và kết bạn. Đến nay, CLB xin thông báo:  

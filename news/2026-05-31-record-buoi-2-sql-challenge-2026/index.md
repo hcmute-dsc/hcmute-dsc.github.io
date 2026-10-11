@@ -9,7 +9,7 @@ tags:
     permalink: /sql
   - label: "Recap"
     permalink: /recap
-description: "[RECORD BUỔI 2 | SQL CHALLENGE 2026] Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm "
+description: "Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo Nội dung buổi 2: SQL…"
 ---
 
 \[RECORD BUỔI 2 | SQL CHALLENGE 2026\] Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo 📚 Nội dung buổi 2:  

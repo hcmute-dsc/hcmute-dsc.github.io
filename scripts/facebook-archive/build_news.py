@@ -131,6 +131,13 @@ def redact(t):
     return PHONE.sub('', STUDENT_ID.sub('', t))
 
 
+def clean_text(t):
+    """A post text that still has its own line breaks: only redact and tidy it."""
+    t = redact(t.replace('\r', '')).strip()
+    t = re.sub(r'[ \t]+\n', '\n', t)
+    return re.sub(r'\n{3,}', '\n\n', t)
+
+
 def clean_library_text(msg):
     """Content Library flattens a post to one line and appends its stats; undo what we can."""
     t = STATS_TAIL.sub('', msg).strip()
@@ -224,11 +231,11 @@ def classify(text, title):
 
 def to_markdown(text):
     """Escape a Facebook post so MDX 1 renders it literally, keeping its line breaks."""
-    text = unicodedata.normalize('NFC', text).replace('\r', '').replace(' ', '\n')
+    text = unicodedata.normalize('NFC', text).replace('\r', '').replace(chr(0x2028), '\n')
     # some posts already carry markdown links: back to plain urls, they are re-linked below
     text = re.sub(r'\[([^\]\n]+)\]\((https?://[^)\s]+)\)', lambda m: m.group(2) if m.group(1).startswith('http') else f'{m.group(1)} {m.group(2)}', text)
     text = re.sub(r'([?&])fbclid=[^&\s]+&?', lambda m: m.group(1), text)  # Facebook click trackers
-    text = re.sub(r'[?&](?=\s|$)', '', text)
+    text = re.sub(r'(https?://\S+?)[?&]+(?=\s|$)', r'\1', text)  # url left with a dangling ? or &
     out = []
     for line in text.split('\n'):
         line = line.rstrip().replace('\\', '\\\\')
@@ -253,6 +260,20 @@ def lead_and_rest(body):
     return '  \n'.join(lines[:2]), '  \n'.join(lines[2:])
 
 
+def summary(text, title, n=180):
+    """Card/SEO description: the post text without its heading (the title already shows it)."""
+    t = norm(EMOJI.sub('', text.replace('**', '')))
+    t = re.sub(r'^\W*\[[^\]]{2,200}\]\s*', '', t)  # "[CHECK MAIL – ...] ..."
+    words, i = title.lower().split(), 0
+    toks = t.split(' ')
+    while i < len(toks) and i < len(words) and re.sub(r'\W', '', toks[i].lower()) == re.sub(r'\W', '', words[i]):
+        i += 1
+    if i >= 3:
+        t = ' '.join(toks[i:])
+    t = re.sub(r'^[\s_\-–—━|:]+', '', t)
+    return t if len(t) <= n else t[:n].rsplit(' ', 1)[0] + '…'
+
+
 def yaml_str(s):
     return '"' + s.replace('\\', '\\\\').replace('"', '\\"') + '"'
 
@@ -261,6 +282,9 @@ def main():
     library = json.loads((DATA / 'library.json').read_text(encoding='utf-8'))['posts']
     extra_file = DATA / 'extra_posts.json'
     extra = json.loads(extra_file.read_text(encoding='utf-8'))['posts'] if extra_file.exists() else []
+    # original post texts (with line breaks), fetched from the post pages: {library index: text}
+    texts_file = DATA / 'texts.json'
+    texts = json.loads(texts_file.read_text(encoding='utf-8')) if texts_file.exists() else {}
     images_dir = DATA / 'images'
 
     if OUT.exists():
@@ -281,7 +305,8 @@ def main():
             continue
 
         date = parse_date(p['date'])
-        text = clean_library_text(p['msg'])
+        original = texts.get(str(idx)) or (p['msg'] if isinstance(idx, str) else None)
+        text = clean_text(original) if original else clean_library_text(p['msg'])
         title = pretty_title(make_title(text))
         slug = f'{date:%Y-%m-%d}-{slugify(title)}'
         while slug in used_slugs:
@@ -311,7 +336,7 @@ def main():
             fm += [f'  - label: {yaml_str(label)}', f'    permalink: /{tid}']
         if imgs:
             fm.append(f'image: ./{imgs[0]}')
-        fm.append(f'description: {yaml_str(norm(EMOJI.sub("", text.replace("**", "")))[:155])}')
+        fm.append(f'description: {yaml_str(summary(text, title))}')
         fm.append('---')
 
         alt = title.replace('[', '(').replace(']', ')')

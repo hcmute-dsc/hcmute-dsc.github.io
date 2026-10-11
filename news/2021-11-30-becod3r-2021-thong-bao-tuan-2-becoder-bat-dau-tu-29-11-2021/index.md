@@ -6,7 +6,7 @@ tags:
   - label: "Thông báo"
     permalink: /thong-bao
 image: ./img-1.webp
-description: "[beCod3r 2021] THÔNG BÁO: *Tuần 2 BECODER bắt đầu từ 29/11/2021 đến 5/12/2021 *----------------------------------------- Ừ thì có mới nè? Trước tiên thăm h"
+description: "THÔNG BÁO: *Tuần 2 BECODER bắt đầu từ 29/11/2021 đến 5/12/2021 *----------------------------------------- Ừ thì có mới nè? Trước tiên thăm hỏi xíu đã. Chủ nhật vừa rồi các nhóm…"
 ---
 
 \[beCod3r 2021\]
@@ -18,7 +18,7 @@ description: "[beCod3r 2021] THÔNG BÁO: *Tuần 2 BECODER bắt đầu từ 29
 ![beCod3r 2021 – THÔNG BÁO: *Tuần 2 BECODER bắt đầu từ 29/11/2021 đến 5/12/2021 *](./img-1.webp)
 
 \*-----------------------------------------  
-Ừ thì có mới nè  
+Ừ thì có mới nè?  
 Trước tiên thăm hỏi xíu đã. Chủ nhật vừa rồi các nhóm làm bài ổn cả chứ
   
 ...Em dạo này ổn không...Vẫn còn nhiều deadline như cũ

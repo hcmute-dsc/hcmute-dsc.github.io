@@ -9,7 +9,7 @@ tags:
     permalink: /sql
   - label: "AI"
     permalink: /ai
-description: "[Learning Sprint| SQL CHALLENGE] SQL CHALLENGE - BUỔI 2 Hello cả nhà, buổi hướng dẫn thứ của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không c"
+description: "SQL CHALLENGE - BUỔI 2 Hello cả nhà, buổi hướng dẫn thứ của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan…"
 ---
 
 **\[Learning Sprint| SQL CHALLENGE\]** 📢 **SQL CHALLENGE - BUỔI 2** 🚀 🤩 Hello cả nhà, **b**uổi hướng dẫn thứ của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan tâm đến SQL, Database và PostgreSQL đều có thể tham gia!  

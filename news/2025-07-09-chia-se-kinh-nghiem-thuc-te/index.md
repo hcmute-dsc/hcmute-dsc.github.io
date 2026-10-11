@@ -5,7 +5,7 @@ category: chia-se-kien-thuc
 tags:
   - label: "Chia sẻ kiến thức"
     permalink: /chia-se-kien-thuc
-description: "[CHIA SẺ KINH NGHIỆM THỰC TẾ] Chào cả nhà , Nhằm giúp các bạn tiếp cận với những trải nghiệm thực tế trong ngành Công nghệ Thông tin, CLB sẽ tổ chức một bu"
+description: "Chào cả nhà , Nhằm giúp các bạn tiếp cận với những trải nghiệm thực tế trong ngành Công nghệ Thông tin, CLB sẽ tổ chức một buổi chia sẻ trực tuyến với chủ đề: \"The Ways of…"
 ---
 
 🎯 **\[CHIA SẺ KINH NGHIỆM THỰC TẾ\]** Chào cả nhà 😉👋, Nhằm giúp các bạn tiếp cận với những trải nghiệm thực tế trong ngành Công nghệ Thông tin, CLB sẽ tổ chức **một buổi chia sẻ trực tuyến** với chủ đề:  

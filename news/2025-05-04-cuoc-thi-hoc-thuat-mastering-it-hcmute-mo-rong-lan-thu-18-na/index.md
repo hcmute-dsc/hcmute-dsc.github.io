@@ -8,7 +8,7 @@ tags:
   - label: "Mastering IT"
     permalink: /mastering-it
 image: ./img-1.webp
-description: "[CUỘC THI HỌC THUẬT \"MASTERING IT\" HCMUTE MỞ RỘNG LẦN THỨ 18, NĂM 2025] ______________________________________ HCMUTE DSC tự hào đồng hành cùng cuộc thi họ"
+description: "HCMUTE DSC tự hào đồng hành cùng cuộc thi học thuật Mastering IT 2025! Tham gia ngay để thử sức với những thử thách lập trình đỉnh cao và kết nối cùng các tài năng IT! Đăng ký…"
 ---
 
 \[CUỘC THI HỌC THUẬT "MASTERING IT" HCMUTE MỞ RỘNG LẦN THỨ 18, NĂM 2025\]  

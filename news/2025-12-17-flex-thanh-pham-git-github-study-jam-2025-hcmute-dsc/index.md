@@ -11,10 +11,10 @@ tags:
     permalink: /study-jam
   - label: "Recap"
     permalink: /recap
-description: "[FLEX THÀNH PHẨM | GIT & GITHUB STUDY JAM 2025 – HCMUTE DSC] Tiếp theo là Giải Nhì – 49 gặp 500, đội thi có số điểm chỉ kém Giải Nhất 1 điểm, cho thấy sự c"
+description: "Tiếp theo là Giải Nhì – 49 gặp 500, đội thi có số điểm chỉ kém Giải Nhất 1 điểm, cho thấy sự cạnh tranh rất sát trong mùa Study Jam năm nay. Sản phẩm:…"
 ---
 
-\[FLEX THÀNH PHẨM | GIT  GITHUB STUDY JAM 2025 – HCMUTE DSC\] Tiếp theo là 🥈 Giải Nhì – 49 gặp 500, đội thi có số điểm chỉ kém Giải Nhất 1 điểm, cho thấy sự cạnh tranh rất sát trong mùa Study Jam năm nay.  
+\[FLEX THÀNH PHẨM | GIT & GITHUB STUDY JAM 2025 – HCMUTE DSC\] Tiếp theo là 🥈 Giải Nhì – 49 gặp 500, đội thi có số điểm chỉ kém Giải Nhất 1 điểm, cho thấy sự cạnh tranh rất sát trong mùa Study Jam năm nay.  
 🔥 💻 Sản phẩm: [https://studyjam-2025-49gap500.vercel.app](https://studyjam-2025-49gap500.vercel.app) Website của đội mang lại cảm giác gọn gàng, hiện đại và được đầu tư kỹ lưỡng về mặt trình bày. Đội hoàn thành đầy đủ các yêu cầu đặt ra, đồng thời duy trì tiến độ ổn định trong suốt chương trình. Dù về điểm số chỉ chênh lệch rất nhỏ, đội vẫn cho thấy sự nghiêm túc, tinh thần học hỏi và khả năng phối hợp tốt giữa các thành viên. Đây là một trong những sản phẩm được BTC đánh giá cao về mức độ hoàn thiện và sự nhất quán.
 
 <!--truncate-->

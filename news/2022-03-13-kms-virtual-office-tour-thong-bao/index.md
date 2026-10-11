@@ -8,23 +8,21 @@ tags:
   - label: "Nghề nghiệp & doanh nghiệp"
     permalink: /nghe-nghiep
 image: ./img-1.webp
-description: "[KMS VIRTUAL OFFICE TOUR | THÔNG BÁO] Reng…Reng… Lời đầu tiên, chúng mình xin gửi lời cảm ơn đến tất cả các bạn sinh viên đã giành thời gian quan tâm và đă"
+description: "Reng…Reng… Lời đầu tiên, chúng mình xin gửi lời cảm ơn đến tất cả các bạn sinh viên đã giành thời gian quan tâm và đăng ký tham gia “KMS VIRTUAL OFFICE TOUR”! Các bạn đã đăng ký…"
 ---
 
 \[KMS VIRTUAL OFFICE TOUR | THÔNG BÁO\]
+  
+ Reng…Reng…
+
 
 <!--truncate-->
 
 ![KMS virtual office tour | Thông báo](./img-1.webp)
 
-  
- Reng…Reng…
-  
 Lời đầu tiên, chúng mình xin gửi lời cảm ơn đến tất cả các bạn sinh viên đã giành thời gian quan tâm và đăng ký tham gia “KMS VIRTUAL OFFICE TOUR”!
-
   
  Các bạn đã đăng ký rồi thì hãy chuẩn bị một tâm hồn đẹp để cùng chúng mình cất cánh vào lúc 8h30 - 12h00, thứ 6 ngày 18/03/2022 nhé ạ!!
-
   
  … See more
 

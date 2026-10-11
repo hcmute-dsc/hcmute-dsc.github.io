@@ -8,27 +8,25 @@ tags:
   - label: "Mastering IT"
     permalink: /mastering-it
 image: ./img-1.webp
-description: "Chỉ còn vài ngày nữa thôi, link đăng ký tham dự cuộc thi học thuật MASTERING IT 2022 - Break all limit sẽ bị đóng! Bạn vẫn chưa đăng ký tham gia? TẠI SAO? "
+description: "đóng! Bạn vẫn chưa đăng ký tham gia? TẠI SAO? Bạn vẫn chưa sẵn sàng phá bỏ mọi giới hạn? Bạn vẫn chưa tìm được những đồng minh chiến đấu? Hay... Bạn đã sẵn sàng nhưng vẫn còn thừa…"
 ---
 
 Chỉ còn vài ngày nữa thôi, link đăng ký tham dự cuộc thi học thuật MASTERING IT 2022 - Break all limit sẽ bị đóng!
+  
+ Bạn vẫn chưa đăng ký tham gia?
+
 
 <!--truncate-->
 
 ![Chỉ còn vài ngày nữa thôi, link đăng ký tham dự cuộc thi học thuật MASTERING IT 2022 - Break all limit sẽ bị…](./img-1.webp)
 
+ TẠI SAO?
   
- Bạn vẫn chưa đăng ký tham gia
-
+ Bạn vẫn chưa sẵn sàng phá bỏ mọi giới hạn?
   
- TẠI SAO
+ Bạn vẫn chưa tìm được những đồng minh chiến đấu?
   
- Bạn vẫn chưa sẵn sàng phá bỏ mọi giới hạn
-  
- Bạn vẫn chưa tìm được những đồng minh chiến đấu
-  
- Hay... Bạn đã sẵn sàng nhưng vẫn còn thừa chỗ trên con tàu chinh phục giải thưởng
-
+ Hay... Bạn đã sẵn sàng nhưng vẫn còn thừa chỗ trên con tàu chinh phục giải thưởng?
   
 … See more
 

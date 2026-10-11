@@ -10,17 +10,20 @@ tags:
   - label: "InterviewPrep101"
     permalink: /interviewprep101
 image: ./img-1.webp
-description: "#InterviewPrep101 - Part 4 | Database BÍ KÍP CỐT LÕI CƠ SỞ DỮ LIỆU: TỪ NỀN TẢNG ĐẾN TỐI ƯU Cơ sở dữ liệu không chỉ là nơi lưu trữ, mà là trái tim định hình"
+description: "BÍ KÍP CỐT LÕI CƠ SỞ DỮ LIỆU: TỪ NỀN TẢNG ĐẾN TỐI ƯU Cơ sở dữ liệu không chỉ là nơi lưu trữ, mà là trái tim định hình nên hiệu suất và độ tin cậy của cả hệ thống. Đừng chỉ viết…"
 ---
 
-\#InterviewPrep101 - Part 4 | Database BÍ KÍP CỐT LÕI CƠ SỞ DỮ LIỆU: TỪ NỀN TẢNG ĐẾN TỐI ƯU 🗄️⚡ 🗄️ Cơ sở dữ liệu không chỉ là nơi lưu trữ, mà là trái tim định hình nên hiệu suất và độ tin cậy của cả hệ thống.  
-⚡ Đừng chỉ viết câu lệnh SQL chạy được, hãy cùng mình làm chủ tư duy của một Database Engineer thực thụ thông qua những quyết định thiết kế và nghệ thuật đánh đổi (trade-offs) giữa tốc độ, dung lượng và tính toàn vẹn.
+\#InterviewPrep101 - Part 4 | Database  
+BÍ KÍP CỐT LÕI CƠ SỞ DỮ LIỆU: TỪ NỀN TẢNG ĐẾN TỐI ƯU 🗄️⚡
 
 
 <!--truncate-->
 
 ![InterviewPrep101 - Part 4 | Database](./img-1.webp)
 
+🗄️ Cơ sở dữ liệu không chỉ là nơi lưu trữ, mà là trái tim định hình nên hiệu suất và độ tin cậy của cả hệ thống.  
+⚡ Đừng chỉ viết câu lệnh SQL chạy được, hãy cùng mình làm chủ tư duy của một Database Engineer thực thụ thông qua những quyết định thiết kế và nghệ thuật đánh đổi (trade-offs) giữa tốc độ, dung lượng và tính toàn vẹn.
+  
 \#HCMUTE #HCMUTE\_DSC
 
 <div className="news-gallery">

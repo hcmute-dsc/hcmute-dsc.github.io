@@ -6,26 +6,24 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "[LỚP ÔN TẬP KỸ THUẬT LẬP TRÌNH] Thử thách 6 ngày 6 đêm ôn thi Kỹ thuật lập trình ... Gét gô Chương trình ÔN TẬP KỸ THUẬT LẬP TRÌNH đã đến giai đoạn cuối cù"
+description: "Thử thách 6 ngày 6 đêm ôn thi Kỹ thuật lập trình ... Gét gô Chương trình ÔN TẬP KỸ THUẬT LẬP TRÌNH đã đến giai đoạn cuối cùng!!! BTC chương trình đã chuẩn bị bài thi cuối khóa của…"
 ---
 
 \[LỚP ÔN TẬP KỸ THUẬT LẬP TRÌNH\]
   
- Thử thách 6 ngày 6 đêm ôn thi Kỹ thuật lập trình ... Gét gô  
-Chương trình ÔN TẬP KỸ THUẬT LẬP TRÌNH đã đến giai đoạn cuối cùng!!!
-  
- BTC chương trình đã chuẩn bị bài thi cuối khóa của chương trình để giúp các bạn đạt kết quả tốt hơn trong kì thi sắp tới.
+ Thử thách 6 ngày 6 đêm ôn thi Kỹ thuật lập trình ... Gét gô
 
 <!--truncate-->
 
 ![Lớp ôn tập kỹ thuật lập trình](./img-1.webp)
 
+Chương trình ÔN TẬP KỸ THUẬT LẬP TRÌNH đã đến giai đoạn cuối cùng!!!
+  
+ BTC chương trình đã chuẩn bị bài thi cuối khóa của chương trình để giúp các bạn đạt kết quả tốt hơn trong kì thi sắp tới.
   
  Đối tượng: Toàn khóa KTLT
-
   
  Địa điểm thi thử: tinyurl.com/ThiCuoiKhoaKTLT
-
   
  Th… See more
 

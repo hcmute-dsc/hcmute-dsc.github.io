@@ -9,7 +9,7 @@ tags:
     permalink: /mastering-it
   - label: "Nghề nghiệp & doanh nghiệp"
     permalink: /nghe-nghiep
-description: "ORIENT SOFTWARE x HCMUTE - MASTERING IT Nhận lời mời từ trường ĐH Sư phạm Kỹ thuật TP.HCM, ORIENT SOFTWARE sẽ đồng hành cùng các bạn sinh viên trong cuộc t"
+description: "TP.HCM, ORIENT SOFTWARE sẽ đồng hành cùng các bạn sinh viên trong cuộc thi học thuật truyền thống “MASTERING IT” lần thứ XV được tổ chức vào thứ 6 ngày 16.06.2023. Anh Wright N.…"
 ---
 
 👨‍💻ORIENT SOFTWARE x HCMUTE - MASTERING IT Nhận lời mời từ trường ĐH Sư phạm Kỹ thuật TP.HCM, ORIENT SOFTWARE sẽ đồng hành cùng các bạn sinh viên trong cuộc thi học thuật truyền thống “MASTERING IT” lần thứ XV được tổ chức vào thứ 6 ngày 16.06.2023. Anh Wright N. sẽ đại diện Orient tham dự cuộc thi với vai trò Ban Giám Khảo để cùng tìm ra những đội thi xuất sắc nhất. Bên cạnh đó, các anh chị nhà O cũng sẽ có mặt tại quầy thông tin để hỗ trợ tư vấn tuyển dụng và định hướng nghề nghiệp phù hợp với các bạn sinh viên. Hẹn gặp các đội thi và các bạn HCMUTE-ers thứ 6 này nhé!!!  

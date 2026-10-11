@@ -6,19 +6,18 @@ tags:
   - label: "Chia sẻ kiến thức"
     permalink: /chia-se-kien-thuc
 image: ./img-1.webp
-description: "[EC FUNFACT - 1001 ĐIỀU CÓ THỂ BẠN CHƯA BIẾT VỀ E-COMMERCE] Xin chào các bạn, vậy là sau một khoảng thời gian “ấp ủ” thì Workshop: “E-Commerce: Gain from G"
+description: "Xin chào các bạn, vậy là sau một khoảng thời gian “ấp ủ” thì Workshop: “E-Commerce: Gain from Growth” cũng đã chính thức được ra mắt với mong muốn đem lại cho mọi người những điều…"
 ---
 
 \[EC FUNFACT - 1001 ĐIỀU CÓ THỂ BẠN CHƯA BIẾT VỀ E-COMMERCE\]
+  
+ Xin chào các bạn, vậy là sau một khoảng thời gian “ấp ủ” thì Workshop: “E-Commerce: Gain from Growth” cũng đã chính thức được ra mắt với mong muốn đem lại cho mọi người những điều bổ ích nhất về Thương mại điện tử (E-Commerce). Trong lúc chờ Workshop lên sóng, hãy cùng chúng mình ngó xem thử 10 fun fact của Thương mại điện tử để thư giãn và lượm lặt những kiến thức thú vị nhé!!!
+
 
 <!--truncate-->
 
 ![Ec funfact - 1001 điều có thể bạn chưa biết về e-commerce](./img-1.webp)
 
-  
- Xin chào các bạn, vậy là sau một khoảng thời gian “ấp ủ” thì Workshop: “E-Commerce: Gain from Growth” cũng đã chính thức được ra mắt với mong muốn đem lại cho mọi người những điều bổ ích nhất về Thương mại điện tử (E-Commerce). Trong lúc chờ Workshop lên sóng, hãy cùng chúng mình ngó xem thử 10 fun fact của Thương mại điện tử để thư giãn và lượm lặt những kiến thức thú vị nhé!!!
-
-  
 \1. Thương mại điện tử là ngành kinh doanh phát triển nhanh nhất - ai cũng biết điều đó, vì nó giúp khách hàng tiết kiệm thời gian và công sức của họ.
   
 \2. Theo nghiên cứu, người Việt có sở thích săn hàng giảm giá trong giờ hành chính, có lẽ là để giảm stress trong công việc.
@@ -37,9 +36,11 @@ description: "[EC FUNFACT - 1001 ĐIỀU CÓ THỂ BẠN CHƯA BIẾT VỀ E-COM
   
 \9. Theo một báo cáo nghiên cứu cho biết Việt Nam được dự báo sẽ là thị trường thương mại điện tử phát triển nhanh nhất ở Đông Nam Á vào năm 2026, với tổng giá trị hàng hóa thương mại điện tử (GMV) đạt 56 tỷ USD, gấp 4,5 lần giá trị ước tính vào năm 2021.
   
-\10. Nếu bạn muốn có thêm kiến thức và trải nghiệm về Thương mại điện tử cũng như các kỹ năng trong ngành, bạn nên tham gia Workshop: “E-Commerce: Gain from growth”.  
----------------------------------------------------  
-Workshop “E-Commerce: Gain from Growth” là sự kiện được đồng tổ chức bởi AIESEC in Vietnam và Google Developer Student Clubs - HCMUTE trực thuộc trường Đại học Sư phạm Kỹ thuật TPHCM nhằm mục đích tạo không gian chia sẻ để các bạn sinh viên có cơ hội hiểu hơn về ngành Thương mại điện tử, giúp các bạn tìm ra được mảng công việc phù hợp với năng lực của bản thân cũng như những cơ hội, thách thức và kỹ năng cần có để trang bị tốt cho ngành.  
+\10. Nếu bạn muốn có thêm kiến thức và trải nghiệm về Thương mại điện tử cũng như các kỹ năng trong ngành, bạn nên tham gia Workshop: “E-Commerce: Gain from growth”.
+  
+---------------------------------------------------
+  
+ Workshop “E-Commerce: Gain from Growth” là sự kiện được đồng tổ chức bởi AIESEC in Vietnam và Google Developer Student Clubs - HCMUTE trực thuộc trường Đại học Sư phạm Kỹ thuật TPHCM nhằm mục đích tạo không gian chia sẻ để các bạn sinh viên có cơ hội hiểu hơn về ngành Thương mại điện tử, giúp các bạn tìm ra được mảng công việc phù hợp với năng lực của bản thân cũng như những cơ hội, thách thức và kỹ năng cần có để trang bị tốt cho ngành.  
 ---------------------------------------------------  
 THÔNG TIN VỀ WORKSHOP:  
 ➤ Đối tượng: Sinh viên trường Đại học Sư phạm Kỹ thuật TPHCM và các trường Đại học khác trên địa bàn TPHCM  

@@ -6,7 +6,7 @@ tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
 image: ./img-1.webp
-description: "Chúc mừng ngành Khoa học máy tính trình độ Thạc sĩ của Khoa Công nghệ thông tin - Trường Đại học Sư Phạm Kỹ thuật TPHCM đã đạt chuẩn kiểm định chất lượng C"
+description: "thuật TPHCM đã đạt chuẩn kiểm định chất lượng Chương trình đào tạo."
 ---
 
 Chúc mừng ngành Khoa học máy tính trình độ Thạc sĩ của Khoa Công nghệ thông tin - Trường Đại học Sư Phạm Kỹ thuật TPHCM đã đạt chuẩn kiểm định chất lượng Chương trình đào tạo.

@@ -10,24 +10,28 @@ tags:
   - label: "Recap"
     permalink: /recap
 image: ./img-1.webp
-description: "[RECAP WORKSHOP - BẢO VỆ QUYỀN LỢI LAO ĐỘNG TRONG NGÀNH CÔNG NGHỆ THÔNG TIN] Workshop “Bảo vệ quyền lợi lao động trong ngành Công nghệ Thông tin” đã chính "
+description: "Workshop “Bảo vệ quyền lợi lao động trong ngành Công nghệ Thông tin” đã chính thức khép lại cùng với những kiến thức quý giá dành cho sinh viên khoa CNTT HCMUTE. DSC xin gửi lời…"
 ---
 
-\[RECAP WORKSHOP - BẢO VỆ QUYỀN LỢI LAO ĐỘNG TRONG NGÀNH CÔNG NGHỆ THÔNG TIN\] Workshop “Bảo vệ quyền lợi lao động trong ngành Công nghệ Thông tin” đã chính thức khép lại cùng với những kiến thức quý giá dành cho sinh viên khoa CNTT HCMUTE.  
-✨✨ DSC xin gửi lời cảm ơn trân trọng đến:
+\[RECAP WORKSHOP - BẢO VỆ QUYỀN LỢI LAO ĐỘNG TRONG NGÀNH CÔNG NGHỆ THÔNG TIN\]
+  
+Workshop “Bảo vệ quyền lợi lao động trong ngành Công nghệ Thông tin” đã chính thức khép lại cùng với những kiến thức quý giá dành cho sinh viên khoa CNTT HCMUTE.
+
 
 <!--truncate-->
 
 ![Recap workshop - bảo vệ quyền lợi lao động trong ngành công nghệ thông tin](./img-1.webp)
 
+✨✨ DSC xin gửi lời cảm ơn trân trọng đến:  
 🔶 Công ty Groove Technology đã đồng hành cùng CLB trong việc mang đến một workshop thiết thực và ý nghĩa.  
 🔶 Chị Dương Thị Ngọc Mai (HR Manager) và Chị Tống Quỳnh Ngân (Senior HR Executive) – những diễn giả đã mang đến góc nhìn thực tế, chia sẻ kinh nghiệm và truyền cảm hứng cho các bạn sinh viên.  
-🔶 Và không thể thiếu lời cảm ơn gửi tới các bạn sinh viên đã nhiệt tình tham gia góp phần tạo nên bầu không khí đầy năng lượng trong buổi Workshop hôm nay.  
-💡 Sau workshop này, hy vọng rằng mỗi bạn sẽ mang theo bên mình không chỉ kiến thức về hợp đồng lao động, thuế, bảo hiểm xã hội, mà còn cả sự tự tin để chủ động bảo vệ quyền lợi của mình trên hành trình sự nghiệp. Hãy tiếp tục theo dõi DSC để không bỏ lỡ những sự kiện bổ ích sắp tới nhé!  
-🚀  
--------------------------------------------------------------
+🔶 Và không thể thiếu lời cảm ơn gửi tới các bạn sinh viên đã nhiệt tình tham gia góp phần tạo nên bầu không khí đầy năng lượng trong buổi Workshop hôm nay.
   
-\#DSC #GrooveTechnology #Workshop #QuyenLoiLaoDong #ITCareer #PhapLuat #ITLaw
+💡 Sau workshop này, hy vọng rằng mỗi bạn sẽ mang theo bên mình không chỉ kiến thức về hợp đồng lao động, thuế, bảo hiểm xã hội, mà còn cả sự tự tin để chủ động bảo vệ quyền lợi của mình trên hành trình sự nghiệp.
+  
+Hãy tiếp tục theo dõi DSC để không bỏ lỡ những sự kiện bổ ích sắp tới nhé! 🚀  
+-------------------------------------------------------------  
+ \#DSC #GrooveTechnology #Workshop #QuyenLoiLaoDong #ITCareer #PhapLuat #ITLaw
 
 <div className="news-gallery">
 

@@ -7,7 +7,7 @@ tags:
     permalink: /su-kien-cuoc-thi
   - label: "SQL"
     permalink: /sql
-description: "[Learning Sprint| SQL CHALLENGE] About SQL Challenge Thấy nhiều bạn quan tâm đến chương trình quá nên ad phá lệ tiết lộ thêm một ít thông tin nữa nè! Chươn"
+description: "About SQL Challenge Thấy nhiều bạn quan tâm đến chương trình quá nên ad phá lệ tiết lộ thêm một ít thông tin nữa nè! Chương trình SQL CHALLENGE sẽ tập trung vào PostgreSQL và…"
 ---
 
 **\[Learning Sprint| SQL CHALLENGE\]** **About SQL Challenge** Thấy nhiều bạn quan tâm đến chương trình quá nên ad phá lệ tiết lộ thêm một ít thông tin nữa nè!  
@@ -16,11 +16,11 @@ description: "[Learning Sprint| SQL CHALLENGE] About SQL Challenge Thấy nhiề
 <!--truncate-->
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-\## **🔥 PostgreSQL – Hệ quản trị cơ sở dữ liệu quan hệ tiên tiến** PostgreSQL là một hệ quản trị cơ sở dữ liệu quan hệ (RDBMS) mã nguồn mở với hơn 30 năm phát triển. Nó được đánh giá cao về khả năng mở rộng, bảo mật và hỗ trợ cả SQL lẫn NoSQL, giúp bạn xử lý dữ liệu phức tạp một cách linh hoạt. **🌟 Vì sao PostgreSQL được ưa chuộng?** ✅ Mã nguồn mở  miễn phí – Không tốn phí bản quyền, dễ dàng tùy chỉnh theo nhu cầu.  
+\## **🔥 PostgreSQL – Hệ quản trị cơ sở dữ liệu quan hệ tiên tiến** PostgreSQL là một hệ quản trị cơ sở dữ liệu quan hệ (RDBMS) mã nguồn mở với hơn 30 năm phát triển. Nó được đánh giá cao về khả năng mở rộng, bảo mật và hỗ trợ cả SQL lẫn NoSQL, giúp bạn xử lý dữ liệu phức tạp một cách linh hoạt. **🌟 Vì sao PostgreSQL được ưa chuộng?** ✅ Mã nguồn mở & miễn phí – Không tốn phí bản quyền, dễ dàng tùy chỉnh theo nhu cầu.  
 ✅ Hỗ trợ ACID – Đảm bảo tính nhất quán, toàn vẹn dữ liệu.  
-✅ Hỗ trợ JSON  NoSQL – Lưu trữ và truy vấn dữ liệu dạng JSON, key-value, XML.  
+✅ Hỗ trợ JSON & NoSQL – Lưu trữ và truy vấn dữ liệu dạng JSON, key-value, XML.  
 ✅ Khả năng mở rộng tốt – Hỗ trợ stored procedure với nhiều ngôn ngữ như PL/pgSQL, Python, Java, C++.  
-✅ Replication  Clustering – Tăng khả năng chịu tải với nhiều cơ chế nhân bản dữ liệu.  
+✅ Replication & Clustering – Tăng khả năng chịu tải với nhiều cơ chế nhân bản dữ liệu.  
 ✅ Bảo mật cao – Hỗ trợ xác thực mật khẩu, SSL, mã hóa dữ liệu, phân quyền chặt chẽ. **📌 Khi nào nên dùng PostgreSQL?** 🔹 Khi làm việc với hệ thống dữ liệu lớn, yêu cầu hiệu suất cao.  
 🔹 Khi cần bảo đảm toàn vẹn dữ liệu, tránh lỗi mất mát thông tin.  
 🔹 Khi muốn sử dụng cả SQL và NoSQL trong cùng một hệ quản trị.  

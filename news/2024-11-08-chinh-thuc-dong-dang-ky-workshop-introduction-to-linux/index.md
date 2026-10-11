@@ -8,7 +8,7 @@ tags:
   - label: "Linux"
     permalink: /linux
 image: ./img-1.webp
-description: "[CHÍNH THỨC ĐÓNG ĐĂNG KÝ | WORKSHOP \"INTRODUCTION TO LINUX\" ] _____________________________ Chúng mình xin thông báo rằng, link đăng ký tham gia workshop \""
+description: "Chúng mình xin thông báo rằng, link đăng ký tham gia workshop \"Introduction to Linux: Connect and Explore\" đã chính thức đóng. Rất cảm ơn các bạn đã nhiệt tình quan tâm và đăng ký…"
 ---
 
 🌟\[CHÍNH THỨC ĐÓNG ĐĂNG KÝ | WORKSHOP "INTRODUCTION TO LINUX" \]🌟  

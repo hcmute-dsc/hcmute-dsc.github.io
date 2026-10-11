@@ -5,7 +5,7 @@ category: doi-song-clb
 tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
-description: "IT'S TIME !!!!!"
+description: ""
 ---
 
 IT'S TIME !!!!!

@@ -8,20 +8,19 @@ tags:
   - label: "Mastering IT"
     permalink: /mastering-it
 image: ./img-1.webp
-description: "THÔNG BÁO THAY ĐỔI THỜI GIAN DIỄN RA VÒNG CHUNG KẾT Cuộc thi học thuật truyền thống Mastering IT 2022 đã dần đi đến hồi kết, 5 đội thi xuất sắc của chúng t"
+description: "Cuộc thi học thuật truyền thống Mastering IT 2022 đã dần đi đến hồi kết, 5 đội thi xuất sắc của chúng ta đã sẵn sàng để cùng thể hiện bản lĩnh, chinh phục thử thách. Chắc hẳn các…"
 ---
 
 THÔNG BÁO THAY ĐỔI THỜI GIAN DIỄN RA VÒNG CHUNG KẾT
   
 Cuộc thi học thuật truyền thống Mastering IT 2022 đã dần đi đến hồi kết, 5 đội thi xuất sắc của chúng ta đã sẵn sàng để cùng thể hiện bản lĩnh, chinh phục thử thách.
 
+
 <!--truncate-->
 
 ![Thông báo thay đổi thời gian diễn ra vòng chung kết](./img-1.webp)
 
-  
- Chắc hẳn các bạn cổ động viên đang rất náo nức chờ đón những màn thi ấn tượng, đầy thông minh, tài năng và bức phá của các đội thi ở vòng chung kết này đúng không nhỉ
-
+ Chắc hẳn các bạn cổ động viên đang rất náo nức chờ đón những màn thi ấn tượng, đầy thông minh, tài năng và bức phá của các đội thi ở vòng chung kết này đúng không nhỉ?
   
  Chúng mình cũng thế, chúng mình cũng rất mong chờ được mang lại cho các bạn… See more
 

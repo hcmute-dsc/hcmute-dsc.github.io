@@ -9,20 +9,20 @@ tags:
     permalink: /git-github
   - label: "Study Jam"
     permalink: /study-jam
-description: "[ĐĂNG KÍ THAM GIA CHƯƠNG TRÌNH: “GIT & GITHUB STUDY JAM” ] ……… ĐÙNG CLB GDSC - HCMUTE chính thức mở link đăng ký tham gia chương trình: “GIT & GITHUB STU"
+description: "……… ĐÙNG CLB GDSC - HCMUTE chính thức mở link đăng ký tham gia chương trình: “GIT & GITHUB STUDY JAM.” Kỳ nghỉ Tết cũng sắp sửa kết thúc, vậy bạn đã có dự định gì cho một năm Giáp…"
 ---
 
-\[ĐĂNG KÍ THAM GIA CHƯƠNG TRÌNH: “GIT  GITHUB STUDY JAM” \]  
+\[ĐĂNG KÍ THAM GIA CHƯƠNG TRÌNH: “GIT & GITHUB STUDY JAM” \]  
 ☝️…✌️…🤟…
 
 <!--truncate-->
 
-💥💥 ĐÙNG💥💥 📣📣 CLB GDSC - HCMUTE chính thức mở link đăng ký tham gia chương trình: “GIT  GITHUB STUDY JAM.”  
-🤔🤔 Kỳ nghỉ Tết cũng sắp sửa kết thúc, vậy bạn đã có dự định gì cho một năm Giáp Thìn đầy năng lượng chưa. Nếu chưa hãy cùng GDSC - HCMUTE hái lộc đầu năm với chương trình “GIT  GITHUB STUDY JAM” hứa hẹn sẽ mang lại cho bạn một hành trình khó quên cùng nhiều phần quà giá trị đến từ ban tổ chức.🌟🌟 🔥🔥 Nhanh tay đăng ký tham gia thôi nào!!!  
+💥💥 ĐÙNG💥💥 📣📣 CLB GDSC - HCMUTE chính thức mở link đăng ký tham gia chương trình: “GIT & GITHUB STUDY JAM.”  
+🤔🤔 Kỳ nghỉ Tết cũng sắp sửa kết thúc, vậy bạn đã có dự định gì cho một năm Giáp Thìn đầy năng lượng chưa. Nếu chưa hãy cùng GDSC - HCMUTE hái lộc đầu năm với chương trình “GIT & GITHUB STUDY JAM” hứa hẹn sẽ mang lại cho bạn một hành trình khó quên cùng nhiều phần quà giá trị đến từ ban tổ chức.🌟🌟 🔥🔥 Nhanh tay đăng ký tham gia thôi nào!!!  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 📌📌 Cách thức tham gia:  
 🔑 Đăng ký tại link: tinyurl.com/gitgithub-registration ⏳ Thời hạn đăng ký: 13/02/2024 - 18/02/2024.  
-🙆 Đối tượng: Sinh viên Đại học Sư phạm Kỹ thuật TP.HCM 👤 Số lượng thành viên: Tham gia theo nhóm (3 - 5 người), tối đa 10 nhóm. ‼️ Yêu cầu: Sử dụng Git  GitHub, xây dựng ứng dụng (web/ desktop app/ mobile app) giới thiệu nhóm theo yêu cầu.  
+🙆 Đối tượng: Sinh viên Đại học Sư phạm Kỹ thuật TP.HCM 👤 Số lượng thành viên: Tham gia theo nhóm (3 - 5 người), tối đa 10 nhóm. ‼️ Yêu cầu: Sử dụng Git & GitHub, xây dựng ứng dụng (web/ desktop app/ mobile app) giới thiệu nhóm theo yêu cầu.  
 👌👌 Thể lệ chương trình: [http://tinyurl.com/gdsc-hcmute-studyjam2024](http://tinyurl.com/gdsc-hcmute-studyjam2024) 👉👉 Quyền lợi:  
 ✅ Được cộng điểm rèn luyện theo quy định.  
 ✅ Được thực hành sử dụng Git và GitHub.  

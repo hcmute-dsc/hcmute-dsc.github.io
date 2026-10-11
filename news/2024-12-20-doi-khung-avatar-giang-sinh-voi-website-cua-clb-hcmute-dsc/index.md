@@ -5,7 +5,7 @@ category: doi-song-clb
 tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
-description: "[ĐỔI KHUNG AVATAR GIÁNG SINH VỚI WEBSITE CỦA CLB HCMUTE DSC] ______________________________________ Jingle Bells, Jingle Bells, Jingle all the way Mùa Gián"
+description: "Jingle Bells, Jingle Bells, Jingle all the way Mùa Giáng Sinh đang đến gần, và chúng ta không thể thiếu những bức ảnh đại diện đầy sắc màu và ấm áp để chào đón không khí Giáng…"
 ---
 
 🎄 \[ĐỔI KHUNG AVATAR GIÁNG SINH VỚI WEBSITE CỦA CLB HCMUTE DSC\]  

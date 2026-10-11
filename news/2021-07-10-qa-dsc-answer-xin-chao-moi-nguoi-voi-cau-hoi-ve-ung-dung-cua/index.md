@@ -10,20 +10,20 @@ tags:
   - label: "Q&A"
     permalink: /qa
 image: ./img-1.webp
-description: "[QA DSC - Answer] Xin chào mọi người , Với câu hỏi về ứng dụng của Google giúp hỗ trợ dạy các kỹ năng doanh nghiệp vùa qua, không biết có bao nhiêu bạn có "
+description: "Xin chào mọi người , Với câu hỏi về ứng dụng của Google giúp hỗ trợ dạy các kỹ năng doanh nghiệp vùa qua, không biết có bao nhiêu bạn có câu trả lời đúng nhỉ? Cùng DSC- HCMUTE…"
 ---
 
 \[QA DSC - Answer\]
   
-Xin chào mọi người  
-,
-  
- Với câu hỏi về ứng dụng của Google giúp hỗ trợ dạy các kỹ năng doanh nghiệp vùa qua, không biết có bao nhiêu bạn có câu trả lời đúng nhỉ Cùng DSC- HCMUTE chúng mình dạo sơ qua về ứng dụng thú vị này nhá!
+Xin chào mọi người
 
 <!--truncate-->
 
 ![QA DSC - Answer – Xin chào mọi người , Với câu hỏi về ứng dụng của Google giúp hỗ trợ dạy các kỹ năng doanh…](./img-1.webp)
 
+,
+  
+ Với câu hỏi về ứng dụng của Google giúp hỗ trợ dạy các kỹ năng doanh nghiệp vùa qua, không biết có bao nhiêu bạn có câu trả lời đúng nhỉ? Cùng DSC- HCMUTE chúng mình dạo sơ qua về ứng dụng thú vị này nhá!
   
  Google Primer là một ứng dụng di động miễn phí của Google, được thiết kế để dạy các kỹ năng kinh doanh và tiếp thị kỹ thuật số cho các chủ doanh nghiệp vừa và nhỏ, người khởi nghiệp và người tìm việc bằng các bài học tương tác… See more
 

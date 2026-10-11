@@ -8,21 +8,28 @@ tags:
   - label: "Git & GitHub"
     permalink: /git-github
 image: ./img-1.webp
-description: "[WORKSHOP: GIT&GITHUB | ONSITE] 3 2 1 Sau bao ngày chuẩn bị và chờ đợi, Workshop: Git&GitHub đang chính thức diễn ra. Chúng mình đang rất háo hức chờ đợi c"
+description: "3 2 1 Sau bao ngày chuẩn bị và chờ đợi, Workshop: Git&GitHub đang chính thức diễn ra. Chúng mình đang rất háo hức chờ đợi các bạn để đến với buổi Workshop hôm nay. Còn chần chờ gì…"
 ---
 
-\[WORKSHOP: GIT&GITHUB | ONSITE\] 3️⃣ 2️⃣ 1️⃣ ❤️❤️ Sau bao ngày chuẩn bị và chờ đợi, Workshop: Git&GitHub đang chính thức diễn ra. Chúng mình đang rất háo hức chờ đợi các bạn để đến với buổi Workshop hôm nay.  
-👉👉 Còn chần chờ gì nữa mà không đến check-in ngay thôi nào?
+\[WORKSHOP: GIT&GITHUB | ONSITE\]
+  
+3️⃣ 2️⃣ 1️⃣
+
 
 <!--truncate-->
 
 ![Workshop: Git&github | Onsite](./img-1.webp)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-📅📅 Thời gian: 8g00 ngày 18/02/2023 🏢🏢 Địa điểm: Phòng A4.302 - Đại học Sư phạm Kỹ thuật TP.HCM ❤️❤️ Quyền lợi: Sau khi kết thúc chương trình, sinh viên tham gia hoàn thành bài thu hoạch sẽ được cộng điểm rèn luyện theo quy định của nhà trường. #WorkshopGit\_GitHub  
----------------------------  
-Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
+❤️❤️ Sau bao ngày chuẩn bị và chờ đợi, Workshop: Git&GitHub đang chính thức diễn ra. Chúng mình đang rất háo hức chờ đợi các bạn để đến với buổi Workshop hôm nay.
   
+👉👉 Còn chần chờ gì nữa mà không đến check-in ngay thôi nào??  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+📅📅 Thời gian: 8g00 ngày 18/02/2023  
+🏢🏢 Địa điểm: Phòng A4.302 - Đại học Sư phạm Kỹ thuật TP.HCM  
+❤️❤️ Quyền lợi: Sau khi kết thúc chương trình, sinh viên tham gia hoàn thành bài thu hoạch sẽ được cộng điểm rèn luyện theo quy định của nhà trường.  
+\#WorkshopGit\_GitHub  
+---------------------------  
+Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)  
 \#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE
 
 ---

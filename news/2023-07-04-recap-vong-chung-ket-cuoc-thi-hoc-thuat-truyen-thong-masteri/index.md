@@ -9,7 +9,7 @@ tags:
     permalink: /mastering-it
   - label: "Recap"
     permalink: /recap
-description: "RECAP | VÒNG CHUNG KẾT CUỘC THI HỌC THUẬT TRUYỀN THỐNG “MASTERING IT”, LẦN THỨ XVI - NĂM 2023 Cùng nhìn ngắm lại Vòng chung kết cuộc thi \"Mastering IT\" năm"
+description: "Cùng nhìn ngắm lại Vòng chung kết cuộc thi \"Mastering IT\" năm 2023 các bạn nhé! Xin chào và hẹn gặp lại \"Mastering IT\" 2024. #FITUTE #GDSC_HCMUTE #ITUTE_MasteringIT2023 #FUJINET…"
 ---
 
 RECAP | VÒNG CHUNG KẾT CUỘC THI HỌC THUẬT TRUYỀN THỐNG “MASTERING IT”, LẦN THỨ XVI - NĂM 2023🏆 ✍️ Cùng nhìn ngắm lại Vòng chung kết cuộc thi "Mastering IT" năm 2023 các bạn nhé!  

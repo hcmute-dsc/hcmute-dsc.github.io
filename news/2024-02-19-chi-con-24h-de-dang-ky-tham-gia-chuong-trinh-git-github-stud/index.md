@@ -9,21 +9,21 @@ tags:
     permalink: /git-github
   - label: "Study Jam"
     permalink: /study-jam
-description: "[CHỈ CÒN 24H ĐỂ ĐĂNG KÝ THAM GIA CHƯƠNG TRÌNH GIT & GITHUB STUDY JAM] : Ê biết phim Mai không? : Không, mai nào má? : Mai nữa là chính thức đóng link đăng "
+description: "Ê biết phim Mai không? : Không, mai nào má? : Mai nữa là chính thức đóng link đăng ký tham gia chương trình Git & GitHub Study Jam rồi đó má! Vậy là đã gần một tuần trôi qua kể từ…"
 ---
 
-\[CHỈ CÒN 24H ĐỂ ĐĂNG KÝ THAM GIA CHƯƠNG TRÌNH GIT  GITHUB STUDY JAM\]  
-😁: Ê biết phim Mai không
+\[CHỈ CÒN 24H ĐỂ ĐĂNG KÝ THAM GIA CHƯƠNG TRÌNH GIT & GITHUB STUDY JAM\]  
+😁: Ê biết phim Mai không?
 
 <!--truncate-->
 
-🤔: Không, mai nào má  
-🤭: Mai nữa là chính thức đóng link đăng ký tham gia chương trình Git  GitHub Study Jam rồi đó má!  
-📣📣 Vậy là đã gần một tuần trôi qua kể từ ngày mở link đăng ký tham gia chương trình Git  GitHub Study Jam rồi, CLB nhận được nhiều sự quan tâm từ các bạn sinh viên về chương trình. Sau clip capcut giật giật, vài bài post phổ biến về chương trình, thì chỉ còn 24h nữa là CLB sẽ chính thức đóng link đăng ký rồi.🌟🌟 🔥🔥 Còn chần chờ gì nữa hãy đăng ký tham gia chương trình Git  GitHub Study Jam ngay thôi nào. Cùng GDSC HCMUTE có những kí ức đẹp đẽ và mang về giải thưởng hấp dẫn của cuộc thi ngày thôi nào!✨✨  
+🤔: Không, mai nào má?  
+🤭: Mai nữa là chính thức đóng link đăng ký tham gia chương trình Git & GitHub Study Jam rồi đó má!  
+📣📣 Vậy là đã gần một tuần trôi qua kể từ ngày mở link đăng ký tham gia chương trình Git & GitHub Study Jam rồi, CLB nhận được nhiều sự quan tâm từ các bạn sinh viên về chương trình. Sau clip capcut giật giật, vài bài post phổ biến về chương trình, thì chỉ còn 24h nữa là CLB sẽ chính thức đóng link đăng ký rồi.🌟🌟 🔥🔥 Còn chần chờ gì nữa hãy đăng ký tham gia chương trình Git & GitHub Study Jam ngay thôi nào. Cùng GDSC HCMUTE có những kí ức đẹp đẽ và mang về giải thưởng hấp dẫn của cuộc thi ngày thôi nào!✨✨  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 📌📌 Cách thức tham gia:  
 🔑 Đăng ký tại link: tinyurl.com/gitgithub-registration ⏳ Thời hạn đăng ký: 13/02/2024 - 20/02/2024.  
-🙆 Đối tượng: Sinh viên Đại học Sư phạm Kỹ thuật TP.HCM 👤 Số lượng thành viên: Tham gia theo nhóm (3 - 5 người), tối đa 10 nhóm. ‼️ Yêu cầu: Sử dụng Git  GitHub, xây dựng ứng dụng (web/ desktop app/ mobile app) giới thiệu nhóm theo yêu cầu.  
+🙆 Đối tượng: Sinh viên Đại học Sư phạm Kỹ thuật TP.HCM 👤 Số lượng thành viên: Tham gia theo nhóm (3 - 5 người), tối đa 10 nhóm. ‼️ Yêu cầu: Sử dụng Git & GitHub, xây dựng ứng dụng (web/ desktop app/ mobile app) giới thiệu nhóm theo yêu cầu.  
 👌👌 Thể lệ chương trình: [http://tinyurl.com/gdsc-hcmute-studyjam2024](http://tinyurl.com/gdsc-hcmute-studyjam2024) 👉👉 Quyền lợi:  
 ✅ Được cộng điểm rèn luyện theo quy định.  
 ✅ Được thực hành sử dụng Git và GitHub.  

@@ -5,7 +5,7 @@ category: chia-se-kien-thuc
 tags:
   - label: "Chia sẻ kiến thức"
     permalink: /chia-se-kien-thuc
-description: "#DSCCareerConnect [FSOFT HCM] - Vị trí: Junior Automation Tester: - Hạn ứng tuyển: 31 August, 2025 - Link: https://fsoft-academy.edu.vn/recruitment/hcm-jun"
+description: "https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/"
 ---
 
 \#DSCCareerConnect \[FSOFT HCM\] - Vị trí:** Junior Automation Tester: ** - Hạn ứng tuyển: 31 August, 2025 - Link: [https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/](https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/)

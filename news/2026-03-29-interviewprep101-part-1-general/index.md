@@ -10,17 +10,20 @@ tags:
   - label: "InterviewPrep101"
     permalink: /interviewprep101
 image: ./img-1.webp
-description: "#InterviewPrep101 - Part 1 | General \"GIT DIFF\" CHO MỘT BUỔI PHỎNG VẤN: BẠN LÀ GREEN FLAG HAY RED FLAG? Thay đổi tư duy từ việc coi phỏng vấn là một bài ki"
+description: "\"GIT DIFF\" CHO MỘT BUỔI PHỎNG VẤN: BẠN LÀ GREEN FLAG HAY RED FLAG? Thay đổi tư duy từ việc coi phỏng vấn là một bài kiểm tra sang việc hiểu rằng đó là một hệ thống đánh giá năng…"
 ---
 
-\#InterviewPrep101 - Part 1 | General "GIT DIFF" CHO MỘT BUỔI PHỎNG VẤN: BẠN LÀ GREEN FLAG HAY RED FLAG  
-🚩✅ Thay đổi tư duy từ việc coi phỏng vấn là một bài kiểm tra sang việc hiểu rằng đó là một hệ thống đánh giá năng lực
+\#InterviewPrep101 - Part 1 | General
+  
+ "GIT DIFF" CHO MỘT BUỔI PHỎNG VẤN: BẠN LÀ GREEN FLAG HAY RED FLAG? 🚩✅
 
 
 <!--truncate-->
 
 ![InterviewPrep101 - Part 1 | General](./img-1.webp)
 
+Thay đổi tư duy từ việc coi phỏng vấn là một bài kiểm tra sang việc hiểu rằng đó là một hệ thống đánh giá năng lực
+  
 \#HCMUTE #HCMUTE\_DSC
 
 <div className="news-gallery">

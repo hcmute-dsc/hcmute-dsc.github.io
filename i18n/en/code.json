@@ -454,5 +454,8 @@
   },
   "news.categories.topics": {
     "message": "Topics"
+  },
+  "blog.card.readMore": {
+    "message": "Read more"
   }
 }

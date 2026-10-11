@@ -7,18 +7,18 @@ tags:
     permalink: /su-kien-cuoc-thi
   - label: "Mastering IT"
     permalink: /mastering-it
-description: "[ĐĂNG KÝ DỰ THI CUỘC THI HỌC THUẬT TRUYỀN THỐNG “MASTERING IT” 2023 LẦN THỨ XVI] Giữa ngân hà, giữa ngân hà, giữa ngân hà, biết đâu là, biết đâu là? Biết g"
+description: "Giữa ngân hà, giữa ngân hà, giữa ngân hà, biết đâu là, biết đâu là? Biết gì vậy ta? Bạn có đam mê tìm hiểu các kiến thức về lập trình? Bạn háo hức khi được tiếp cận với nhiều điều…"
 ---
 
 \[ĐĂNG KÝ DỰ THI CUỘC THI HỌC THUẬT TRUYỀN THỐNG “MASTERING IT” 2023 LẦN THỨ XVI\]  
-💫 Giữa ngân hà, giữa ngân hà, giữa ngân hà, biết đâu là, biết đâu là
+💫 Giữa ngân hà, giữa ngân hà, giữa ngân hà, biết đâu là, biết đâu là?
 
 <!--truncate-->
 
-🤔 Biết gì vậy ta  
-✨ Bạn có đam mê tìm hiểu các kiến thức về lập trình  
-✨ Bạn háo hức khi được tiếp cận với nhiều điều mới mẻ trong thời đại số  
-✨ Bạn muốn thể hiện cá tính, bản lĩnh của bản thân  
+🤔 Biết gì vậy ta?  
+✨ Bạn có đam mê tìm hiểu các kiến thức về lập trình?  
+✨ Bạn háo hức khi được tiếp cận với nhiều điều mới mẻ trong thời đại số?  
+✨ Bạn muốn thể hiện cá tính, bản lĩnh của bản thân?  
 🤗Vậy còn ngần ngại gì nữa mà không đăng ký MASTERING IT 2023.  
 👉 MASTERING IT - Một sân chơi học thuật lành mạnh, bổ ích đang chờ đón bạn, là nơi lý tưởng để bạn thỏa sức thể hiện tài năng, tầm hiểu biết của bản thân, bên cạnh đó bạn sẽ được trau dồi thêm nhiều kiến thức mới, tạo được mối quan hệ với những người bạn mới và chắc chắn rằng MIT 2023 sẽ giúp bạn có những trải nghiệm thú vị và đáng nhớ trên con đường học thuật của mình.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  

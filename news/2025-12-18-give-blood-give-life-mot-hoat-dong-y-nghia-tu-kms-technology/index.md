@@ -5,7 +5,7 @@ category: doi-song-clb
 tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
-description: "Give Blood, Give Life – Một hoạt động ý nghĩa từ KMS Technology. Mọi người xem thêm thông tin ở bài gốc nha. Give Blood, Give Life – Một hoạt động ý nghĩa "
+description: "Mọi người xem thêm thông tin ở bài gốc nha. Give Blood, Give Life – Một hoạt động ý nghĩa từ KMS Technology. Mọi người xem thêm thông tin ở bài gốc nha."
 ---
 
 🩸 Give Blood, Give Life – Một hoạt động ý nghĩa từ KMS Technology. Mọi người xem thêm thông tin ở bài gốc nha.  

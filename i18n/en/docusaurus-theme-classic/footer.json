@@ -2,5 +2,9 @@
   "copyright": {
     "message": "Copyright © 2026 HCMUTE Developer Student Club.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Hoạt động": {
+    "message": "Activities",
+    "description": "The label of footer link with label=Hoạt động linking to /news"
   }
 }

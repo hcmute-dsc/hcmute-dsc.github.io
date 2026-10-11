@@ -12,20 +12,26 @@ tags:
   - label: "Recap"
     permalink: /recap
 image: ./img-1.webp
-description: "[TỔNG KẾT | GIT & GITHUB STUDY JAM] Chương trình Git & GitHub Study Jam tại GDSC - HCMUTE đã kết thúc với sự tham gia tích cực và nhiệt huyết từ tất cả các"
+description: "Chương trình Git & GitHub Study Jam tại GDSC - HCMUTE đã kết thúc với sự tham gia tích cực và nhiệt huyết từ tất cả các đội. Qua 3 tuần học tập và thực hành, các bạn đã có những…"
 ---
 
-🎉🎉 \[TỔNG KẾT | GIT  GITHUB STUDY JAM\]  
-🎉🎉 🔥🔥Chương trình Git  GitHub Study Jam tại GDSC - HCMUTE đã kết thúc với sự tham gia tích cực và nhiệt huyết từ tất cả các đội. Qua 3 tuần học tập và thực hành, các bạn đã có những trải nghiệm quý báu với những kỹ năng mới.
+🎉🎉 \[TỔNG KẾT | GIT & GITHUB STUDY JAM\] 🎉🎉
+  
+🔥🔥Chương trình Git & GitHub Study Jam tại GDSC - HCMUTE đã kết thúc với sự tham gia tích cực và nhiệt huyết từ tất cả các đội. Qua 3 tuần học tập và thực hành, các bạn đã có những trải nghiệm quý báu với những kỹ năng mới.
+
 
 <!--truncate-->
 
 ![Tổng kết | Git & GitHub Study Jam](./img-1.webp)
 
-✌️✌️Khép lại hành trình Study Jam, mỗi đội đã có sự phát triển đáng kể qua mỗi tuần, qua việc hoàn thành các nhiệm vụ và thách thức đề ra. Tinh thần học hỏi và sự chia sẻ kiến thức đã làm nên sức mạnh của cộng đồng trong suốt chương trình.  
-💐💐 GDSC - HCMUTE muốn gửi lời cảm ơn chân thành đến tất cả các đội thi đã tham gia, không chỉ vì sự nỗ lực, mà còn vì những cố gắng tạo ra một môi trường học tập tích cực và tràn đầy cảm xúc của các bạn.  
-🍀🍀 Hãy tiếp tục duy trì đam mê và sự sẻ chia trong hành trình học tập và sự nghiệp của mình. Cảm ơn bạn đã là một phần của chương trình, và chúc mừng vì mọi thành công bạn đã đạt được!  
-—---------------------------------------------------------  
+✌️✌️Khép lại hành trình Study Jam, mỗi đội đã có sự phát triển đáng kể qua mỗi tuần, qua việc hoàn thành các nhiệm vụ và thách thức đề ra. Tinh thần học hỏi và sự chia sẻ kiến thức đã làm nên sức mạnh của cộng đồng trong suốt chương trình.
+  
+💐💐 GDSC - HCMUTE muốn gửi lời cảm ơn chân thành đến tất cả các đội thi đã tham gia, không chỉ vì sự nỗ lực, mà còn vì những cố gắng tạo ra một môi trường học tập tích cực và tràn đầy cảm xúc của các bạn.
+  
+🍀🍀 Hãy tiếp tục duy trì đam mê và sự sẻ chia trong hành trình học tập và sự nghiệp của mình. Cảm ơn bạn đã là một phần của chương trình, và chúc mừng vì mọi thành công bạn đã đạt được!
+  
+—---------------------------------------------------------
+  
 🍀🍀 Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: Liên kết Fanpage GDSC - HCMUTE [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
   
 \#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE #STUDY\_JAM #GIT\_GITHUB

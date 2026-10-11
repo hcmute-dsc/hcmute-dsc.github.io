@@ -9,7 +9,7 @@ tags:
     permalink: /gen-4
   - label: "Recap"
     permalink: /recap
-description: "[THƯ MỜI THAM DỰ \"BIRTHDAY AND WELCOME GEN4TH\" ] Cuối tuần vui vẻ @everyone Chủ nhật tuần này, CLB có một sự kiện là \"BIRTHDAY AND WELCOME GEN4TH\" là một d"
+description: "Cuối tuần vui vẻ @everyone Chủ nhật tuần này, CLB có một sự kiện là \"BIRTHDAY AND WELCOME GEN4TH\" là một dịp để chúng ta nhìn lại khoảng thời gian hoạt động vừa qua, cũng như là…"
 ---
 
 \[THƯ MỜI THAM DỰ "BIRTHDAY AND WELCOME GEN4TH" \]  

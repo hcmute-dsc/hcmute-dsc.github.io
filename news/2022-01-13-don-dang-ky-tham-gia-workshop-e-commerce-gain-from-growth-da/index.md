@@ -6,7 +6,7 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "!!!ĐƠN ĐĂNG KÝ THAM GIA WORKSHOP “E-COMMERCE: GAIN FROM GROWTH” ĐÃ CHÍNH THỨC ĐÓNG LẠI Workshop đã nhận được rất nhiều sự quan tâm cũng như đăng ký tham gi"
+description: "Workshop đã nhận được rất nhiều sự quan tâm cũng như đăng ký tham gia của đông đảo các bạn sinh viên, nhưng vì yếu tố kỹ thuật nên số lượng các bạn tham gia là có hạn. Để chương…"
 ---
 
 !!!ĐƠN ĐĂNG KÝ THAM GIA WORKSHOP “E-COMMERCE: GAIN FROM GROWTH” ĐÃ CHÍNH THỨC ĐÓNG LẠI

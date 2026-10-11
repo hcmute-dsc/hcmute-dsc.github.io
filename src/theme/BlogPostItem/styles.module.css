@@ -37,3 +37,104 @@ article h1, article h2, article h3, article h4, article h5, article h6 {
   align-items: center;
   gap: 1rem;
 }
+/* ---- list pages: post cards ---- */
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 !important;
+  overflow: hidden;
+  border-radius: 12px !important;
+  background: var(--ifm-background-surface-color) !important;
+  box-shadow: var(--ifm-global-shadow-lw);
+  transition: box-shadow 150ms, transform 150ms;
+}
+
+.card:hover {
+  box-shadow: var(--ifm-global-shadow-md);
+  transform: translateY(-2px);
+}
+
+.cardCover {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #0b1b3f;
+}
+
+.cardCover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 300ms;
+}
+
+.card:hover .cardCover img {
+  transform: scale(1.03);
+}
+
+.cardBody {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 1.1rem 1.1rem;
+}
+
+.cardMeta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cardCategory {
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  background: var(--ifm-color-primary-contrast-background, var(--ifm-color-emphasis-100));
+  color: var(--ifm-color-primary-darker);
+  font-weight: 600;
+}
+
+.cardCategory:hover {
+  text-decoration: none;
+  color: var(--ifm-color-primary);
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cardTitle a {
+  color: var(--ifm-heading-color);
+}
+
+.cardTitle a:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.cardDesc {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cardMore {
+  margin-top: auto;
+  padding-top: 0.25rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}

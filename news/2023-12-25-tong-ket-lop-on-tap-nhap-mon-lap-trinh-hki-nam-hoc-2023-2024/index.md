@@ -9,7 +9,7 @@ tags:
     permalink: /on-tap-nhap-mon
   - label: "Recap"
     permalink: /recap
-description: "[TỔNG KẾT LỚP ÔN TẬP NHẬP MÔN LẬP TRÌNH HKI NĂM HỌC 2023 - 2024] _______________________________________ Nhằm giúp các bạn rèn luyện tư duy cơ sở lập trình"
+description: "Nhằm giúp các bạn rèn luyện tư duy cơ sở lập trình, Đoàn - Hội khoa Công Nghệ Thông Tin phối hợp cùng với Google Developer Student Clubs - HCMUTE tổ chức lớp ôn tập kiến thức…"
 ---
 
 \[TỔNG KẾT LỚP ÔN TẬP NHẬP MÔN LẬP TRÌNH HKI NĂM HỌC 2023 - 2024\]  

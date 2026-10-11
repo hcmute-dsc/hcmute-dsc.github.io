@@ -10,7 +10,7 @@ tags:
   - label: "Q&A"
     permalink: /qa
 image: ./img-1.webp
-description: "[QA GDSC - Answer] Chào buổi tối mọi người , Với câu hỏi \"Bản ghi nào đã cho phép ánh xạ tên miền thành địa chỉ IP?\", những ai đã thả tym cho đáp án chính "
+description: "Chào buổi tối mọi người , Với câu hỏi \"Bản ghi nào đã cho phép ánh xạ tên miền thành địa chỉ IP?\", những ai đã thả tym cho đáp án chính xác nào? Đó chính là bản ghi A - A Record!!…"
 ---
 
 \[QA GDSC - Answer\]
@@ -24,11 +24,12 @@ Chào buổi tối mọi người
 ,
   
  Với câu hỏi "Bản ghi nào đã cho phép ánh xạ tên miền thành địa chỉ IP?", những ai đã thả  
- tym cho đáp án chính xác nào Đó chính là bản ghi A - A Record!!
+ tym cho đáp án chính xác nào? Đó chính là bản ghi A - A Record!!
   
  Cùng GDSC - HCMUTE tìm hiểu sơ qua về Bản ghi thú vị và không kém phần thiết yếu này nào ^^  
----------------------------  
-Bản ghi A ánh xạ tên miền tới địa chỉ IP của máy tính lưu trữ miền. Bản ghi A sử dụng tên miền để tìm địa chỉ IP của máy tính được kết nối với interne… See more
+---------------------------
+  
+ Bản ghi A ánh xạ tên miền tới địa chỉ IP của máy tính lưu trữ miền. Bản ghi A sử dụng tên miền để tìm địa chỉ IP của máy tính được kết nối với interne… See more
 
 ---
 

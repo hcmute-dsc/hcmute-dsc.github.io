@@ -9,7 +9,7 @@ tags:
     permalink: /hackathon
   - label: "Recap"
     permalink: /recap
-description: "[GDSC VIETNAM HACKATHON 2023 - TỔNG KẾT VÀ NHÌN LẠI] Ngày 25/3/2023 Tại Hội trường Hội Nhập - Trường Đại học Giao Thông Vận Tải TP.HCM đã diễn ra chương tr"
+description: "Ngày 25/3/2023 Tại Hội trường Hội Nhập - Trường Đại học Giao Thông Vận Tải TP.HCM đã diễn ra chương trình DEMO DAY, đây là vòng trình diễn của TOP 10 dự án công nghệ xuất sắc nhất…"
 ---
 
 \[GDSC VIETNAM HACKATHON 2023 - TỔNG KẾT VÀ NHÌN LẠI\] Ngày 25/3/2023 Tại Hội trường Hội Nhập - Trường Đại học Giao Thông Vận Tải TP.HCM đã diễn ra chương trình DEMO DAY, đây là vòng trình diễn của TOP 10 dự án công nghệ xuất sắc nhất của cuộc thi GDSC HACKATHON VIETNAM 2023 sau khi vượt qua hơn 110 hồ sơ đăng ký, 50 đội thi tham gia Vòng loại ý tưởng, 24 đội thi tiến vào vòng Chung kết Hackathon suốt 24h giờ thi đấu.  

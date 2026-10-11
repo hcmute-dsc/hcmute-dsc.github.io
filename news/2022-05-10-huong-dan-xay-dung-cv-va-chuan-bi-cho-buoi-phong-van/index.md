@@ -8,21 +8,20 @@ tags:
   - label: "Nghề nghiệp & doanh nghiệp"
     permalink: /nghe-nghiep
 image: ./img-1.webp
-description: "Hướng dẫn xây dựng CV và chuẩn bị cho buổi phỏng vấn Mời các bạn tham gia chương trình Google Developers Student Club Skills UP! Buổi nói chuyện đầu tiên, "
+description: "Mời các bạn tham gia chương trình Google Developers Student Club Skills UP! Buổi nói chuyện đầu tiên, diễn ra vào tối nay lúc 7PM Thứ ba Diễn giả: Google's Tech Recruiter, Jocelyn…"
 ---
 
 Hướng dẫn xây dựng CV và chuẩn bị cho buổi phỏng vấn
+  
+Mời các bạn tham gia chương trình Google Developers Student Club Skills UP! Buổi nói chuyện đầu tiên, diễn ra vào tối nay lúc 7PM Thứ ba
 
 <!--truncate-->
 
 ![Hướng dẫn xây dựng CV và chuẩn bị cho buổi phỏng vấn](./img-1.webp)
 
-  
-Mời các bạn tham gia chương trình Google Developers Student Club Skills UP! Buổi nói chuyện đầu tiên, diễn ra vào tối nay lúc 7PM Thứ ba  
 Diễn giả: Google's Tech Recruiter, Jocelyn Yap sẽ chia sẻ cho chúng ta những góc nhìn và câu chuyện cũng như cơ hội tuyển dụng đến bạn.
-
   
- Nhà tuyển dụng thường mong muốn điều gì
+ Nhà tuyển dụng thường mong muốn điều gì?
   
  Xây dựng hồ sơ ấn tượng
   

@@ -6,21 +6,19 @@ tags:
   - label: "Sự kiện & cuộc thi"
     permalink: /su-kien-cuoc-thi
 image: ./img-1.webp
-description: "[beCod3r 2021] Vòng Chung kết cuộc thi học thuật online “beCod3r” sắp diễn ra!! Sau vòng Sơ loại đầy căng thẳng, các đội đã khẳng định thực lực của mình, v"
+description: "Vòng Chung kết cuộc thi học thuật online “beCod3r” sắp diễn ra!! Sau vòng Sơ loại đầy căng thẳng, các đội đã khẳng định thực lực của mình, vượt qua các thử thách và có mặt tại…"
 ---
 
 \[beCod3r 2021\]
+  
+Vòng Chung kết cuộc thi học thuật online “beCod3r” sắp diễn ra!!
+
 
 <!--truncate-->
 
 ![beCod3r 2021 – Vòng Chung kết cuộc thi học thuật online “beCod3r” sắp diễn ra!!](./img-1.webp)
 
-  
-Vòng Chung kết cuộc thi học thuật online “beCod3r” sắp diễn ra!!
-
-  
- Sau vòng Sơ loại đầy căng thẳng, các đội đã khẳng định thực lực của mình, vượt qua các thử thách và có mặt tại vòng Chung kết. Chắc hẳn các đội đang nôn nóng đến vòng tiếp theo rồi nhỉ Không để các đội thất vọng, vòng Chung kết sắp bắt đầu rồi đây!
-
+ Sau vòng Sơ loại đầy căng thẳng, các đội đã khẳng định thực lực của mình, vượt qua các thử thách và có mặt tại vòng Chung kết. Chắc hẳn các đội đang nôn nóng đến vòng tiếp theo rồi nhỉ? Không để các đội thất vọng, vòng Chung kết sắp bắt đầu rồi đây!
   
  Các đội nhớ lưu ý đến thời gian để tránh bị bỏ lỡ Vòng Chung kết này nha.
   

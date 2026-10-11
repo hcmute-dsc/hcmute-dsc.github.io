@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Translate from '@docusaurus/Translate';
 import Image from '@theme/IdealImage';
 import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
@@ -73,12 +74,46 @@ function getCardImage(user: Project): string {
   return HCMUTEDSC;
 }
 
+/**
+ * Website screenshot with a fallback: the screenshot service answers failures with a 200 + its logo
+ * as SVG (and an X-11ty-Error-Message header), so those, and network errors, show the club card.
+ */
+function ScreenshotImage({ src, alt }: { src: string; alt: string }) {
+  const fallbackSrc = useBaseUrl('/img/hcmute-dsc-social-card.jpg');
+  const [current, setCurrent] = React.useState(fallbackSrc);
+  React.useEffect(() => {
+    let objectUrl: string | null = null;
+    let cancelled = false;
+    fetch(src)
+      .then((res) => {
+        const failed = !res.ok
+          || res.headers.has('x-11ty-error-message')
+          || (res.headers.get('content-type') ?? '').includes('svg');
+        return failed ? null : res.blob();
+      })
+      .then((blob) => {
+        if (blob && !cancelled) {
+          objectUrl = URL.createObjectURL(blob);
+          setCurrent(objectUrl);
+        }
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+      if (objectUrl) URL.revokeObjectURL(objectUrl);
+    };
+  }, [src]);
+  return <img src={current} alt={alt} loading="lazy" decoding="async" />;
+}
+
 function ShowcaseCard({ user }: { user: Project }) {
   const image = getCardImage(user);
   return (
     <li key={user.title} className="card shadow--md">
       <div className={clsx('card__image', styles.showcaseCardImage)}>
-        <Image img={image} alt={user.title} loading='lazy' about={user.title} decoding='async' />
+        {typeof image === 'string'
+          ? <ScreenshotImage src={image} alt={user.title} />
+          : <Image img={image} alt={user.title} loading='lazy' about={user.title} decoding='async' />}
       </div>
 
       <div className="card__body">

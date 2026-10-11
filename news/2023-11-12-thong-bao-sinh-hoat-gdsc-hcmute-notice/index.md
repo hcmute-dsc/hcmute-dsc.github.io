@@ -5,7 +5,7 @@ category: workshop-sinh-hoat
 tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
-description: "[THÔNG BÁO SINH HOẠT] #gdsc_hcmute_notice Cuối tuần highlight @everyone Hôm nay chúng ta sẽ cùng nhau trao đổi và chia sẻ về một chủ đề mà ad nghĩ sẽ có nh"
+description: "#gdsc_hcmute_notice Cuối tuần highlight @everyone Hôm nay chúng ta sẽ cùng nhau trao đổi và chia sẻ về một chủ đề mà ad nghĩ sẽ có nhiều bạn quan tâm. Đó là chủ đề \"Learning in…"
 ---
 
 \[THÔNG BÁO SINH HOẠT\] #gdsc\_hcmute\_notice 😘 Cuối tuần highlight @everyone 👉👉 Hôm nay chúng ta sẽ cùng nhau trao đổi và chia sẻ về một chủ đề mà ad nghĩ sẽ có nhiều bạn quan tâm. Đó là chủ đề "Learning in Scrum-style" - chủ đề về áp dụng scrum trong việc quản lý công việc 🍀🍀 Anh Võ Trần Minh Quân sẽ là speaker chia sẻ trong buổi ngày hôm nay.  

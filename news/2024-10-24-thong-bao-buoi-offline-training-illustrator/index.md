@@ -7,7 +7,7 @@ tags:
     permalink: /workshop-sinh-hoat
   - label: "Thiết kế"
     permalink: /thiet-ke
-description: "[THÔNG BÁO BUỔI OFFLINE TRAINING ILLUSTRATOR] Buổi offline training Illustrator dành cho tất cả các bạn yêu thích thiết kế đồ họa đã sẵn sàng! Nếu bạn là t"
+description: "Buổi offline training Illustrator dành cho tất cả các bạn yêu thích thiết kế đồ họa đã sẵn sàng! Nếu bạn là thành viên ban truyền thông hay đơn giản chỉ muốn khám phá công cụ mạnh…"
 ---
 
 \[THÔNG BÁO BUỔI OFFLINE TRAINING ILLUSTRATOR\]  

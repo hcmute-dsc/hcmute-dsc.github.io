@@ -5,11 +5,11 @@ category: tuyen-thanh-vien
 tags:
   - label: "Tuyển thành viên"
     permalink: /tuyen-thanh-vien
-description: "LOA, LOA, LOA, đại gia đình HCMUTE DSC ơi! Mọi người có quên gì hông nè? SỰ KIỆN ĐẶC BIỆT: CHÀO ĐÓN CÁC THÀNH VIÊN MỚI VÀ KỶ NIỆM 3 NĂM CÙNG HCMUTE DSC 24h"
+description: "đại gia đình HCMUTE DSC ơi! Mọi người có quên gì hông nè? SỰ KIỆN ĐẶC BIỆT: CHÀO ĐÓN CÁC THÀNH VIÊN MỚI VÀ KỶ NIỆM 3 NĂM CÙNG HCMUTE DSC 24h đếm ngược và mọi người đừng quên có…"
 ---
 
 📢📢📢 LOA, LOA, LOA, đại gia đình HCMUTE DSC ơi!  
-✨✨ 😍 Mọi người có quên gì hông nè
+✨✨ 😍 Mọi người có quên gì hông nè?
 
 <!--truncate-->
 

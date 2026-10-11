@@ -61,6 +61,8 @@ import {
   WorkplaceIcon
 } from "react-share";
 import Translate from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 export function ShareSocialMedia({ isBrowser, title, ...rest }) {
   return (
@@ -89,9 +91,42 @@ export function ShareSocialMedia({ isBrowser, title, ...rest }) {
   )
 }
 
+/** List pages: a compact card (cover, date, category, title, summary) instead of the post preview. */
+function PostCard() {
+  const { metadata, assets } = useBlogPost();
+  const { permalink, title, formattedDate, date, tags, description, frontMatter } = metadata;
+  const cover = assets.image ?? frontMatter.image;
+  const fallback = useBaseUrl('/img/hcmute-dsc-social-card.jpg');
+  const category = tags[0];
+  return (
+    <article className={styles.card}>
+      <Link to={permalink} className={styles.cardCover} tabIndex={-1} aria-hidden="true">
+        <img src={cover || fallback} alt="" loading="lazy" decoding="async" />
+      </Link>
+      <div className={styles.cardBody}>
+        <div className={styles.cardMeta}>
+          <time dateTime={date}>{formattedDate}</time>
+          {category && <Link to={category.permalink} className={styles.cardCategory}>{category.label}</Link>}
+        </div>
+        <h2 className={styles.cardTitle}>
+          <Link to={permalink}>{title}</Link>
+        </h2>
+        {description && <p className={styles.cardDesc}>{description}</p>}
+        <Link to={permalink} className={styles.cardMore}>
+          <Translate id="blog.card.readMore">Đọc tiếp</Translate> →
+        </Link>
+      </div>
+    </article>
+  );
+}
+
 export default function BlogPostItemWrapper(props) {
   const { metadata, isBlogPostPage } = useBlogPost()
   const isBrowser = useIsBrowser();
+
+  if (!isBlogPostPage) {
+    return <PostCard />;
+  }
 
   const { frontMatter, slug, title } = metadata
   const { enableComments } = frontMatter

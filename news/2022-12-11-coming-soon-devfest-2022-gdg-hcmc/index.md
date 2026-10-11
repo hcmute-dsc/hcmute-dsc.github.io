@@ -7,7 +7,7 @@ tags:
     permalink: /su-kien-cuoc-thi
   - label: "AI"
     permalink: /ai
-description: "[COMING SOON] DEVFEST 2022 - GDG HCMC Devfest GDG HCMC đã chính thức quay trở lại rồi đây! Trước khi khép lại năm 2022, GDG HCMC mang đến sự kiện Devfest 2"
+description: "DEVFEST 2022 - GDG HCMC Devfest GDG HCMC đã chính thức quay trở lại rồi đây! Trước khi khép lại năm 2022, GDG HCMC mang đến sự kiện Devfest 2022 - nơi quy tụ hàng loạt diễn giả uy…"
 ---
 
 🔔\[COMING SOON\] DEVFEST 2022 - GDG HCMC 🔔 Devfest GDG HCMC đã chính thức quay trở lại rồi đây! Trước khi khép lại năm 2022, GDG HCMC mang đến sự kiện Devfest 2022 - nơi quy tụ hàng loạt diễn giả uy tín, hàng đầu trong ngành với các chủ đề HOT hiện nay như: Blockchain, startup, mobile app, machine learning,... Từ đó mang lại cho người tham dự, khách mời có cái nhìn tổng quan về những "hot trend" công nghệ trên thị trường hiện nay.  

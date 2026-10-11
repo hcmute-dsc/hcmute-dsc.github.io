@@ -5,7 +5,7 @@ category: doi-song-clb
 tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
-description: "[Khảo sát hoạt động 2024 - 2025] Xin chào @everyone Chúng ta cũng đã đi hoạt động hết một năm. Nên mình sẽ khảo sát ý kiến cũng như là nguyện vọng của từng"
+description: "Xin chào @everyone Chúng ta cũng đã đi hoạt động hết một năm. Nên mình sẽ khảo sát ý kiến cũng như là nguyện vọng của từng thành viên để CLB có thể phát triển hơn trong năm tới…"
 ---
 
 **🌟\[Khảo sát hoạt động 2024 - 2025\]🌟** ✋Xin chào @everyone ⭐Chúng ta cũng đã đi hoạt động hết một năm. Nên mình sẽ khảo sát ý kiến cũng như là nguyện vọng của từng thành viên để CLB có thể phát triển hơn trong năm tới nha.  

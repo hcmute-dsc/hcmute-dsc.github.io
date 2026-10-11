@@ -10,17 +10,17 @@ tags:
   - label: "AI"
     permalink: /ai
 image: ./img-1.webp
-description: "Shared with Public MASTERING IT 2022 COMING SOON Yolo! Mastering IT đã quay trở lại rồi đây!! Với diện mạo hoàn toàn mới, thử thách và hấp dẫn hơn bao giờ "
+description: "MASTERING IT 2022 COMING SOON Yolo! Mastering IT đã quay trở lại rồi đây!! Với diện mạo hoàn toàn mới, thử thách và hấp dẫn hơn bao giờ hết. Hứa hẹn mang đến cho tháng 5 một sự…"
 ---
 
 Shared with Public  
 MASTERING IT 2022 COMING SOON
 
+
 <!--truncate-->
 
 ![Shared with Public](./img-1.webp)
 
-  
  Yolo! Mastering IT đã quay trở lại rồi đây!!
   
  Với diện mạo hoàn toàn mới, thử thách và hấp dẫn hơn bao giờ hết.
@@ -30,7 +30,6 @@ MASTERING IT 2022 COMING SOON
  Đoán xem ai sẽ là người tiếp theo ghi danh vào lịch sử các nhà vô địch của Mastering IT nào!!
   
  Thông tin chi tiết và cách thức tham gia sẽ được bật mí trong thời gian sắp tới.
-
   
  C… See more
 

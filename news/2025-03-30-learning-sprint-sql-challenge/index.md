@@ -9,10 +9,10 @@ tags:
     permalink: /sql
   - label: "AI"
     permalink: /ai
-description: "[Learning Sprint| SQL CHALLENGE] SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN! Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa? Buổi hướng dẫn đầu tiên của SQL CHA"
+description: "SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN! Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa? Buổi hướng dẫn đầu tiên của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ…"
 ---
 
-**\[Learning Sprint| SQL CHALLENGE\]** 📢 **SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN!** 🚀 🤩 Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa Buổi hướng dẫn đầu tiên của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan tâm đến SQL, Database và PostgreSQL đều có thể tham gia!  
+**\[Learning Sprint| SQL CHALLENGE\]** 📢 **SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN!** 🚀 🤩 Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa? Buổi hướng dẫn đầu tiên của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan tâm đến SQL, Database và PostgreSQL đều có thể tham gia!  
 🔹 **Buổi học này có gì?** ✅ Giới thiệu chương trình, hình thức kiểm tra đánh giá ✅ Tổng quan về Database, SQL, PostgreSQL ✅ Các truy vấn cơ bản
 
 <!--truncate-->
@@ -20,7 +20,7 @@ description: "[Learning Sprint| SQL CHALLENGE] SQL CHALLENGE - BUỔI HỌC Đ�
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 📅 **THÔNG TIN CHI TIẾT** ⏰ **Thời gian:** 21:00, ngày 30/03/2025 🎤 **Speaker:** Anh Nguyễn Huỳnh Minh Tiến 📍 **Hình thức:** Online qua Google Meet 👉 [http://meet.google.com/vsz-gndb-zrd](http://meet.google.com/vsz-gndb-zrd) Hẹn gặp mọi người vào tối nay nhé!  
 🚀 #SQL\_Challenge #HCMUTE\_DSC #PostgreSQL #LearningSprint #Database  
-**\[Learning Sprint| SQL CHALLENGE\]** 📢 **SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN!** 🚀 🤩 Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa Buổi hướng dẫn đầu tiên của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan tâm đến SQL, Database và PostgreSQL đều có thể tham gia!  
+**\[Learning Sprint| SQL CHALLENGE\]** 📢 **SQL CHALLENGE - BUỔI HỌC ĐẦU TIÊN!** 🚀 🤩 Bạn đã sẵn sàng để bắt đầu hành trình với SQL chưa? Buổi hướng dẫn đầu tiên của SQL CHALLENGE sẽ diễn ra vào tối nay! Buổi chia sẻ này không chỉ dành riêng cho các bạn đã đăng ký mà bất kỳ ai quan tâm đến SQL, Database và PostgreSQL đều có thể tham gia!  
 🔹 **Buổi học này có gì?** ✅ Giới thiệu chương trình, hình thức kiểm tra đánh giá ✅ Tổng quan về Database, SQL, PostgreSQL ✅ Các truy vấn cơ bản  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 📅 **THÔNG TIN CHI TIẾT** ⏰ **Thời gian:** 21:00, ngày 30/03/2025 🎤 **Speaker:** Anh Nguyễn Huỳnh Minh Tiến 📍 **Hình thức:** Online qua Google Meet 👉 [http://meet.google.com/vsz-gndb-zrd](http://meet.google.com/vsz-gndb-zrd) Hẹn gặp mọi người vào tối nay nhé!  

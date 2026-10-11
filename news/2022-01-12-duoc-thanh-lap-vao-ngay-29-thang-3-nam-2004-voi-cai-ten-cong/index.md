@@ -6,7 +6,7 @@ tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
 image: ./img-1.webp
-description: "Được thành lập vào ngày 29 tháng 3 năm 2004 với cái tên Công ty TNHH Thương mại Dịch vụ Tin học An Phát. Sau hơn 18 năm đầy thăng trầm và khốc liệt trên th"
+description: "Sau hơn 18 năm đầy thăng trầm và khốc liệt trên thị trường phân phối, bán lẻ Máy tính - Linh kiện máy tính, thiết bị văn phòng. Trên chặng đường phát triển đó, An Phát Computer đã…"
 ---
 
 Được thành lập vào ngày 29 tháng 3 năm 2004 với cái tên Công ty TNHH Thương mại Dịch vụ Tin học An Phát. Sau hơn 18 năm đầy thăng trầm và khốc liệt trên thị trường phân phối, bán lẻ Máy tính - Linh kiện máy tính, thiết bị văn phòng. Trên chặng đường phát triển đó, An Phát Computer đã gặt hái được nhiều thành tích cao và đạt những dấu mốc thành công đầy tự hào.

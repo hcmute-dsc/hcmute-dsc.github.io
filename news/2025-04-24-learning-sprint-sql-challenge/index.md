@@ -9,7 +9,7 @@ tags:
     permalink: /sql
   - label: "Recap"
     permalink: /recap
-description: "[Learning Sprint| SQL CHALLENGE] TỔNG KẾT HÀNH TRÌNH HCMUTE DSC SQL CHALLENGE – CHÚC MỪNG NHỮNG NHÀ VỀ ĐÍCH! Vậy là hành trình khám phá và chinh phục thế g"
+description: "TỔNG KẾT HÀNH TRÌNH HCMUTE DSC SQL CHALLENGE – CHÚC MỪNG NHỮNG NHÀ VỀ ĐÍCH! Vậy là hành trình khám phá và chinh phục thế giới dữ liệu với SQL cùng HCMUTE DSC SQL Challenge đã…"
 ---
 
 \[Learning Sprint| SQL CHALLENGE\] TỔNG KẾT HÀNH TRÌNH HCMUTE DSC SQL CHALLENGE – CHÚC MỪNG NHỮNG NHÀ VỀ ĐÍCH! Vậy là hành trình khám phá và chinh phục thế giới dữ liệu với SQL cùng HCMUTE DSC SQL Challenge đã chính thức khép lại! Xin gửi lời cảm ơn chân thành đến tất cả các bạn đã nhiệt tình tham gia và nỗ lực hết mình trong suốt thời gian qua.  

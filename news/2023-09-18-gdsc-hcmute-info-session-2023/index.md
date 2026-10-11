@@ -6,21 +6,27 @@ tags:
   - label: "Sự kiện & cuộc thi"
     permalink: /su-kien-cuoc-thi
 image: ./img-1.webp
-description: "[GDSC - HCMUTE | INFO SESSION 2023] Vậy là chúng mình cũng đã được giới thiệu về GDSC - HCMUTE đến các bạn Tân sinh viên khóa K23 trong buổi Lễ nhập môn củ"
+description: "Vậy là chúng mình cũng đã được giới thiệu về GDSC - HCMUTE đến các bạn Tân sinh viên khóa K23 trong buổi Lễ nhập môn của Đoàn - Hội Khoa Công nghệ thông tin. Chúng mình hy vọng…"
 ---
 
-\[GDSC - HCMUTE | INFO SESSION 2023\]  
+\[GDSC - HCMUTE | INFO SESSION 2023\]
+  
 ✌️✌️ Vậy là chúng mình cũng đã được giới thiệu về GDSC - HCMUTE đến các bạn Tân sinh viên khóa K23 trong buổi Lễ nhập môn của Đoàn - Hội Khoa Công nghệ thông tin.
+
 
 <!--truncate-->
 
 ![GDSC - HCMUTE | Info Session 2023](./img-1.webp)
 
-🍀🍀 Chúng mình hy vọng rằng các bạn cũng đã phần nào hiểu thêm về GDSC - HCMUTE và những hoạt động mà CLB mang lại.  
-💌💌 Hy vọng rằng chúng ta sẽ gặp lại nhau vào đợt Tuyển thành viên sắp tới. Các bạn hãy chờ đợi chúng mình nhaa!!!!  
+🍀🍀 Chúng mình hy vọng rằng các bạn cũng đã phần nào hiểu thêm về GDSC - HCMUTE và những hoạt động mà CLB mang lại.
+  
+💌💌 Hy vọng rằng chúng ta sẽ gặp lại nhau vào đợt Tuyển thành viên sắp tới. Các bạn hãy chờ đợi chúng mình nhaa!!!!
+  
 💚💚 Chúc các bạn Tân sinh viên một năm học mới thành công và một chặng đường mới rực rỡ 💚💚  
 ---------------------------  
-Muốn biết thêm thông tin về GDSC toàn cầu, các bạn hãy vào trang web: [https://developers.google.com/community/dsc](https://developers.google.com/community/dsc) Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
+Muốn biết thêm thông tin về GDSC toàn cầu, các bạn hãy vào trang web: [https://developers.google.com/community/dsc](https://developers.google.com/community/dsc)
+  
+Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
   
 \#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE
 

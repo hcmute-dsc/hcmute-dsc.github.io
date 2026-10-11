@@ -8,25 +8,23 @@ tags:
   - label: "AI"
     permalink: /ai
 image: ./img-1.webp
-description: "[MEETUP WITH GDSC - HCMUTE] Chào mọi người! Chào mọi người! Bạn có hứng thú với các thuật toán trong AI? Bạn muốn củng cố kiến thức về thuật toán? Bạn tò m"
+description: "Chào mọi người! Chào mọi người! Bạn có hứng thú với các thuật toán trong AI? Bạn muốn củng cố kiến thức về thuật toán? Bạn tò mò một buổi sinh hoạt sẽ diễn ra như thế nào? … See…"
 ---
 
 \[MEETUP WITH GDSC - HCMUTE\]
+  
+ Chào mọi người! Chào mọi người!
+
 
 <!--truncate-->
 
 ![Meetup with GDSC - HCMUTE](./img-1.webp)
 
+ Bạn có hứng thú với các thuật toán trong AI?
   
- Chào mọi người! Chào mọi người!
-
+ Bạn muốn củng cố kiến thức về thuật toán?
   
- Bạn có hứng thú với các thuật toán trong AI
-  
- Bạn muốn củng cố kiến thức về thuật toán
-  
- Bạn tò mò một buổi sinh hoạt sẽ diễn ra như thế nào
-
+ Bạn tò mò một buổi sinh hoạt sẽ diễn ra như thế nào?
   
 … See more
 

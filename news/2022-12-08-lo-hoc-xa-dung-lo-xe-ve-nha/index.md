@@ -7,7 +7,7 @@ tags:
     permalink: /doi-song-clb
   - label: "AI"
     permalink: /ai
-description: "Lỡ học xa, đừng lỡ xe về nhà! Tết là dịp để đoàn viên sau một năm đằng đẵng những bộn bề, lo toan. Và những ai ‘lỡ’ theo đuổi tương lai ở một vùng đất xa, "
+description: "Tết là dịp để đoàn viên sau một năm đằng đẵng những bộn bề, lo toan. Và những ai ‘lỡ’ theo đuổi tương lai ở một vùng đất xa, hẳn sẽ càng thấm thía cảm giác đợi chờ vào những tháng…"
 ---
 
 Lỡ học xa, đừng lỡ xe về nhà! Tết là dịp để đoàn viên sau một năm đằng đẵng những bộn bề, lo toan. Và những ai ‘lỡ’ theo đuổi tương lai ở một vùng đất xa, hẳn sẽ càng thấm thía cảm giác đợi chờ vào những tháng cuối năm, để kịp cầm trên tay tấm vé tàu, vé xe về nhà đón Tết. Chiếc vé về quê, với nhiều người có thể chỉ đơn thuần là chiếc vé, nhưng với một số khác, nó là cả ước mơ, là nhiều sự nỗ lực. Với mong muốn được sẻ chia, KMS hân hạnh được đồng hành cùng các bạn sinh viên CNTT trên hành trình thứ 4 của "Xe Về Nhà 2023", để việc học xa nhà không còn là một phần trăn trở mỗi khi Tết về. THÔNG TIN CHI TIẾT:  

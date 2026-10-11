@@ -8,12 +8,13 @@ tags:
   - label: "Nghề nghiệp & doanh nghiệp"
     permalink: /nghe-nghiep
 image: ./img-1.webp
-description: "[KMS VIRTUAL OFFICE TOUR] Tin vui về, tin vui về nè mọi người ơi! KMS VIRTUAL OFFICE TOUR CHÍNH THỨC HẠ CÁNH TẠI GDSC HCMUTE! KMS TOUR - Chương trình tham "
+description: "Tin vui về, tin vui về nè mọi người ơi! KMS VIRTUAL OFFICE TOUR CHÍNH THỨC HẠ CÁNH TẠI GDSC HCMUTE! KMS TOUR - Chương trình tham quan văn phòng và gặp gỡ con người KMS, một trong…"
 ---
 
 \[KMS VIRTUAL OFFICE TOUR\]
   
 Tin vui về, tin vui về nè mọi người ơi!
+
 
 <!--truncate-->
 

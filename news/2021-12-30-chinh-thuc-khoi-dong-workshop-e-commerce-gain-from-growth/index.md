@@ -6,10 +6,11 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "[CHÍNH THỨC KHỞI ĐỘNG WORKSHOP “E-COMMERCE: GAIN FROM GROWTH”] Đăng ký tại đây: https://tinyurl.com/ECGFGFanpage Sổ tay thông tin: https://tinyurl.com/ECSo"
+description: "Đăng ký tại đây: https://tinyurl.com/ECGFGFanpage Sổ tay thông tin: https://tinyurl.com/ECSoTaySuKien Tham gia Group sự kiện tại: https://www.facebook.com/groups/ecgainfromgrowth…"
 ---
 
-\[CHÍNH THỨC KHỞI ĐỘNG WORKSHOP “E-COMMERCE: GAIN FROM GROWTH”\]  
+\[CHÍNH THỨC KHỞI ĐỘNG WORKSHOP “E-COMMERCE: GAIN FROM GROWTH”\]
+  
 ➤ Đăng ký tại đây: [https://tinyurl.com/ECGFGFanpage](https://tinyurl.com/ECGFGFanpage)
 
 <!--truncate-->
@@ -21,10 +22,11 @@ description: "[CHÍNH THỨC KHỞI ĐỘNG WORKSHOP “E-COMMERCE: GAIN FROM GR
 ---------------------------------------------------  
 Trước sự phát triển như vũ bão của công nghệ thông tin cùng cuộc cách mạng công nghiệp 4.0, ngành Thương mại điện tử (E-Commerce) đã và đang trở thành một xu hướng phát triển của thời đại. Thương mại điện tử cho phép việc kinh doanh thương mại vượt qua những rào cản địa lý và cho phép các doanh nghiệp, cá nhân có thể mua sản phẩm bất cứ lúc nào và từ bất cứ đâu. Thị trường trực tuyến cho phép người bán có thể mở những gian hàng trên mạng internet để mọi khách hàng có thể đến tham quan.
   
-Với những sự tiện lợi đó, Thương mại điện tử ngày càng trở nên “Siêu Hot” cũng như phổ biến và phát triển trong thời đại công nghệ hiện nay. Chính vì thế mà cơ hội việc làm của ngành cũng được rất nhiều các bạn trẻ quan tâm và chú ý tới. Vậy:  
-➤ Cơ hội và thách thức trong ngành là gì  
-➤ Những điều mà các Doanh nghiệp, nhà tuyển dụng yêu cầu ở một bạn trẻ “Chân ướt chân ráo” vào ngành là gì  
-➤ Những kỹ năng quan trọng nào cần có để trở thành một nhân sự tốt trong ngành Thương mại điện tử
+Với những sự tiện lợi đó, Thương mại điện tử ngày càng trở nên “Siêu Hot” cũng như phổ biến và phát triển trong thời đại công nghệ hiện nay. Chính vì thế mà cơ hội việc làm của ngành cũng được rất nhiều các bạn trẻ quan tâm và chú ý tới. Vậy:
+  
+➤ Cơ hội và thách thức trong ngành là gì ?  
+➤ Những điều mà các Doanh nghiệp, nhà tuyển dụng yêu cầu ở một bạn trẻ “Chân ướt chân ráo” vào ngành là gì ?  
+➤ Những kỹ năng quan trọng nào cần có để trở thành một nhân sự tốt trong ngành Thương mại điện tử ?
   
 Thấu hiểu được những điều này, Workshop “E-Commerce: Gain from Growth” được tổ chức để kết nối các bạn trẻ với các Diễn giả có kinh nghiệm trong nghề, qua đó giúp các bạn trang bị thêm những kiến thức, kỹ năng cho mình và giải đáp thắc mắc của các bạn về những vấn đề mà các bạn quan tâm.  
 ---------------------------------------------------  

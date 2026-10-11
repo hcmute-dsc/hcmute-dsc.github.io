@@ -7,10 +7,10 @@ tags:
     permalink: /su-kien-cuoc-thi
   - label: "Recap"
     permalink: /recap
-description: "SỰ KIỆN SIÊU HOT: ĐẠI TIỆC CHÀO ĐÓN TÂN BINH & KỶ NIỆM 3 NĂM CÙNG HCMUTE DSC Các bạn ơi! Còn chần chừ gì nữa mà không \"bung lụa\" tham gia ngay sự kiện \"chấ"
+description: "Các bạn ơi! Còn chần chừ gì nữa mà không \"bung lụa\" tham gia ngay sự kiện \"chất như nước cất\" của tháng này! Hãy cùng đại gia đình DSC quẩy tưng bừng và tạo ra những khoảnh khắc…"
 ---
 
-🌟 **SỰ KIỆN SIÊU HOT: ĐẠI TIỆC CHÀO ĐÓN TÂN BINH  KỶ NIỆM 3 NĂM CÙNG HCMUTE DSC** 🌟 Các bạn ơi!  
+🌟 **SỰ KIỆN SIÊU HOT: ĐẠI TIỆC CHÀO ĐÓN TÂN BINH & KỶ NIỆM 3 NĂM CÙNG HCMUTE DSC** 🌟 Các bạn ơi!  
 💥 Còn chần chừ gì nữa mà không "bung lụa" tham gia ngay sự kiện "chất như nước cất" của tháng này!
 
 <!--truncate-->

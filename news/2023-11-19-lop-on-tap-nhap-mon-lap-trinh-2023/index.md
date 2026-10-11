@@ -7,7 +7,7 @@ tags:
     permalink: /workshop-sinh-hoat
   - label: "Ôn tập Nhập môn lập trình"
     permalink: /on-tap-nhap-mon
-description: "[LỚP ÔN TẬP NHẬP MÔN LẬP TRÌNH 2023] Loa loa loa Nhằm đáp ứng nhu cầu học tập nâng cao trình độ, giúp hỗ trợ, bổ sung kiến thức và giúp sinh viên hiểu rõ h"
+description: "Loa loa loa Nhằm đáp ứng nhu cầu học tập nâng cao trình độ, giúp hỗ trợ, bổ sung kiến thức và giúp sinh viên hiểu rõ hơn về kiến thức môn học Nhập môn Lập trình, ôn tập ngôn ngữ…"
 ---
 
 \[LỚP ÔN TẬP NHẬP MÔN LẬP TRÌNH 2023\]  

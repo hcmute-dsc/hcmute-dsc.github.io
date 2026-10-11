@@ -10,7 +10,7 @@ tags:
   - label: "Recap"
     permalink: /recap
 image: ./img-1.webp
-description: "[WORKSHOP:GIT&GITHUB | RECAP] —--------------------------------------------------------- Các bạn có ghé qua chưa? Ghé qua đâu? Ghé qua Workshop đầu tiên tr"
+description: "Các bạn có ghé qua chưa? Ghé qua đâu? Ghé qua Workshop đầu tiên trong năm của GDSC-HCMUTE á. Cuối tuần vừa qua GDSC-HCMUTE đã rất vui vì được chào đón sinh viên đến với Worshop:…"
 ---
 
 \[WORKSHOP:GIT&GITHUB | RECAP\]  
@@ -20,15 +20,21 @@ description: "[WORKSHOP:GIT&GITHUB | RECAP] —---------------------------------
 
 ![Workshop:git&github | Recap](./img-1.webp)
 
-🎉🎉 Các bạn có ghé qua chưa  
-👉 Ghé qua đâu  
-👉 Ghé qua Workshop đầu tiên trong năm của GDSC-HCMUTE á.  
-✔✔ Cuối tuần vừa qua GDSC-HCMUTE đã rất vui vì được chào đón sinh viên đến với Worshop: GIT&GITHUB. Chúng mình chân thành cảm ơn các bạn đã dành thời gian đến để tham gia sự kiện này. Các bạn đã góp phần giúp buổi Workshop thành công hơn bao giờ hết và là động lực để chúng mình có thể tạo thêm nhiều hoạt động bổ ích, giá trị hơn sắp tới.  
-🏹🏹 Hy vọng qua buổi Workshop này các bạn phần nào hiểu hơn về công cụ quản lý mã nguồn phổ biến hiện nay và biết cách ứng dụng GIT, GitHub vào trong công việc, học tập của mình.  
-😊😊 Và các bạn đã tham gia Workshop có thể góp ý, phản hồi về buổi Workshop qua đường dẫn sau nhé! Mọi góp ý, phản hồi của các bạn sẽ góp phần để chúng mình ngày càng hoàn thiện hơn trong những chương trình sắp tới 📍Link phản hồi + tài liệu Workshop: [https://link.gdsc.app/VNTSOwJ](https://link.gdsc.app/VNTSOwJ) ✨✨ Hẹn gặp lại các bạn trong những sự kiện sắp đến của GDSC-HCMUTE nhé! #WorkshopGit\_GitHub #Recap  
-—------------------------------------------------------------------------------------------------------------------------  
-Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)
+🎉🎉 Các bạn có ghé qua chưa?  
+    👉 Ghé qua đâu?  
+    👉 Ghé qua Workshop đầu tiên trong năm của GDSC-HCMUTE á.
   
+✔✔ Cuối tuần vừa qua GDSC-HCMUTE đã rất vui vì được chào đón sinh viên đến với Worshop: GIT&GITHUB. Chúng mình chân thành cảm ơn các bạn đã dành thời gian đến để tham gia sự kiện này. Các bạn đã góp phần giúp buổi Workshop thành công hơn bao giờ hết và là động lực để chúng mình có thể tạo thêm nhiều hoạt động bổ ích, giá trị hơn sắp tới.
+  
+🏹🏹 Hy vọng qua buổi Workshop này các bạn phần nào hiểu hơn về công cụ quản lý mã nguồn phổ biến hiện nay và biết cách  ứng dụng GIT,  GitHub vào trong công việc, học tập của mình.
+  
+😊😊 Và các bạn đã tham gia Workshop có thể góp ý, phản hồi về buổi Workshop qua đường dẫn sau nhé! Mọi góp ý, phản hồi của các bạn sẽ góp phần để chúng mình ngày càng hoàn thiện hơn trong những chương trình sắp tới  
+📍Link phản hồi + tài liệu Workshop: [https://link.gdsc.app/VNTSOwJ](https://link.gdsc.app/VNTSOwJ)
+  
+✨✨ Hẹn gặp lại các bạn trong những sự kiện sắp đến của GDSC-HCMUTE nhé!  
+\#WorkshopGit\_GitHub #Recap  
+—------------------------------------------------------------------------------------------------------------------------  
+Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thông qua fanpage Google Developer Student Clubs - HCM UTE: [https://www.facebook.com/gdsc.hcmute](https://www.facebook.com/gdsc.hcmute)  
 \#GDSC #GoogleDeveloperStudentClubs #GDSC\_HCMUTE
 
 <div className="news-gallery">

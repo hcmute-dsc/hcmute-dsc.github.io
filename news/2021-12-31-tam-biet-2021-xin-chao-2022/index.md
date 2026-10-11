@@ -6,7 +6,7 @@ tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
 image: ./img-1.webp
-description: "[TẠM BIỆT 2021 - XIN CHÀO 2022!] Chà, nhanh thật đấy, 2021 thế mà cũng cận kề thời khắc kết thúc thật rồi. 2021 đã cho chúng ta bài học về sự vô thường, rằ"
+description: "Chà, nhanh thật đấy, 2021 thế mà cũng cận kề thời khắc kết thúc thật rồi. 2021 đã cho chúng ta bài học về sự vô thường, rằng ta không biết trước được ngày mai thế giới sẽ thay đổi…"
 ---
 
 \[TẠM BIỆT 2021 - XIN CHÀO 2022!\]
@@ -24,7 +24,8 @@ Cũng nhờ lẽ đó mà mỗi người chúng ta khi trải qua 2021, đều t
   
 2022 này, chúng ta hãy luôn trong tâm thế sẵn sàng trước bất kể tình huống nào, bạn nhé! Hãy nỗ lực, cố gắng, nhưng cũng đừng quên dành thời gian cho bản thân, cho những điều thực sự có ý nghĩa với bạn. Hãy yêu thương và tin tưởng bản thân trong bất kì hoàn cảnh nào. Và quan trọng nhất, hãy sống hết mình để mỗi ngày trôi qua thật trọn vẹn.
   
-Chúng mình xin gửi lời chúc sức khỏe đến tất cả các bạn và mong rằng mọi người sẽ có kì nghỉ thật đẹp bên cạnh gia đình, những người bạn yêu thương. Rất hy vọng năm mới chúng ta sẽ hội ngộ tại Workshop “E-Commerce: Gain From Growth” nhé!  
+Chúng mình xin gửi lời chúc sức khỏe đến tất cả các bạn và mong rằng mọi người sẽ có kì nghỉ thật đẹp bên cạnh gia đình, những người bạn yêu thương. Rất hy vọng năm mới chúng ta sẽ hội ngộ tại Workshop “E-Commerce: Gain From Growth” nhé!
+  
 ---------------------------------------------------  
 Workshop “E-Commerce: Gain from Growth” là sự kiện được đồng tổ chức bởi AIESEC in Vietnam và Google Developer Student Clubs - HCMUTE trực thuộc trường Đại học Sư phạm Kỹ thuật TPHCM nhằm mục đích tạo không gian chia sẻ để các bạn sinh viên có cơ hội hiểu hơn về ngành Thương mại điện tử, giúp các bạn tìm ra được mảng công việc phù hợp với năng lực của bản thân cũng như những cơ hội, thách thức và kỹ năng cần có để trang bị tốt cho ngành.  
 ---------------------------------------------------  

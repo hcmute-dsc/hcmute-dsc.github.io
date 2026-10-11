@@ -6,7 +6,7 @@ tags:
   - label: "Đời sống CLB"
     permalink: /doi-song-clb
 image: ./img-1.webp
-description: "HÌNH THỨC THI: Vòng sơ loại: 13h00, ngày 15/5/2022 (Chủ nhật), Phòng máy khoa CNTT. Ở vòng này, các đội thi sẽ trả lời các câu hỏi trắc nghiệm với 4 phương"
+description: "Vòng sơ loại: 13h00, ngày 15/5/2022 (Chủ nhật), Phòng máy khoa CNTT. Ở vòng này, các đội thi sẽ trả lời các câu hỏi trắc nghiệm với 4 phương án A, B, C và D. Top 05 đội thi có số…"
 ---
 
 HÌNH THỨC THI:

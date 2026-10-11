@@ -5,7 +5,7 @@ category: su-kien-cuoc-thi
 tags:
   - label: "Sự kiện & cuộc thi"
     permalink: /su-kien-cuoc-thi
-description: "[EM VÀ TECH - CUỘC THI DÀNH CHO NHỮNG BÔNG HỒNG TRONG NGÀNH IT] Link gửi bài thi: https://bit.ly/EmVaTech-WTM-HCMC Mốc thời gian: 1. Thời gian nhận bài dự "
+description: "Link gửi bài thi: https://bit.ly/EmVaTech-WTM-HCMC Mốc thời gian: 1. Thời gian nhận bài dự thi: 12/11/2022 - 20/11/2022 2. Thời gian bình chọn: 12/11/2022 - 22/11/2022 3. Thời…"
 ---
 
 🌸 \[EM VÀ TECH - CUỘC THI DÀNH CHO NHỮNG BÔNG HỒNG TRONG NGÀNH IT\]  

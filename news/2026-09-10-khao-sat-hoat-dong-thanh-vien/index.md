@@ -7,7 +7,7 @@ tags:
     permalink: /doi-song-clb
   - label: "Recap"
     permalink: /recap
-description: "KHẢO SÁT HOẠT ĐỘNG THÀNH VIÊN Một chặng đường hoạt động của CLB đã đi qua. Trước khi bắt đầu một năm hoạt động mới, tụi mình muốn cùng nhìn lại những gì đã"
+description: "Một chặng đường hoạt động của CLB đã đi qua. Trước khi bắt đầu một năm hoạt động mới, tụi mình muốn cùng nhìn lại những gì đã làm được trong thời gian qua và lắng nghe những mong…"
 ---
 
 💌 **KHẢO SÁT HOẠT ĐỘNG THÀNH VIÊN** 💌 Một chặng đường hoạt động của CLB đã đi qua. Trước khi bắt đầu một năm hoạt động mới, tụi mình muốn cùng nhìn lại những gì đã làm được trong thời gian qua và lắng nghe những mong muốn của các bạn dành cho CLB trong thời gian tới. Thông qua khảo sát này, tụi mình muốn biết: \* Các bạn cảm nhận và có góp ý gì về những hoạt động của CLB trong thời gian qua. \* Các bạn mong muốn CLB có thêm những hoạt động gì trong thời gian tới. \* Và quan trọng nhất, các bạn có muốn tiếp tục đồng hành cùng CLB trong năm hoạt động tiếp theo hay không.  

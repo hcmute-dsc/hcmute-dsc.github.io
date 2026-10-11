@@ -6,7 +6,7 @@ tags:
   - label: "Thông báo"
     permalink: /thong-bao
 image: ./img-1.webp
-description: "Bước 1: Truy cập vào đường dẫn được gửi và tạo tài khoản - Truy cập vào link sau: https://gdsc.community.dev/ho-chi-minh-city-university.../ - Các bạn clic"
+description: "Truy cập vào link sau: https://gdsc.community.dev/ho-chi-minh-city-university.../ - Các bạn click vào Log In ở góc phải trên màn hình, sau đó đăng nhập vào tài khoản Google của…"
 ---
 
 Bước 1: Truy cập vào đường dẫn được gửi và tạo tài khoản

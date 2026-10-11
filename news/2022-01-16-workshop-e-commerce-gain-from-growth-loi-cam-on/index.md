@@ -6,7 +6,7 @@ tags:
   - label: "Workshop & sinh hoạt"
     permalink: /workshop-sinh-hoat
 image: ./img-1.webp
-description: "WORKSHOP “E-COMMERCE: GAIN FROM GROWTH” | LỜI CẢM ƠN Vậy là Workshop “𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞: 𝐆𝐚𝐢𝐧 𝐟𝐫𝐨𝐦 𝐆𝐫𝐨𝐰𝐭𝐡” mà AIESEC in Vietnam và GDSC - HCMUTE ấp ủ bấy lâu nay "
+description: "Vậy là Workshop “𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞: 𝐆𝐚𝐢𝐧 𝐟𝐫𝐨𝐦 𝐆𝐫𝐨𝐰𝐭𝐡” mà AIESEC in Vietnam và GDSC - HCMUTE ấp ủ bấy lâu nay đã chính thức được tổ chức! Trong xuyên suốt sự kiện, chúng ta đã được lắng…"
 ---
 
 WORKSHOP “E-COMMERCE: GAIN FROM GROWTH” | LỜI CẢM ƠN

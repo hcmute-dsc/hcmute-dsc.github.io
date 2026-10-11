@@ -9,7 +9,7 @@ tags:
     permalink: /hackathon
   - label: "Q&A"
     permalink: /qa
-description: "ĐĂNG KÍ THAM GIA CHƯƠNG TRÌNH KICK - OFF CUỘC THI HỌC THUẬT HACKATHON HCMUTE MỞ RỘNG 2023 ---------------------------------- Bạn đang tìm kiếm một nơi để"
+description: "Bạn đang tìm kiếm một nơi để giải đáp những thắc mắc liên quan đến cuộc thi Hackathon 2023. Bạn là người yêu thích việc học hỏi, muốn tham gia cuộc thi nhưng chưa tìm được đội.…"
 ---
 
 ĐĂNG KÍ THAM GIA CHƯƠNG TRÌNH KICK - OFF CUỘC THI HỌC THUẬT HACKATHON HCMUTE MỞ RỘNG 2023  
