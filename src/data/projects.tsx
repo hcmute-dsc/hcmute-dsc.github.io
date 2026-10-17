@@ -14,6 +14,14 @@ const PROJECTS: Project[] = [
     tags: ['club', 'opensource', 'product', 'ai', 'favorite'],
   },
   {
+    title: 'Memoryland',
+    description: 'The 5-year anniversary site of HCMUTE DSC (2021 – 2026): a timeline of the journey, the club generations, member stories and messages, with a form to contribute your own memories. Built with Next.js as a static export.',
+    preview: require('./showcase/memoryland.jpg'),
+    website: 'https://memoryland.hcmute-dsc.io.vn',
+    source: 'https://github.com/hcmute-dsc/memoryland',
+    tags: ['club', 'opensource', 'product', 'favorite'],
+  },
+  {
     title: 'Study Jam',
     description: 'Web application for running Study Jam sessions, with a Next.js + Ant Design UI and a Spring Boot RESTful API (PostgreSQL, Liquibase). Public as a reference project for club members.',
     preview: null,
