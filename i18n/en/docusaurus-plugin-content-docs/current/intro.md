@@ -1,18 +1,22 @@
 ---
 sidebar_position: 1
-sidebar_label: Coming soon
-title: Coming soon
-description: HCMUTE Developer Student Club tutorials are being written.
+sidebar_label: Introduction
+title: Courses and tutorials
+description: Self-study courses and tutorials written by HCMUTE Developer Student Club.
 ---
 
-# 🚧 Coming soon
+# 📚 Courses and tutorials
 
-The **HCMUTE Developer Student Club** tutorials are being reworked and will be available soon.
+This is where **HCMUTE Developer Student Club** collects the self-study courses and tutorials written by club members. Each course has a clear roadmap, runnable examples and exercises with solutions, so you can learn on your own or with friends from the club.
 
-In the meantime, you can:
+## Available courses
 
-- Read the posts on our [Blog](/blog)
-- See what the club is up to on [Community](/community)
-- Follow the latest news on [Facebook](https://www.facebook.com/hcmute.dsc)
+| Course | What it covers | Length |
+| --- | --- | --- |
+| [🗄️ 30 Days SQL Challenge](./sql-challenge.md) | SQL with PostgreSQL 16, from `SELECT` to indexes, transactions, window functions, query optimization and security. Ends with a capstone project. | 30 days, one lesson a day |
 
-Want to contribute content? [Get in touch](/contact) with us!
+More courses are being written and will be released one by one.
+
+## Contributing
+
+Want to write a lesson, fix a mistake or propose a new course? [Get in touch](/contact) with the club, or open a pull request directly on each course's repository.
