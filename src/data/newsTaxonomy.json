@@ -10,7 +10,7 @@
       "slug": "chia-se-kien-thuc",
       "label": "Chia sẻ kiến thức",
       "description": "Bài viết kỹ thuật, cẩm nang phỏng vấn, tin công nghệ và cơ hội nghề nghiệp",
-      "count": 32
+      "count": 33
     },
     {
       "slug": "tuyen-thanh-vien",
@@ -149,5 +149,5 @@
       "count": 1
     }
   ],
-  "total": 330
+  "total": 331
 }

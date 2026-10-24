@@ -22,7 +22,7 @@ module.exports = {
     { label: 'Memoryland', icon: '🕰️', description: 'Kho ký ức số kỷ niệm 5 năm: hành trình qua từng năm và các thế hệ Ban Chủ nhiệm.', href: `https://memoryland.${domain}` },
     { label: 'SQL Challenge', icon: '🗄️', description: 'Thử thách 30 ngày học SQL với PostgreSQL: bài học, sơ đồ và bài tập.', href: `https://sql-challenge.${domain}` },
     { label: 'Mentoring', icon: '🤝', description: 'Chương trình mentoring kết nối thành viên với anh chị đi trước.', href: `https://mentoring.${domain}` },
-    { label: 'IT Quiz', icon: '🧠', description: 'Đố vui kiến thức công nghệ thông tin dành cho sinh viên.', href: `https://it-quiz.${domain}` },
+    { label: 'IT Quiz', icon: '🧠', description: 'Ôn tập kiến thức IT: trắc nghiệm, thi thử, chạy offline.', href: `https://it-quiz.${domain}` },
     { label: 'Club Day', icon: '🎮', description: 'Mini game realtime cho sự kiện CLB, tham gia bằng mã QR.', href: `https://club-day.${domain}` },
   ],
 };
