@@ -16,13 +16,13 @@
       "slug": "tuyen-thanh-vien",
       "label": "Tuyển thành viên",
       "description": "Các đợt tuyển thành viên, phỏng vấn và công bố thành viên mới qua từng Gen",
-      "count": 41
+      "count": 42
     },
     {
       "slug": "su-kien-cuoc-thi",
       "label": "Sự kiện & cuộc thi",
       "description": "Cuộc thi học thuật, hackathon, Study Jam, Learning Sprint và các sự kiện lớn",
-      "count": 90
+      "count": 92
     },
     {
       "slug": "workshop-sinh-hoat",
@@ -134,14 +134,14 @@
       "count": 4
     },
     {
-      "slug": "thiet-ke",
-      "label": "Thiết kế",
+      "slug": "gen-7",
+      "label": "Gen 7",
       "count": 3
     },
     {
-      "slug": "gen-7",
-      "label": "Gen 7",
-      "count": 2
+      "slug": "thiet-ke",
+      "label": "Thiết kế",
+      "count": 3
     },
     {
       "slug": "gen-2",
@@ -149,5 +149,5 @@
       "count": 1
     }
   ],
-  "total": 327
+  "total": 330
 }
