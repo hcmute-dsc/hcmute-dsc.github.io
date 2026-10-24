@@ -1,4 +1,4 @@
-const { title, githubUrl, facebookUrl, discordUrl, email } = require('./site');
+const { title, githubUrl, facebookUrl, discordUrl, email, subsites } = require('./site');
 
 /** @type {import('@docusaurus/preset-classic').ThemeConfig['footer']} */
 module.exports = {
@@ -12,6 +12,10 @@ module.exports = {
         { label: 'Showcase', to: '/showcase' },
         { label: 'Thư viện ảnh', to: '/gallery' },
       ],
+    },
+    {
+      title: 'Dự án',
+      items: subsites,
     },
     {
       title: 'Community',

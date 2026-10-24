@@ -1,4 +1,4 @@
-const { githubUrl } = require('./site');
+const { githubUrl, subsites } = require('./site');
 
 /** @type {import('@docusaurus/preset-classic').ThemeConfig['navbar']} */
 module.exports = {
@@ -30,6 +30,12 @@ module.exports = {
     { to: '/blog', label: 'Blog', position: 'left' },
     { to: '/showcase', label: 'Showcase', position: 'left' },
     { to: '/gallery', label: 'Thư viện ảnh', position: 'left' },
+    {
+      type: 'dropdown',
+      label: 'Dự án',
+      position: 'left',
+      items: [...subsites, { to: '/showcase', label: 'Tất cả sản phẩm' }],
+    },
     {
       href: githubUrl,
       position: 'right',
