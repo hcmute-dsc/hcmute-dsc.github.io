@@ -111,6 +111,6 @@ GIT_USER=<github-username> npm run deploy
 ## Liên hệ
 
 - Facebook: [facebook.com/hcmute.dsc](https://www.facebook.com/hcmute.dsc)
-- Discord: [discord.gg/7nx55YxuES](https://discord.gg/7nx55YxuES)
+- Discord: [discord.gg/2kjBGGtrE](https://discord.gg/2kjBGGtrE)
 - Email: [clb.dsc@student.hcmute.edu.vn](mailto:clb.dsc@student.hcmute.edu.vn)
 - GitHub: [github.com/hcmute-dsc](https://github.com/hcmute-dsc)

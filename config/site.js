@@ -13,7 +13,7 @@ module.exports = {
   githubUrl: `https://github.com/${organizationName}`,
   editUrl: `https://github.com/${organizationName}/${projectName}/tree/master`,
   facebookUrl: 'https://www.facebook.com/hcmute.dsc',
-  discordUrl: 'https://discord.gg/7nx55YxuES',
+  discordUrl: 'https://discord.gg/2kjBGGtrE',
   email: 'clb.dsc@student.hcmute.edu.vn',
   // 5th anniversary site (repo hcmute-dsc/memoryland)
   memorylandUrl: `https://memoryland.${domain}`,
