@@ -38,3 +38,26 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+  # Announce newly added blog/news posts on Discord once the site is deployed.
+  # Needs the DISCORD_WEBHOOK_URL repository secret; skipped silently without it.
+  notify:
+    name: Notify Discord
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Post new articles to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then echo "No webhook configured, skipping."; exit 0; fi
+          # first push of a branch has an all-zero "before"; compare with the previous commit instead
+          if echo "$BEFORE" | grep -Eq '^0+$'; then BEFORE=$(git rev-parse HEAD~1); fi
+          FILES=$(git diff --name-only --diff-filter=A "$BEFORE" HEAD -- 'news/*' 'blog/*' | grep -E '^(news|blog)/[^/]+(/index)?\.mdx?$' || true)
+          if [ -z "$FILES" ]; then echo "No new articles."; exit 0; fi
+          sleep 90 # let GitHub Pages publish the new pages before linking to them
+          node scripts/notify-discord.js $FILES
