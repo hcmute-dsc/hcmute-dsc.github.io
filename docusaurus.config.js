@@ -44,6 +44,7 @@ const config = {
   clientModules: [require.resolve('./src/clientModules/lightbox.js')],
   customFields: {
     memorylandUrl: site.memorylandUrl,
+    subsites: site.subsites,
   },
 
   themeConfig:
