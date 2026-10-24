@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhcmute_dsc_github_io=self.webpackChunkhcmute_dsc_github_io||[]).push([[68175],{45820:s=>{s.exports=JSON.parse('{"label":"Chia s\u1ebb ki\u1ebfn th\u1ee9c","permalink":"/news/tags/chia-se-kien-thuc","allTagsPath":"/news/tags","count":32}')}}]);
