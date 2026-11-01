@@ -16,7 +16,7 @@
       "slug": "tuyen-thanh-vien",
       "label": "Tuyển thành viên",
       "description": "Các đợt tuyển thành viên, phỏng vấn và công bố thành viên mới qua từng Gen",
-      "count": 42
+      "count": 43
     },
     {
       "slug": "su-kien-cuoc-thi",
@@ -136,7 +136,7 @@
     {
       "slug": "gen-7",
       "label": "Gen 7",
-      "count": 3
+      "count": 4
     },
     {
       "slug": "thiet-ke",
