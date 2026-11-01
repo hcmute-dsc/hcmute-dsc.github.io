@@ -44,4 +44,4 @@ Theo dõi chúng mình để không bỏ lỡ những hoạt động và thông 
 
 ---
 
-_Bài viết được lưu trữ từ [fanpage HCMUTE Developer Student Club](https://www.facebook.com/hcmute.dsc)._
+_Bài viết được lưu trữ từ [fanpage HCMUTE Developer Student Club](https://www.facebook.com/hcmute.dsc/posts/pfbid031uqzczt44gKY7KzkPW87dhgVmtjjSudPTYkNMxHXoE1xFQdikSqKZNAQJDeD7Khil)._
