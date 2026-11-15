@@ -27,6 +27,15 @@ function frontMatter(text) {
   return fields;
 }
 
+// The line above the link card. When a bot token is set, a discussion thread is opened under the message too.
+function intro(section) {
+  const hello =
+    section === 'news'
+      ? '📣 Cả nhà ơi, website vừa có tin mới nè! Ghé xem thử xem có gì hay nha.'
+      : '📝 Cả nhà ơi, website vừa có bài blog mới nè! Rảnh thì ghé đọc thử nha.';
+  return BOT_TOKEN ? `${hello}\nĐọc xong nhớ vào thread bên dưới để chia sẻ cảm nghĩ hoặc hỏi thêm nhé 💬` : hello;
+}
+
 async function notify(file) {
   const match = file.match(POST_PATH);
   if (!match) return;
@@ -44,7 +53,7 @@ async function notify(file) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       username: 'HCMUTE DSC',
-      content: section === 'news' ? '📣 Có hoạt động mới trên website nè mọi người ơi!' : '📝 Có bài blog mới nè!',
+      content: intro(section),
       embeds: [
         {
           title: meta.title || folderSlug,
