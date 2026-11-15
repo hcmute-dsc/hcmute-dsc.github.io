@@ -52,6 +52,8 @@ jobs:
       - name: Post new articles to Discord
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # optional: lets the script open a discussion thread on each announcement
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           BEFORE: ${{ github.event.before }}
         run: |
           if [ -z "$DISCORD_WEBHOOK_URL" ]; then echo "No webhook configured, skipping."; exit 0; fi
