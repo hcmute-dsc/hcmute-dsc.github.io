@@ -56,6 +56,8 @@ Hôm nay anh muốn chia sẻ cho mọi người **bộ 3 cuốn sách cực k�
 
 👉 Mọi người lưu về đọc nhé! Bạn nào đã đọc qua cuốn nào rồi thì comment thảo luận cùng anh bên dưới nha! ✨
 
+📂 **Tải bộ sách (Google Drive):** [drive.google.com/drive/folders/1yBTRPAjfrXfe3mzHHmG2WFqGuGdaU7xC](https://drive.google.com/drive/folders/1yBTRPAjfrXfe3mzHHmG2WFqGuGdaU7xC?usp=sharing)
+
 ---
 
 _Bài viết được chia sẻ lần đầu trong [group nội bộ của CLB](https://www.facebook.com/groups/gdsc.hcmute/posts/1455300832747924/) ngày 15/11/2026._
