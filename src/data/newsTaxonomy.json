@@ -4,7 +4,7 @@
       "slug": "doi-song-clb",
       "label": "Đời sống CLB",
       "description": "Ban chủ nhiệm, tri ân, sinh nhật CLB và những khoảnh khắc của đại gia đình DSC",
-      "count": 98
+      "count": 99
     },
     {
       "slug": "chia-se-kien-thuc",
@@ -46,7 +46,7 @@
     {
       "slug": "recap",
       "label": "Recap",
-      "count": 44
+      "count": 45
     },
     {
       "slug": "git-github",
@@ -136,7 +136,7 @@
     {
       "slug": "gen-7",
       "label": "Gen 7",
-      "count": 4
+      "count": 5
     },
     {
       "slug": "thiet-ke",
