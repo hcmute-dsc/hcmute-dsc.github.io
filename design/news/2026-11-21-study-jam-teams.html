@@ -6,10 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
   CÁCH DÙNG
+  - NỘI DUNG nằm ở file 2026-11-21-study-jam-teams.data.js (cùng thư mục). Muốn đổi chữ / thêm bớt nhóm,
+    mentor: chỉ sửa file đó. File HTML này chỉ chứa giao diện, không cần đụng tới.
   - Mỗi .slide là một ảnh 1080x1350 (tỉ lệ 4:5, chuẩn bài đăng Facebook).
-  - Mở file bằng Chrome → F12 → chọn một .slide → Ctrl+Shift+P → "Capture node screenshot".
-  - Lưu thành img-1.webp ... img-4.webp vào thư mục bài news rồi thêm vào index.md.
-  - Sửa nội dung: chỉ cần sửa chữ trong HTML bên dưới. Màu sắc nằm ở :root.
+  - Chụp: mở file bằng Chrome → F12 → chọn một .slide → Ctrl+Shift+P → "Capture node screenshot".
+  - Lưu thành img-1.webp, img-2.webp, ... vào thư mục bài news rồi cập nhật index.md.
+  - Mở với ?s=2 để chỉ hiện đúng ảnh số 2 (dùng khi chụp tự động bằng Chrome headless).
+  - Màu sắc nằm ở :root trong <style>.
 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -91,150 +94,107 @@
 </style>
 </head>
 <body>
-
-<!-- ============ ẢNH 1 · BÌA ============ -->
-<p class="label">Ảnh 1 · Bìa</p>
-<section class="slide" id="s1">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">THÔNG BÁO</span></div>
-  <div class="bar"></div>
-  <h1>GIT &amp; GITHUB<br><em>STUDY JAM</em></h1>
-  <p class="lead">Danh sách <b>chính thức</b> các nhóm tham gia chương trình.</p>
-  <div class="stats">
-    <div class="stat"><div class="n">5</div><div class="t">nhóm tham gia</div></div>
-    <div class="stat"><div class="n">22</div><div class="t">bạn sinh viên</div></div>
-  </div>
-  <p class="thanks">🚀 Cảm ơn <b>22 bạn</b> đã đăng ký! Chúc các nhóm học thật vui và hoàn thành tốt chương trình.</p>
-  <div class="footer">
-    <span><b>HCMUTE Developer Student Club</b><br>fb.com/hcmute.dsc</span>
-    <span class="hash">#STUDY_JAM #GIT_GITHUB</span>
-  </div>
-</section>
-
-<!-- ============ ẢNH 2 · THÔNG TIN CHƯƠNG TRÌNH ============ -->
-<p class="label">Ảnh 2 · Thông tin chương trình</p>
-<section class="slide" id="s2">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">STUDY JAM · 1/5</span></div>
-  <div class="bar"></div>
-  <h2>Thông tin <em>chương trình</em></h2>
-  <div class="info">
-    <div class="row">
-      <div class="card"><div class="k">📅 THỜI GIAN</div><div class="v">22/11 – 13/12</div><div class="s">Bế mạc dự kiến <b>20/12/2026</b></div></div>
-      <div class="card"><div class="k">🚀 KICK-OFF</div><div class="v">22/11/2026</div><div class="s">Công bố nhiệm vụ tuần đầu. Giờ cụ thể thông báo trên <b>Discord</b></div></div>
-    </div>
-    <div class="card"><div class="k">👥 HÌNH THỨC</div><div class="v">Nhóm 3 – 5 bạn</div><div class="s">Hoàn thành <b>nhiệm vụ theo tuần</b> để tính điểm, họp online hằng tuần để theo dõi tiến độ.</div></div>
-    <div class="card">
-      <div class="k">🎁 QUYỀN LỢI</div>
-      <div class="v">Giấy chứng nhận + tiền thưởng</div>
-      <div class="prizes">
-        <div class="prize"><div class="r">🥇 Nhất</div><div class="m">500K</div></div>
-        <div class="prize"><div class="r">🥈 Nhì</div><div class="m">300K</div></div>
-        <div class="prize"><div class="r">🥉 Ba</div><div class="m">200K</div></div>
-        <div class="prize"><div class="r">Khuyến khích</div><div class="m">100K<small>/nhóm</small></div></div>
-      </div>
-    </div>
-  </div>
-  <div class="footer"><span><b>HCMUTE DSC</b> · Git &amp; GitHub Study Jam</span></div>
-</section>
-
-<!-- ============ ẢNH 3 · NHÓM 1-2 ============ -->
-<p class="label">Ảnh 3 · Nhóm 1 – 2</p>
-<section class="slide" id="s3">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">STUDY JAM · 2/5</span></div>
-  <div class="bar"></div>
-  <h2>Danh sách <em>các nhóm</em></h2>
-  <div class="teams">
-    <div class="team">
-      <div class="team-head"><div class="num">1</div><div class="team-name">Nhóm 1</div></div>
-      <div class="leader"><small>👑 Nhóm trưởng</small> Trần Phương Trang</div>
-      <ul class="members">
-        <li>Võ Chí Thành</li><li>Nguyễn Trương Phương Vy</li>
-        <li>Lê Ngọc Tú</li><li>Nguyễn Ngọc Ánh Sương</li>
-      </ul>
-    </div>
-    <div class="team">
-      <div class="team-head"><div class="num">2</div><div class="team-name">Côn Đò Trên Con Đồ</div></div>
-      <div class="leader"><small>👑 Nhóm trưởng</small> Võ Đông Phúc</div>
-      <ul class="members">
-        <li>Nguyễn Trọng Khiêm</li><li>Lương Hoàng Nhất Lâm</li>
-      </ul>
-    </div>
-  </div>
-  <div class="footer"><span><b>HCMUTE DSC</b> · Git &amp; GitHub Study Jam</span></div>
-</section>
-
-<!-- ============ ẢNH 4 · NHÓM 3-4 ============ -->
-<p class="label">Ảnh 4 · Nhóm 3 – 4</p>
-<section class="slide" id="s4">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">STUDY JAM · 3/5</span></div>
-  <div class="bar"></div>
-  <h2>Danh sách <em>các nhóm</em></h2>
-  <div class="teams">
-    <div class="team">
-      <div class="team-head"><div class="num">3</div><div class="team-name">Đi code dạo</div></div>
-      <div class="leader"><small>👑 Nhóm trưởng</small> Nguyễn Ngọc Thịnh</div>
-      <ul class="members">
-        <li>Đỗ Đăng Anh Đức</li><li>Nguyễn Đăng Khôi</li>
-        <li>Nguyễn Thái Nam</li>
-      </ul>
-    </div>
-    <div class="team">
-      <div class="team-head"><div class="num">4</div><div class="team-name">CODE TOÀN BUG</div></div>
-      <div class="leader"><small>👑 Nhóm trưởng</small> Ngô Thanh Vĩnh Hưng</div>
-      <ul class="members">
-        <li>Nguyễn Tô Mỹ Trà</li><li>Nguyễn Bá Huân</li>
-        <li>Lê Anh Khoa</li><li>Huỳnh Trung Trí Kiên</li>
-      </ul>
-    </div>
-  </div>
-  <div class="footer"><span><b>HCMUTE DSC</b> · Git &amp; GitHub Study Jam</span></div>
-</section>
-
-<!-- ============ ẢNH 5 · NHÓM 5 + NHẮC THEO DÕI ============ -->
-<p class="label">Ảnh 5 · Nhóm 5 + nhắc theo dõi</p>
-<section class="slide" id="s5">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">STUDY JAM · 4/5</span></div>
-  <div class="bar"></div>
-  <h2>Danh sách <em>các nhóm</em></h2>
-  <div class="teams">
-    <div class="team">
-      <div class="team-head"><div class="num">5</div><div class="team-name">We-novar-notha</div></div>
-      <div class="leader"><small>👑 Nhóm trưởng</small> Nguyễn Minh Duy</div>
-      <ul class="members">
-        <li>Nguyễn Hàng Bảo Ngân</li><li>Mai Thanh Trà</li>
-        <li>Huỳnh Thị Hoài Phương</li><li>Phan Gia Hân</li>
-      </ul>
-    </div>
-  </div>
-  <div class="footer"><span><b>HCMUTE DSC</b> · Git &amp; GitHub Study Jam</span></div>
-</section>
-
-<!-- ============ ẢNH 6 · MENTOR + NHẮC THEO DÕI ============ -->
-<p class="label">Ảnh 6 · Mentor + nhắc theo dõi</p>
-<section class="slide" id="s6">
-  <div class="top"><img src="../../static/img/logo/hcmute-dsc-logo-dark.png" alt="HCMUTE DSC"><span class="tag">STUDY JAM · 5/5</span></div>
-  <div class="bar"></div>
-  <h2>Đội ngũ <em>mentor</em></h2>
-  <p class="lead" style="margin-top:24px">Đồng hành cùng các nhóm trong suốt chương trình.</p>
-  <div class="mentors">
-    <div class="mentor"><div class="avatar">🎓</div><div><div class="name">Võ Trần Minh Quân</div><div class="role">MENTOR</div></div></div>
-    <div class="mentor"><div class="avatar">🎓</div><div><div class="name">Võ Hoàng Tú</div><div class="role">MENTOR</div></div></div>
-    <div class="mentor"><div class="avatar">🎓</div><div><div class="name">Huỳnh Trang</div><div class="role">MENTOR</div></div></div>
-  </div>
-  <p class="thanks">📣 Theo dõi <b>fanpage</b> và <b>Discord</b> của CLB để cập nhật thông tin tiếp theo nhé!</p>
-  <div class="footer">
-    <span><b>HCMUTE Developer Student Club</b><br>fb.com/hcmute.dsc</span>
-    <span class="hash">#HCMUTE_DSC #STUDY_JAM</span>
-  </div>
-</section>
-
+<script src="2026-11-21-study-jam-teams.data.js"></script>
 <script>
-  // Mở với ?s=2 để chỉ hiện đúng 1 ảnh (dùng cho chụp tự động bằng Chrome headless).
-  const only = new URLSearchParams(location.search).get('s');
-  if (only) {
-    document.body.style.padding = '0';
-    document.querySelectorAll('.label').forEach(e => e.remove());
-    document.querySelectorAll('.slide').forEach(s => { if (s.id !== 's' + only) s.remove(); });
+(function () {
+  const D = window.STUDY_JAM;
+  const E = D.event;
+
+  // ---------- helpers ----------
+  const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  // escape, then turn **x** into <b>x</b>
+  const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+  // "A B" -> A <em>B</em> (last words in orange): first array item plain, the rest orange
+  const title2 = ([plain, accent]) => `${esc(plain)} <em>${esc(accent)}</em>`;
+
+  const teams = D.teams.list;
+  const vars = {
+    teams: teams.length,
+    students: teams.reduce((n, t) => n + 1 + t.members.length, 0),   // leader + members
+  };
+  const fill = s => s.replace(/\{(\w+)\}/g, (_, k) => vars[k]);
+
+  // ---------- slide parts ----------
+  const top = tag => `<div class="top"><img src="${esc(E.logo)}" alt="HCMUTE DSC"><span class="tag">${esc(tag)}</span></div><div class="bar"></div>`;
+  const footerSimple = () => `<div class="footer"><span>${md(E.footer)}</span></div>`;
+  const footerFull = hashtags => `<div class="footer"><span><b>${esc(E.org)}</b><br>${esc(E.fb)}</span><span class="hash">${esc(hashtags)}</span></div>`;
+
+  // ---------- slide builders ----------
+  const cover = () => ({
+    label: 'Bìa',
+    html: `${top(D.cover.tag)}
+      <h1>${esc(D.cover.title[0])}<br><em>${esc(D.cover.title[1])}</em></h1>
+      <p class="lead">${md(D.cover.lead)}</p>
+      <div class="stats">
+        <div class="stat"><div class="n">${vars.teams}</div><div class="t">${esc(D.cover.teamsLabel)}</div></div>
+        <div class="stat"><div class="n">${vars.students}</div><div class="t">${esc(D.cover.studentsLabel)}</div></div>
+      </div>
+      <p class="thanks">${md(fill(D.cover.thanks))}</p>
+      ${footerFull(D.cover.hashtags)}`,
+  });
+
+  const card = (c, extra = '') =>
+    `<div class="card"><div class="k">${esc(c.label)}</div><div class="v">${esc(c.value)}</div>${c.note ? `<div class="s">${md(c.note)}</div>` : ''}${extra}</div>`;
+
+  const info = n => ({
+    label: 'Thông tin chương trình',
+    numbered: true,
+    html: `${top(`${E.tag} · ${n.i}/${n.total}`)}
+      <h2>${title2(D.info.title)}</h2>
+      <div class="info">
+        <div class="row">${card(D.info.time)}${card(D.info.kickoff)}</div>
+        ${card(D.info.format)}
+        ${card(D.info.rewards, `<div class="prizes">${D.info.rewards.prizes.map(p =>
+          `<div class="prize"><div class="r">${esc(p.rank)}</div><div class="m">${esc(p.amount)}${p.unit ? `<small>${esc(p.unit)}</small>` : ''}</div></div>`).join('')}</div>`)}
+      </div>
+      ${footerSimple()}`,
+  });
+
+  const teamSlide = (chunk, startIndex, isLast) => n => ({
+    label: `Nhóm ${startIndex + 1}${chunk.length > 1 ? ' – ' + (startIndex + chunk.length) : ''}`,
+    html: `${top(`${E.tag} · ${n.i}/${n.total}`)}
+      <h2>${title2(D.teams.title)}</h2>
+      <div class="teams">${chunk.map((t, k) => `
+        <div class="team">
+          <div class="team-head"><div class="num">${startIndex + k + 1}</div><div class="team-name">${esc(t.name)}</div></div>
+          <div class="leader"><small>${esc(D.teams.leaderLabel)}</small> ${esc(t.leader)}</div>
+          <ul class="members">${t.members.map(m => `<li>${esc(m)}</li>`).join('')}</ul>
+        </div>`).join('')}
+      </div>
+      ${isLast ? `<p class="thanks">${md(D.closing.note)}</p>${footerFull(D.closing.hashtags)}` : footerSimple()}`,
+  });
+
+  const mentors = n => ({
+    label: 'Mentor',
+    html: `${top(`${E.tag} · ${n.i}/${n.total}`)}
+      <h2>${title2(D.mentors.title)}</h2>
+      <p class="lead" style="margin-top:24px">${md(D.mentors.lead)}</p>
+      <div class="mentors">${D.mentors.list.map(name => `
+        <div class="mentor"><div class="avatar">${esc(D.mentors.icon)}</div><div><div class="name">${esc(name)}</div><div class="role">${esc(D.mentors.role)}</div></div></div>`).join('')}
+      </div>
+      ${footerSimple()}`,
+  });
+
+  // ---------- assemble ----------
+  const builders = [cover(), mentors, info];
+  for (let i = 0; i < teams.length; i += D.teams.perSlide) {
+    builders.push(teamSlide(teams.slice(i, i + D.teams.perSlide), i, i + D.teams.perSlide >= teams.length));
   }
+
+  // page numbers "i/total" count every slide except the cover
+  const total = builders.length - 1;
+  const slides = builders.map((b, idx) => typeof b === 'function' ? b({ i: idx, total }) : b);
+
+  const only = new URLSearchParams(location.search).get('s');   // ?s=2 -> render only slide 2
+  if (only) document.body.style.padding = '0';
+
+  slides.forEach((s, idx) => {
+    const n = idx + 1;
+    if (only && String(n) !== only) return;
+    if (!only) document.body.insertAdjacentHTML('beforeend', `<p class="label">Ảnh ${n} · ${esc(s.label)}</p>`);
+    document.body.insertAdjacentHTML('beforeend', `<section class="slide" id="s${n}">${s.html}</section>`);
+  });
+})();
 </script>
 </body>
 </html>

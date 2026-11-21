@@ -23,6 +23,14 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
 
 🙌 CLB xin gửi lời cảm ơn chân thành đến tất cả các bạn đã quan tâm và đăng ký tham gia chương trình.
 
+### 🎓 Đội ngũ mentor
+
+Đồng hành cùng các nhóm trong suốt chương trình:
+
+- Võ Trần Minh Quân
+- Võ Hoàng Tú
+- Huỳnh Thị Thùy Trang
+
 ### 📌 Thông tin chương trình
 
 - 📅 **Thời gian:** 22/11/2026 – 13/12/2026, bế mạc dự kiến ngày 20/12/2026.
@@ -73,14 +81,6 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
 - Mai Thanh Trà
 - Huỳnh Thị Hoài Phương
 - Phan Gia Hân
-
-### 🎓 Đội ngũ mentor
-
-Đồng hành cùng các nhóm trong suốt chương trình:
-
-- Võ Trần Minh Quân
-- Võ Hoàng Tú
-- Huỳnh Trang
 
 🚀 Chúc các nhóm có thật nhiều niềm vui, học được nhiều điều bổ ích và cùng nhau hoàn thành thật tốt chương trình. Hãy theo dõi fanpage và máy chủ Discord của CLB để cập nhật những thông tin tiếp theo nhé!
 
