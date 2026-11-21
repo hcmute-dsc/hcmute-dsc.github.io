@@ -14,6 +14,14 @@ const PROJECTS: Project[] = [
     tags: ['club', 'opensource', 'product', 'ai', 'favorite'],
   },
   {
+    title: 'Learning Hub',
+    description: 'The club’s Exercism-like learning platform: pick a track, read short lessons, solve exercises, submit through GitHub and get feedback from club mentors. Tracks so far: "30 ngày học SQL" and "Tự động hoá với Discord". Sign in with GitHub to join. NestJS + Next.js + PostgreSQL.',
+    preview: require('./showcase/learning-hub.png'),
+    website: 'https://learn.hcmute-dsc.io.vn',
+    source: 'https://github.com/hcmute-dsc/learning-hub',
+    tags: ['club', 'opensource', 'product', 'favorite'],
+  },
+  {
     title: 'Memoryland',
     description: 'The 5-year anniversary site of HCMUTE DSC (2021 – 2026): a timeline of the journey, the club generations, member stories and messages, with a form to contribute your own memories. Built with Next.js as a static export.',
     preview: require('./showcase/memoryland.jpg'),
