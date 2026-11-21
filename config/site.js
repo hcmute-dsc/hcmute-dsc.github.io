@@ -19,6 +19,7 @@ module.exports = {
   memorylandUrl: `https://memoryland.${domain}`,
   // Sister sites on subdomains of the main domain, shown in the navbar and the footer
   subsites: [
+    { label: 'Learning Hub', icon: '📚', description: 'Học theo lộ trình kiểu Exercism, có mentor review: 30 ngày học SQL, Tự động hoá với Discord. Đăng nhập bằng GitHub.', href: `https://learn.${domain}` },
     { label: 'Memoryland', icon: '🕰️', description: 'Kho ký ức số kỷ niệm 5 năm: hành trình qua từng năm và các thế hệ Ban Chủ nhiệm.', href: `https://memoryland.${domain}` },
     { label: 'SQL Challenge', icon: '🗄️', description: 'Thử thách 30 ngày học SQL với PostgreSQL: bài học, sơ đồ và bài tập.', href: `https://sql-challenge.${domain}` },
     { label: 'Mentoring', icon: '🤝', description: 'Chương trình mentoring kết nối thành viên với anh chị đi trước.', href: `https://mentoring.${domain}` },
