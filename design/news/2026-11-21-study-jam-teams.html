@@ -91,6 +91,16 @@
   .prize .r { font-size: 24px; color: var(--muted); }
   .prize .m { font: 800 34px/1.2 "Montserrat", sans-serif; margin-top: 6px; }
   .prize .m small { font-size: 22px; font-weight: 700; color: var(--orange); }
+
+  /* ảnh bìa ngang 16:9 cho thẻ preview trên website / chia sẻ link */
+  .slide.wide { width: 1600px; height: 900px; padding: 64px 90px; }
+  .slide.wide .bar { margin: 28px 0 24px; }
+  .wide-body { display: flex; align-items: center; justify-content: space-between; flex: 1; position: relative; z-index: 1; }
+  .wide-body h1 { font-size: 104px; }
+  .wide-stats { display: flex; gap: 24px; }
+  .wide-stats .stat { padding: 30px 44px; text-align: left; flex: none; }
+  .wide-stats .stat .n { font-size: 130px; }
+  .wide-stats .stat .t { font-size: 30px; }
 </style>
 </head>
 <body>
@@ -175,6 +185,21 @@
       ${footerSimple()}`,
   });
 
+  // 16:9 banner used as the news card preview (saved as cover.webp, not part of the Facebook set)
+  const banner = () => ({
+    label: 'Ảnh bìa ngang 16:9 (preview thẻ website) → lưu thành cover.webp',
+    wide: true,
+    html: `${top(D.cover.tag)}
+      <div class="wide-body">
+        <h1>${esc(D.cover.title[0])}<br><em>${esc(D.cover.title[1])}</em></h1>
+        <div class="wide-stats">
+          <div class="stat"><div class="n">${vars.teams}</div><div class="t">${esc(D.cover.teamsLabel)}</div></div>
+          <div class="stat"><div class="n">${vars.students}</div><div class="t">${esc(D.cover.studentsLabel)}</div></div>
+        </div>
+      </div>
+      ${footerFull(D.cover.hashtags)}`,
+  });
+
   // ---------- assemble ----------
   const builders = [cover(), mentors, info];
   for (let i = 0; i < teams.length; i += D.teams.perSlide) {
@@ -184,6 +209,7 @@
   // page numbers "i/total" count every slide except the cover
   const total = builders.length - 1;
   const slides = builders.map((b, idx) => typeof b === 'function' ? b({ i: idx, total }) : b);
+  slides.push(banner());   // always last, so it never shifts the numbering above
 
   const only = new URLSearchParams(location.search).get('s');   // ?s=2 -> render only slide 2
   if (only) document.body.style.padding = '0';
@@ -192,7 +218,7 @@
     const n = idx + 1;
     if (only && String(n) !== only) return;
     if (!only) document.body.insertAdjacentHTML('beforeend', `<p class="label">Ảnh ${n} · ${esc(s.label)}</p>`);
-    document.body.insertAdjacentHTML('beforeend', `<section class="slide" id="s${n}">${s.html}</section>`);
+    document.body.insertAdjacentHTML('beforeend', `<section class="slide${s.wide ? ' wide' : ''}" id="s${n}">${s.html}</section>`);
   });
 })();
 </script>

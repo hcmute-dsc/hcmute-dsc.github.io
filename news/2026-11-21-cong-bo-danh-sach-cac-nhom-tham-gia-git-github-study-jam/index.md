@@ -9,7 +9,7 @@ tags:
     permalink: /git-github
   - label: "Study Jam"
     permalink: /study-jam
-image: ./img-1.webp
+image: ./cover.webp
 description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia Git & GitHub Study Jam với tổng số 22 bạn sinh viên. Cùng xem thông tin chương trình và danh sách các nhóm nhé!"
 ---
 
