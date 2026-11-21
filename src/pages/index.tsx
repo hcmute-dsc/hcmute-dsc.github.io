@@ -9,6 +9,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import ClubIntro from '@site/src/components/ClubIntro';
 import SiteLinks from '@site/src/components/SiteLinks';
 import AnniversaryHighlight from '@site/src/components/AnniversaryHighlight';
+import FeaturedEvent from '@site/src/components/FeaturedEvent';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope, faGlobe } from '@fortawesome/free-solid-svg-icons'
@@ -69,6 +70,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <FeaturedEvent />
         <SiteLinks />
         <AnniversaryHighlight />
         <ClubIntro />

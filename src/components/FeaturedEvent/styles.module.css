@@ -1,0 +1,142 @@
+.section {
+  padding: 3rem 0 1rem;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+  background: radial-gradient(900px 500px at 100% 0%, #14275c, #0d1c44);
+  color: #f3efe6;
+  box-shadow: 0 20px 50px rgb(13 28 68 / 25%);
+}
+
+.kicker {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ifm-color-primary-light);
+}
+
+.title {
+  margin: 0.9rem 0 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  line-height: 1.1;
+  color: #fff;
+}
+
+.title span {
+  color: var(--ifm-color-primary-light);
+}
+
+.lead {
+  max-width: 34rem;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: rgb(243 239 230 / 82%);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.primary,
+.secondary {
+  border-radius: 999px;
+  font-size: 0.95rem;
+}
+
+.primary {
+  border: 0;
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.primary:hover {
+  background: #fff;
+  color: #0d1c44;
+}
+
+.secondary {
+  border: 1px solid rgb(255 255 255 / 35%);
+  background: transparent;
+  color: #fff;
+}
+
+.secondary:hover {
+  border-color: #fff;
+  color: #fff;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2rem 0 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgb(255 255 255 / 15%);
+}
+
+.stats div {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.stats dt {
+  font-size: 0.78rem;
+  font-weight: 400;
+  color: rgb(243 239 230 / 60%);
+}
+
+.stats dd {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #fff;
+}
+
+.media {
+  display: block;
+  overflow: hidden;
+  border-radius: 1rem;
+  box-shadow: 0 12px 30px rgb(0 0 0 / 35%);
+  transition: transform 0.2s ease;
+}
+
+.media:hover {
+  transform: translateY(-3px);
+}
+
+.media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 996px) {
+  .card {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 1.5rem;
+  }
+
+  .media {
+    order: -1;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
