@@ -14,14 +14,14 @@ window.STUDY_JAM = {
     tag: 'STUDY JAM',                       // chữ nhỏ góc phải, kèm số trang (vd "STUDY JAM · 2/5")
     org: 'HCMUTE Developer Student Club',
     fb: 'fb.com/hcmute.dsc',
-    footer: '**HCMUTE DSC** · Git & GitHub Study Jam',
+    footer: '**HCMUTE DSC** · Git & GitHub Study Jam 2026',
     logo: '../../static/img/logo/hcmute-dsc-logo-dark.png',
   },
 
   // Ảnh 1 · Bìa
   cover: {
     tag: 'THÔNG BÁO',
-    title: ['GIT & GITHUB', 'STUDY JAM'],   // dòng 2 màu cam
+    title: ['GIT & GITHUB', 'STUDY JAM 2026'],   // dòng 2 màu cam
     lead: 'Danh sách **chính thức** các nhóm tham gia chương trình.',
     teamsLabel: 'nhóm tham gia',
     studentsLabel: 'bạn sinh viên',

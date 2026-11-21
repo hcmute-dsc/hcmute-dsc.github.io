@@ -1,5 +1,5 @@
 ---
-title: "GIT & GITHUB STUDY JAM | Công bố danh sách các nhóm tham gia"
+title: "GIT & GITHUB STUDY JAM 2026 | Công bố danh sách các nhóm tham gia"
 date: 2026-11-21
 category: thong-bao
 tags:
@@ -10,16 +10,16 @@ tags:
   - label: "Study Jam"
     permalink: /study-jam
 image: ./cover.webp
-description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia Git & GitHub Study Jam với tổng số 22 bạn sinh viên. Cùng xem thông tin chương trình và danh sách các nhóm nhé!"
+description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia Git & GitHub Study Jam 2026 với tổng số 22 bạn sinh viên. Cùng xem thông tin chương trình và danh sách các nhóm nhé!"
 ---
 
-\[GIT & GITHUB STUDY JAM | CÔNG BỐ DANH SÁCH CÁC NHÓM THAM GIA\]
+\[GIT & GITHUB STUDY JAM 2026 | CÔNG BỐ DANH SÁCH CÁC NHÓM THAM GIA\]
 
-🎉 Sau thời gian đăng ký, HCMUTE Developer Student Club ghi nhận có **5 nhóm** tham gia chương trình **Git & GitHub Study Jam** với tổng số **22 bạn sinh viên**.
+🎉 Sau thời gian đăng ký, HCMUTE Developer Student Club ghi nhận có **5 nhóm** tham gia chương trình **Git & GitHub Study Jam 2026** với tổng số **22 bạn sinh viên**.
 
 <!--truncate-->
 
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (1)](./img-1.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (1)](./img-1.webp)
 
 🙌 CLB xin gửi lời cảm ơn chân thành đến tất cả các bạn đã quan tâm và đăng ký tham gia chương trình.
 
@@ -90,10 +90,10 @@ Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thôn
 
 <div className="news-gallery">
 
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (2)](./img-2.webp)
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (3)](./img-3.webp)
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (4)](./img-4.webp)
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (5)](./img-5.webp)
-![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (6)](./img-6.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (2)](./img-2.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (3)](./img-3.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (4)](./img-4.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (5)](./img-5.webp)
+![Git & GitHub Study Jam 2026 | Công bố danh sách các nhóm tham gia (6)](./img-6.webp)
 
 </div>
