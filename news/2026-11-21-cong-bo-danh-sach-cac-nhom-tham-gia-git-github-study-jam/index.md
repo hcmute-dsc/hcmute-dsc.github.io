@@ -74,6 +74,14 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
 - Huỳnh Thị Hoài Phương
 - Phan Gia Hân
 
+### 🎓 Đội ngũ mentor
+
+Đồng hành cùng các nhóm trong suốt chương trình:
+
+- Võ Trần Minh Quân
+- Võ Hoàng Tú
+- Huỳnh Trang
+
 🚀 Chúc các nhóm có thật nhiều niềm vui, học được nhiều điều bổ ích và cùng nhau hoàn thành thật tốt chương trình. Hãy theo dõi fanpage và máy chủ Discord của CLB để cập nhật những thông tin tiếp theo nhé!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -86,5 +94,6 @@ Mọi ý kiến đóng góp, các bạn có thể liên hệ trực tiếp thôn
 ![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (3)](./img-3.webp)
 ![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (4)](./img-4.webp)
 ![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (5)](./img-5.webp)
+![Git & GitHub Study Jam | Công bố danh sách các nhóm tham gia (6)](./img-6.webp)
 
 </div>
