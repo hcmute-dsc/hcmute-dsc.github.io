@@ -26,11 +26,11 @@ export default function FeaturedEvent(): JSX.Element | null {
               <Link className={clsx('button button--lg', styles.primary)} to={primary.to}>
                 {primary.label}
               </Link>
-              {secondary && (
-                <Link className={clsx('button button--lg', styles.secondary)} to={secondary.to}>
-                  {secondary.label}
+              {secondary?.map((s) => (
+                <Link key={s.to} className={clsx('button button--lg', styles.secondary)} to={s.to}>
+                  {s.label}
                 </Link>
-              )}
+              ))}
             </div>
             <dl className={styles.stats}>
               {stats.map((s) => (

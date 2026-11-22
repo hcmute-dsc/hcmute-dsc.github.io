@@ -19,7 +19,8 @@ export interface FeaturedEvent {
   imageAlt: string;
   stats: { label: string; value: string }[];
   primary: { label: string; to: string };
-  secondary?: { label: string; to: string };
+  /** Extra outline buttons, shown after the primary one. */
+  secondary?: { label: string; to: string }[];
 }
 
 export const FEATURED_EVENT: FeaturedEvent | null = {
@@ -42,8 +43,8 @@ export const FEATURED_EVENT: FeaturedEvent | null = {
     label: 'Xem danh sách các nhóm',
     to: '/news/2026/11/21/cong-bo-danh-sach-cac-nhom-tham-gia-git-github-study-jam',
   },
-  secondary: {
-    label: 'Thể lệ chương trình',
-    to: 'https://mentoring.hcmute-dsc.io.vn/git-github-rules/',
-  },
+  secondary: [
+    { label: 'Xem lại buổi kick-off', to: 'https://youtu.be/xnzdZfYWrTk' },
+    { label: 'Thể lệ chương trình', to: 'https://mentoring.hcmute-dsc.io.vn/git-github-rules/' },
+  ],
 };

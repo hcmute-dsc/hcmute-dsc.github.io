@@ -62,7 +62,7 @@ window.STUDY_JAM = {
     leaderLabel: '👑 Nhóm trưởng',
     perSlide: 2,
     list: [
-      { name: 'Nhóm 1', leader: 'Trần Phương Trang', members: ['Võ Chí Thành', 'Nguyễn Trương Phương Vy', 'Lê Ngọc Tú', 'Nguyễn Ngọc Ánh Sương'] },
+      { name: 'fastlearning', leader: 'Trần Phương Trang', members: ['Võ Chí Thành', 'Nguyễn Trương Phương Vy', 'Lê Ngọc Tú', 'Nguyễn Ngọc Ánh Sương'] },
       { name: 'Côn Đò Trên Con Đồ', leader: 'Võ Đông Phúc', members: ['Nguyễn Trọng Khiêm', 'Lương Hoàng Nhất Lâm'] },
       { name: 'Đi code dạo', leader: 'Nguyễn Ngọc Thịnh', members: ['Đỗ Đăng Anh Đức', 'Nguyễn Đăng Khôi', 'Nguyễn Thái Nam'] },
       { name: 'CODE TOÀN BUG', leader: 'Ngô Thanh Vĩnh Hưng', members: ['Nguyễn Tô Mỹ Trà', 'Nguyễn Bá Huân', 'Lê Anh Khoa', 'Huỳnh Trung Trí Kiên'] },

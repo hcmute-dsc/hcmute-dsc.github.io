@@ -34,7 +34,7 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
 ### 📌 Thông tin chương trình
 
 - 📅 **Thời gian:** 22/11/2026 – 13/12/2026, bế mạc dự kiến ngày 20/12/2026.
-- 🚀 **Kick-off:** ngày 22/11/2026, công bố nhiệm vụ tuần đầu tiên. Khung giờ cụ thể sẽ được thông báo trên Discord của CLB.
+- 🚀 **Kick-off:** buổi kick-off diễn ra vào tối 22/11/2026, công bố nhiệm vụ tuần đầu tiên. Xem lại video buổi kick-off tại: https://youtu.be/xnzdZfYWrTk
 - 👥 **Hình thức:** làm việc nhóm (3 – 5 thành viên), hoàn thành các nhiệm vụ theo tuần để tính điểm và họp online hằng tuần để theo dõi tiến độ.
 - 🎁 **Quyền lợi:** các nhóm hoàn thành chương trình nhận giấy chứng nhận. Cơ cấu giải thưởng gồm:
   - 🥇 1 giải Nhất: 500.000 đồng
@@ -45,7 +45,7 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
 
 ### 👥 Danh sách các nhóm
 
-#### Nhóm 1
+#### fastlearning
 
 - 👑 Nhóm trưởng: Trần Phương Trang
 - Võ Chí Thành
