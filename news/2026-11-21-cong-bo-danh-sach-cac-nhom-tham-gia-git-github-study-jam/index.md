@@ -43,6 +43,17 @@ description: "Sau thời gian đăng ký, HCMUTE DSC ghi nhận 5 nhóm tham gia
   - Các nhóm còn lại nhận giải Khuyến khích, mỗi giải trị giá 100.000 đồng
 - 📖 **Thể lệ chi tiết:** https://mentoring.hcmute-dsc.io.vn/git-github-rules/
 
+### 🎬 Buổi kick-off
+
+Tối 22/11/2026, các nhóm đã cùng gặp mặt online trong buổi kick-off của chương trình. Bạn nào chưa kịp tham gia có thể xem lại video tại đây: https://youtu.be/xnzdZfYWrTk
+
+<div className="news-gallery">
+
+![Buổi kick-off Git & GitHub Study Jam 2026 (1)](./kickoff-1.webp)
+![Buổi kick-off Git & GitHub Study Jam 2026 (2)](./kickoff-2.webp)
+
+</div>
+
 ### 👥 Danh sách các nhóm
 
 #### fastlearning
