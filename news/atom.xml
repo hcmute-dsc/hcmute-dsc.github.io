@@ -301,18 +301,6 @@
         <category label="InterviewPrep101" term="InterviewPrep101"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Record buổi 2 | SQL challenge 2026]]></title>
-        <id>https://hcmute-dsc.io.vn/news/2026/05/31/record-buoi-2-sql-challenge-2026</id>
-        <link href="https://hcmute-dsc.io.vn/news/2026/05/31/record-buoi-2-sql-challenge-2026"/>
-        <updated>2026-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo Nội dung buổi 2: SQL…]]></summary>
-        <content type="html"><![CDATA[<p>[<!-- -->RECORD BUỔI 2 | SQL CHALLENGE 2026<!-- -->]<!-- --> Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo 📚 Nội dung buổi 2:<br>
-<!-- -->📌 SQL Query Execution Order 📌 PostgreSQL EXPLAIN ANALYZE và Query Plan 👨‍🏫 Speaker: Anh Nguyễn Huỳnh Minh Tiến 📚 Tài liệu: <a href="https://drive.google.com/drive/folders/1uRe_u4s9rLpjI42cDVj9e0Oa4YUXmA9A" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/1uRe_u4s9rLpjI42cDVj9e0Oa4YUXmA9A</a></p><p>_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_</p><p>#<!-- -->DSC #HCMUTEDeveloperStudentClubs #HCMUTE<!-- -->_<!-- -->DSC #SQL #SQL<!-- -->_<!-- -->CHALLENGE</p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
-        <category label="Sự kiện & cuộc thi" term="Sự kiện & cuộc thi"/>
-        <category label="SQL" term="SQL"/>
-        <category label="Recap" term="Recap"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[InterviewPrep101 - Part 10 | Java Spring]]></title>
         <id>https://hcmute-dsc.io.vn/news/2026/05/31/interviewprep101-part-10-java-spring</id>
         <link href="https://hcmute-dsc.io.vn/news/2026/05/31/interviewprep101-part-10-java-spring"/>
@@ -336,6 +324,18 @@
         <category label="Chia sẻ kiến thức" term="Chia sẻ kiến thức"/>
         <category label="InterviewPrep101" term="InterviewPrep101"/>
         <category label="Nghề nghiệp & doanh nghiệp" term="Nghề nghiệp & doanh nghiệp"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record buổi 2 | SQL challenge 2026]]></title>
+        <id>https://hcmute-dsc.io.vn/news/2026/05/31/record-buoi-2-sql-challenge-2026</id>
+        <link href="https://hcmute-dsc.io.vn/news/2026/05/31/record-buoi-2-sql-challenge-2026"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo Nội dung buổi 2: SQL…]]></summary>
+        <content type="html"><![CDATA[<p>[<!-- -->RECORD BUỔI 2 | SQL CHALLENGE 2026<!-- -->]<!-- --> Tiếp nối SQL Challenge, HCMUTE DSC xin chia sẻ video record buổi 2 và tài liệu của buổi sinh hoạt để các bạn quan tâm đến SQL có thêm nguồn tài liệu tham khảo 📚 Nội dung buổi 2:<br>
+<!-- -->📌 SQL Query Execution Order 📌 PostgreSQL EXPLAIN ANALYZE và Query Plan 👨‍🏫 Speaker: Anh Nguyễn Huỳnh Minh Tiến 📚 Tài liệu: <a href="https://drive.google.com/drive/folders/1uRe_u4s9rLpjI42cDVj9e0Oa4YUXmA9A" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/1uRe_u4s9rLpjI42cDVj9e0Oa4YUXmA9A</a></p><p>_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_<!-- -->_</p><p>#<!-- -->DSC #HCMUTEDeveloperStudentClubs #HCMUTE<!-- -->_<!-- -->DSC #SQL #SQL<!-- -->_<!-- -->CHALLENGE</p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
+        <category label="Sự kiện & cuộc thi" term="Sự kiện & cuộc thi"/>
+        <category label="SQL" term="SQL"/>
+        <category label="Recap" term="Recap"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[InterviewPrep101 - Part 9 | Python]]></title>
@@ -786,27 +786,6 @@
         <category label="Study Jam" term="Study Jam"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo!]]></title>
-        <id>https://hcmute-dsc.io.vn/news/2025/11/19/chia-se-kham-pha-the-gioi-api-canh-cua-mo-ra-khong-gioi-han</id>
-        <link href="https://hcmute-dsc.io.vn/news/2025/11/19/chia-se-kham-pha-the-gioi-api-canh-cua-mo-ra-khong-gioi-han"/>
-        <updated>2025-11-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chào các bạn đam mê công nghệ! Bạn có bao giờ tự hỏi làm thế nào các ứng dụng yêu thích của chúng ta lại có thể "nói chuyện" với nhau và lấy dữ liệu từ khắp mọi nơi không? Câu trả…]]></summary>
-        <content type="html"><![CDATA[<p>[<!-- -->CHIA SẺ: KHÁM PHÁ THẾ GIỚI API - CÁNH CỬA MỞ RA KHÔNG GIỚI HẠN SÁNG TẠO!<!-- -->]</p><p>Chào các bạn đam mê công nghệ!</p><p><img loading="lazy" alt="Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo!" src="/assets/images/img-1-94e3a662d40e61381562042aa6c2e92a.webp" width="1280" height="960" class="img_ev3q"></p><p>🧐 Bạn có bao giờ tự hỏi làm thế nào các ứng dụng yêu thích của chúng ta lại có thể "nói chuyện" với nhau và lấy dữ liệu từ khắp mọi nơi không? Câu trả lời chính là API (Application Programming Interface) – những "cây cầu" kết nối và mở ra kho tàng dữ liệu khổng lồ cho các nhà phát triển!<br>
-<!-- -->😎 Hôm nay, HCM UTE Developer Student Club sẽ cùng các bạn khám phá một số API thú vị và cực kỳ hữu ích mà mọi lập trình viên (hoặc bất kỳ ai muốn tìm hiểu về phát triển ứng dụng) đều nên biết!<br>
-<!-- -->💁‍♂️ Dưới đây là một vài cái tên nổi bật và ứng dụng của chúng:<br>
-<!-- -->👉OpenWeather API / OpenWeatherMap API &amp; WeatherAPI: Cung cấp thông tin để biết ngay thời tiết hiện tại, dự báo hay thậm chí cả chỉ số chất lượng không khí (AQI)! Tích hợp vào app của bạn để tạo ra tính năng dự báo thời tiết siêu tiện lợi.<br>
-<!-- -->REST Countries API: Cần thông tin về một quốc gia nào đó? Từ dân số, GDP đến quốc kỳ, API này sẽ cung cấp những thông tin cần thiết!<br>
-<!-- -->👉 News API / NewsAPI: Luôn cập nhật tin tức nóng hổi từ các báo lớn, lọc theo chủ đề bạn quan tâm. Xây dựng một ứng dụng đọc báo cá nhân chưa bao giờ dễ đến thế!<br>
-<!-- -->👉 Cat Facts / Dog API: Thư giãn với những "fact" hài hước và hình ảnh đáng yêu của mèo/chó. Thích hợp để tạo các tính năng giải trí vui nhộn!<br>
-<!-- -->👉 Open Library API / OpenLibrary API: Kho tàng thông tin về sách, tác giả, ISBN. Tuyệt vời cho các dự án quản lý thư viện hoặc ứng dụng gợi ý sách.<br>
-<!-- -->👉 Unsplash API: Truy cập kho ảnh chất lượng cao, miễn phí bản quyền để làm đẹp cho mọi dự án của bạn.<br>
-<!-- -->👉 Spotify Web API: Lấy siêu dữ liệu nhạc, playlist, album để tạo ra các ứng dụng nghe nhạc, phân tích âm nhạc độc đáo.<br>
-<!-- -->👉 TMDB API (The Movie Database): Nguồn thông tin khổng lồ về phim, TV show và người nổi tiếng. Xây dựng ứng dụng quản lý phim yêu thích của bạn!<br>
-<!-- -->👉 NASA APIs: Khám phá vũ trụ với dữ liệu ảnh vệ tinh, thông tin về hành tinh của NASA. Mang cả dải ngân hà vào ứng dụng của bạn!<br>
-<!-- -->Và còn rất nhiều API khác như Public APIs, Shibe.online API (tổng hợp hàng trăm API miễn phí theo chủ đề), JSONPlaceholder &amp; REQRES API (Fake API để test và xây dựng giao diện người dùng), IPify API (lấy địa chỉ IP), JokeAPI (câu đùa), Petfinder API (nhận nuôi thú cưng), hay Anime News Network API &amp; Jikan API (dữ liệu về anime)!</p><p>🤩 Bạn đã sẵn sàng để thử nghiệm và tạo ra những dự án công nghệ của riêng mình chưa? Hãy comment phía dưới API nào khiến bạn hứng thú nhất nhé!</p><p>#<!-- -->HCMUTE<!-- -->_<!-- -->DSC #Developer<!-- -->_<!-- -->Student<!-- -->_<!-- -->Club #DSCShare</p><div class="news-gallery"><p><img loading="lazy" alt="Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo! (2)" src="/assets/images/img-2-1c14abc2b34c86c125ef3aaf0e14d55d.webp" width="1280" height="960" class="img_ev3q"></p></div><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
-        <category label="Đời sống CLB" term="Đời sống CLB"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cập nhật: Gemini 3 đã ra mắt]]></title>
         <id>https://hcmute-dsc.io.vn/news/2025/11/19/cap-nhat-gemini-3-da-ra-mat</id>
         <link href="https://hcmute-dsc.io.vn/news/2025/11/19/cap-nhat-gemini-3-da-ra-mat"/>
@@ -828,6 +807,27 @@
 <!-- -->◦ Gemini 3 cải thiện khả năng lập kế hoạch dài hạn và sử dụng công cụ nhất quán, giúp thực hiện các quy trình làm việc phức tạp, nhiều bước, chẳng hạn như tổ chức hộp thư đến Gmail hoặc sắp xếp lịch trình.</p><p>Thử nghiệm ngay: Cộng đồng người dùng Việt Nam hiện đã có thể trải nghiệm Gemini 3 Pro trong Google AI Studio.</p><p>#<!-- -->Gemini3 #GoogleAI #AGI #VibeCoding #AIStudio #HCMUTE<!-- -->_<!-- -->DSC #Developer<!-- -->_<!-- -->Student<!-- -->_<!-- -->Club #DSCNews</p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
         <category label="Chia sẻ kiến thức" term="Chia sẻ kiến thức"/>
         <category label="AI" term="AI"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo!]]></title>
+        <id>https://hcmute-dsc.io.vn/news/2025/11/19/chia-se-kham-pha-the-gioi-api-canh-cua-mo-ra-khong-gioi-han</id>
+        <link href="https://hcmute-dsc.io.vn/news/2025/11/19/chia-se-kham-pha-the-gioi-api-canh-cua-mo-ra-khong-gioi-han"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chào các bạn đam mê công nghệ! Bạn có bao giờ tự hỏi làm thế nào các ứng dụng yêu thích của chúng ta lại có thể "nói chuyện" với nhau và lấy dữ liệu từ khắp mọi nơi không? Câu trả…]]></summary>
+        <content type="html"><![CDATA[<p>[<!-- -->CHIA SẺ: KHÁM PHÁ THẾ GIỚI API - CÁNH CỬA MỞ RA KHÔNG GIỚI HẠN SÁNG TẠO!<!-- -->]</p><p>Chào các bạn đam mê công nghệ!</p><p><img loading="lazy" alt="Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo!" src="/assets/images/img-1-94e3a662d40e61381562042aa6c2e92a.webp" width="1280" height="960" class="img_ev3q"></p><p>🧐 Bạn có bao giờ tự hỏi làm thế nào các ứng dụng yêu thích của chúng ta lại có thể "nói chuyện" với nhau và lấy dữ liệu từ khắp mọi nơi không? Câu trả lời chính là API (Application Programming Interface) – những "cây cầu" kết nối và mở ra kho tàng dữ liệu khổng lồ cho các nhà phát triển!<br>
+<!-- -->😎 Hôm nay, HCM UTE Developer Student Club sẽ cùng các bạn khám phá một số API thú vị và cực kỳ hữu ích mà mọi lập trình viên (hoặc bất kỳ ai muốn tìm hiểu về phát triển ứng dụng) đều nên biết!<br>
+<!-- -->💁‍♂️ Dưới đây là một vài cái tên nổi bật và ứng dụng của chúng:<br>
+<!-- -->👉OpenWeather API / OpenWeatherMap API &amp; WeatherAPI: Cung cấp thông tin để biết ngay thời tiết hiện tại, dự báo hay thậm chí cả chỉ số chất lượng không khí (AQI)! Tích hợp vào app của bạn để tạo ra tính năng dự báo thời tiết siêu tiện lợi.<br>
+<!-- -->REST Countries API: Cần thông tin về một quốc gia nào đó? Từ dân số, GDP đến quốc kỳ, API này sẽ cung cấp những thông tin cần thiết!<br>
+<!-- -->👉 News API / NewsAPI: Luôn cập nhật tin tức nóng hổi từ các báo lớn, lọc theo chủ đề bạn quan tâm. Xây dựng một ứng dụng đọc báo cá nhân chưa bao giờ dễ đến thế!<br>
+<!-- -->👉 Cat Facts / Dog API: Thư giãn với những "fact" hài hước và hình ảnh đáng yêu của mèo/chó. Thích hợp để tạo các tính năng giải trí vui nhộn!<br>
+<!-- -->👉 Open Library API / OpenLibrary API: Kho tàng thông tin về sách, tác giả, ISBN. Tuyệt vời cho các dự án quản lý thư viện hoặc ứng dụng gợi ý sách.<br>
+<!-- -->👉 Unsplash API: Truy cập kho ảnh chất lượng cao, miễn phí bản quyền để làm đẹp cho mọi dự án của bạn.<br>
+<!-- -->👉 Spotify Web API: Lấy siêu dữ liệu nhạc, playlist, album để tạo ra các ứng dụng nghe nhạc, phân tích âm nhạc độc đáo.<br>
+<!-- -->👉 TMDB API (The Movie Database): Nguồn thông tin khổng lồ về phim, TV show và người nổi tiếng. Xây dựng ứng dụng quản lý phim yêu thích của bạn!<br>
+<!-- -->👉 NASA APIs: Khám phá vũ trụ với dữ liệu ảnh vệ tinh, thông tin về hành tinh của NASA. Mang cả dải ngân hà vào ứng dụng của bạn!<br>
+<!-- -->Và còn rất nhiều API khác như Public APIs, Shibe.online API (tổng hợp hàng trăm API miễn phí theo chủ đề), JSONPlaceholder &amp; REQRES API (Fake API để test và xây dựng giao diện người dùng), IPify API (lấy địa chỉ IP), JokeAPI (câu đùa), Petfinder API (nhận nuôi thú cưng), hay Anime News Network API &amp; Jikan API (dữ liệu về anime)!</p><p>🤩 Bạn đã sẵn sàng để thử nghiệm và tạo ra những dự án công nghệ của riêng mình chưa? Hãy comment phía dưới API nào khiến bạn hứng thú nhất nhé!</p><p>#<!-- -->HCMUTE<!-- -->_<!-- -->DSC #Developer<!-- -->_<!-- -->Student<!-- -->_<!-- -->Club #DSCShare</p><div class="news-gallery"><p><img loading="lazy" alt="Chia sẻ: Khám phá thế giới API - cánh cửa mở ra không giới hạn sáng tạo! (2)" src="/assets/images/img-2-1c14abc2b34c86c125ef3aaf0e14d55d.webp" width="1280" height="960" class="img_ev3q"></p></div><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
+        <category label="Đời sống CLB" term="Đời sống CLB"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Đăng ký tham gia chương trình: “Git & GitHub Study Jam 2025”]]></title>
@@ -1345,15 +1345,6 @@
         <category label="Sự kiện & cuộc thi" term="Sự kiện & cuộc thi"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DSCCareerConnect [FSOFT HCM] - Vị trí: Junior Automation Tester: - Hạn ứng tuyển: 31 August, 2025 - Link:…]]></title>
-        <id>https://hcmute-dsc.io.vn/news/2025/08/25/dsccareerconnect-fsoft-hcm-vi-tri-junior-automation-tester-h</id>
-        <link href="https://hcmute-dsc.io.vn/news/2025/08/25/dsccareerconnect-fsoft-hcm-vi-tri-junior-automation-tester-h"/>
-        <updated>2025-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/]]></summary>
-        <content type="html"><![CDATA[<p>#<!-- -->DSCCareerConnect <!-- -->[<!-- -->FSOFT HCM<!-- -->]<!-- --> - Vị trí:<strong> Junior Automation Tester: </strong> - Hạn ứng tuyển: 31 August, 2025 - Link: <a href="https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/" target="_blank" rel="noopener noreferrer">https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/</a></p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
-        <category label="Chia sẻ kiến thức" term="Chia sẻ kiến thức"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DSC Career Connect]]></title>
         <id>https://hcmute-dsc.io.vn/news/2025/08/25/dsc-career-connect</id>
         <link href="https://hcmute-dsc.io.vn/news/2025/08/25/dsc-career-connect"/>
@@ -1369,6 +1360,15 @@
 <!-- -->*<!-- --> Tạo bàn đạp cho sự nghiệp IT ngay từ khi còn là sinh viên</p><p>#<!-- -->DSCCareerConnect #KMSFresher #SinhVienCNTT #ITCareers #KMSCareers #KetNoiDoanhNghiep</p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
         <category label="Chia sẻ kiến thức" term="Chia sẻ kiến thức"/>
         <category label="Nghề nghiệp & doanh nghiệp" term="Nghề nghiệp & doanh nghiệp"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSCCareerConnect [FSOFT HCM] - Vị trí: Junior Automation Tester: - Hạn ứng tuyển: 31 August, 2025 - Link:…]]></title>
+        <id>https://hcmute-dsc.io.vn/news/2025/08/25/dsccareerconnect-fsoft-hcm-vi-tri-junior-automation-tester-h</id>
+        <link href="https://hcmute-dsc.io.vn/news/2025/08/25/dsccareerconnect-fsoft-hcm-vi-tri-junior-automation-tester-h"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/]]></summary>
+        <content type="html"><![CDATA[<p>#<!-- -->DSCCareerConnect <!-- -->[<!-- -->FSOFT HCM<!-- -->]<!-- --> - Vị trí:<strong> Junior Automation Tester: </strong> - Hạn ứng tuyển: 31 August, 2025 - Link: <a href="https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/" target="_blank" rel="noopener noreferrer">https://fsoft-academy.edu.vn/recruitment/hcm-junior-automation-tester/</a></p><hr><p><em>Bài viết được lưu trữ từ <a href="https://www.facebook.com/hcmute.dsc" target="_blank" rel="noopener noreferrer">fanpage HCMUTE Developer Student Club</a>.</em></p>]]></content>
+        <category label="Chia sẻ kiến thức" term="Chia sẻ kiến thức"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Khảo sát hoạt động 2024 - 2025]]></title>
