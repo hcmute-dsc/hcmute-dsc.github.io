@@ -7,9 +7,9 @@
     "message": "HCMUTE DSC",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Tutorial": {
-    "message": "Tutorial",
-    "description": "Navbar item with label Tutorial"
+  "item.label.Learning Hub": {
+    "message": "Learning Hub",
+    "description": "Navbar item with label Learning Hub"
   },
   "item.label.Blog": {
     "message": "Blog",

@@ -1,5 +1,7 @@
 const { githubUrl, subsites } = require('./site');
 
+const learningHubUrl = subsites.find((s) => s.label === 'Learning Hub').href;
+
 /** @type {import('@docusaurus/preset-classic').ThemeConfig['navbar']} */
 module.exports = {
   logo: {
@@ -9,12 +11,8 @@ module.exports = {
     height: 32,
   },
   items: [
-    {
-      type: 'docSidebar',
-      sidebarId: 'tutorialSidebar',
-      position: 'left',
-      label: 'Tutorial',
-    },
+    // Courses now live on the Learning Hub, so the old docs sidebar is no longer in the navbar
+    { href: learningHubUrl, label: 'Learning Hub', position: 'left' },
     {
       type: 'dropdown',
       label: 'Hoạt động',
